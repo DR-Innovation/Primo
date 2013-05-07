@@ -1,0 +1,15 @@
+.NEWSearchFieldRibbonNewSearchLink a {
+	background: url("http://primo.rasmusdamberg.dk/images/nulstil.gif") no-repeat scroll transparent;
+	background-position: center center;
+	cursor: pointer;
+	display: -moz-inline-stack;
+	display: inline-block;
+	zoom:1;
+	*display:inline;	
+	height: 20px;
+	width: 20px;
+	font-size: 0px;
+	color: transparent;
+	margin: 0 50px 25px 0 !important;
+	z-index: 99999
+}

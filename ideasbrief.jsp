@@ -1,0 +1,1 @@
+<!-- (${param.resultCount})[${param.query}] --> 

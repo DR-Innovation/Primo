@@ -1,0 +1,268 @@
+/*-------------Primo custom DR CSS-------------*/
+
+/* Global styles */
+a {
+	color: #4074d4;
+}
+.container {
+	width: 1026px;
+	margin: 0 auto;
+}
+
+.header {
+	background: #dfdfdf;
+	height: 68px;
+	border-bottom: 1px solid #cacaca;
+}
+.logo {
+	padding: 12px 0 0 20px;
+	float: left;
+}
+.nav {
+	float: left;
+}
+.nav ul {
+	margin: 42px 0 0 45px;
+}
+.nav li {
+	float: left;
+	list-style: none;
+	margin: 0 20px 0 0;
+}
+.nav li a {
+	color: #474747;
+	font-size: 14px;
+	text-decoration: none;
+}
+.help {
+	background: #f15d3a;
+	float: left;
+	-moz-border-radius: 2px;
+	border-radius: 2px;
+	font-size: 14px;
+	font-weight: bold;
+	color: #fff;
+	line-height: 21px;
+	padding: 0 10px;
+	margin: 40px 0 0 20px;
+}
+.main {
+	border-left: 1px solid #e5e5e5;
+	border-right: 1px solid #e5e5e5;
+	height:auto !important;
+	min-height:100%;
+}
+
+/* Frontpage styles */
+.searchbox {
+	padding: 32px 0 32px 120px;
+	border-bottom: 1px solid #e5e5e5;
+}
+.searchbox .searchfield input {
+	background: url('../images/front-search-bg.gif') no-repeat;
+	color: #333333;
+	width: 603px;
+	height: 33px;
+	line-height: 33px;
+	font-size: 16px;
+	float: left;
+	padding: 0 0 0 12px;
+}
+.searchbox .searchbtn input {
+	background: url('../images/front-search-btn.gif') no-repeat;
+	float: left;
+	width: 55px;
+	height: 33px;
+	cursor: pointer;
+	margin: 0 10px 0 0;
+}
+.searchbox .searchexpand a {
+	float: left;
+	width: 106px;
+	height: 32px;
+	line-height: 32px;
+	text-align: center;
+	text-decoration: none;
+	display: block;
+	border: 1px solid #c0c1c1;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	font-size: 14px;
+}
+
+.spot {
+	padding: 32px 0 32px 120px;
+	border-bottom: 1px solid #e5e5e5;
+}
+.spot h1 {
+	color: #474747;
+	font-size: 23px;
+	margin: 0 0 12px 6px;
+}
+.spot .box {
+	width: 181px;
+	float: left;
+	margin: 0 20px 0 0;
+}
+.spot .box img {
+	border: 1px solid #000;
+}
+.spot .box h3 {
+	color: #666666;
+	font-size: 16px;
+	font-weight: bold;
+	margin: 6px 0 3px 0;
+}
+.spot .box p {
+	color: #666666;
+	font-size: 12px;
+}
+.spot .box a {
+	text-decoration: underline;
+}
+
+/* Resultlist page styles */
+.mainfilter {
+	width: 239px;
+	float: left;
+	border-right: 1px solid #e5e5e5;
+	height: auto !important;
+	min-height: 100%;
+}
+.mainresult {
+	width: 784px;
+	float: left;
+}
+
+/* Static styles */
+.static {
+	padding: 50px 120px 0 120px;
+}
+.static h1 {
+	color: #474747;
+	margin: 0 0 18px 0;
+}
+.static p {
+	margin: 0 0 16px 0;
+	line-height: 21px;
+}
+.static ul {
+	margin: 0 0 0 40px;
+}
+
+.mailform input, .mailform textarea {
+	border: 1px solid #bcbdbd;
+	-moz-box-shadow: 0 0 4px #b8b8b8;
+	-webkit-box-shadow: 0 0 4px#b8b8b8;
+	box-shadow: 0 0 4px #b8b8b8;
+	display: block;
+	font-size: 12px;
+	color: #383838;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	padding: 7px 8px;
+	margin: 5px 0 20px 0;
+}
+.mailform input {
+	width: 200px;
+}
+.mailform textarea {
+	width: 400px;
+}
+.mailform label {
+	font-size: 14px;
+}
+.mailform input[type=submit] {
+	background: #5798f7;
+	border: 1px solid #508ce3;
+	color: #fff;
+	font-weight: bold;
+	font-size: 16px;
+	cursor: pointer;
+	-moz-box-shadow:none;
+	-webkit-box-shadow:none;
+	box-shadow: none;
+}
+
+p.error, p.success {
+	font-weight: bold;
+	padding: 10px;
+	border: 1px solid;
+}
+p.error {
+	background: #ffc0c0;
+	color: #900;
+}
+p.success {
+	background: #b3ff69;
+	color: #4fa000;
+}
+
+
+/* Footer styles */
+.footer {
+	background: #e7e7e7;
+	border-top: 1px solid #cacaca;
+	height: 256px;
+}
+.footer .box {
+	float: left;
+	width: 188px;
+	height: 236px;
+	border-right: 1px solid #d8d8d8;
+	padding: 20px 0 0 16px;
+}
+.footer .last {
+	border-right: none;
+}
+.footer h3 {
+	font-size: 14px;
+	font-weight: bold;
+	text-transform: uppercase;
+	color: #666666;
+	margin: 0 0 8px 0;
+}
+.footer p {
+	color: #666666;
+	font-size: 13px;
+	margin: 0 0 12px 0;
+	line-height: 18px;
+}
+.footer span {
+	line-height: 20px;
+}
+.footer span img {
+	margin: 0;
+}
+.footer span a {
+	display: block;
+	font-size: 13px;
+	color: #666666;
+	text-decoration: none;
+}
+.footer span.external {
+	background: url('../images/external.gif') right no-repeat;
+}
+
+
+
+.clearfix:after {
+	content: ".";
+	display: block;
+	clear: both;
+	visibility: hidden;
+	line-height: 0;
+	height: 0;
+}
+ 
+.clearfix {
+	display: inline-block;
+}
+ 
+html[xmlns] .clearfix {
+	display: block;
+}
+ 
+* html .clearfix {
+	height: 1%;
+}
