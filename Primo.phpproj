@@ -1,0 +1,304 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Name>Primo</Name>
+    <ProjectGuid>ee759e78-4057-4c92-9b28-6d5658d76431</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>Primo</RootNamespace>
+    <!-- important to be opened by PHP Tools, when also Phalanger Tools are installed -->
+    <ProjectTypeGuids>{A0786B88-2ADB-4C21-ABE8-AA2D79766269}</ProjectTypeGuids>
+    <AssemblyName>Primo</AssemblyName>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <IncludeDebugInformation>true</IncludeDebugInformation>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <IncludeDebugInformation>false</IncludeDebugInformation>
+  </PropertyGroup>
+  <ItemGroup>
+    <Content Include="browse.html">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="copyright.html">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="featured.html">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="featured_da_DK.html">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="footer.html">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="footer_da_DK.html">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="header.html">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="header_da_DK.html">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="ideas.html">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="ideasbrief.html">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="ideasbrief.jsp">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="ideasbrief_da_DK.html">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="ideasbrief_da_DK.jsp">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="ideasfull.html">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="ideasfull.jsp">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="ideas_da_DK.html">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="ie.css">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="images\close-button.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="images\close-x.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="images\dropdown-arrow.gif">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="images\external.gif">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="images\front-search-bg.gif">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="images\front-search-btn.gif">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="images\header-bg.gif">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="images\icons\001-oversigt-ikoner.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="images\icons\ikoner.zip">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="images\icons\ikon_andet-trans.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="images\icons\ikon_artikel-trans.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="images\icons\ikon_avis-trans.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="images\icons\ikon_bog-trans.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="images\icons\ikon_database-trans.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="images\icons\ikon_ebog-trans.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="images\icons\ikon_foto-trans.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="images\icons\ikon_lydbog-trans.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="images\icons\ikon_rapport-trans.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="images\icons\ikon_tidsskrift-trans.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="images\logo.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="images\nav-arrow-left.gif">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="images\nav-arrow-right.gif">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="images\nulstil-hover.gif">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="images\nulstil.gif">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="images\search-blue-bg.gif">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="images\spot\aviser.jpg">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="images\spot\biblioteket.jpg">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="images\spot\Bogforside.jpg">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="images\spot\business-model-generation-foto.jpg">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="images\spot\gyldendal.jpg">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="images\spot\indkoeb_bog_2.jpg">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="images\spot\nyeste_tidsskrifter.jpg">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="images\spot\nye_boeger.jpg">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="images\spot\ordboeger_2.gif">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="images\spot\spoerg_bare.jpg">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="images\spot\SPOT idemappe.docx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="images\spot\Tag_kaffen_med.jpg">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="images\spot\tidsskrifter.jpg">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="images\top-hjaelp.gif">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="images\udv-soeg-large.gif">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="images\udv-soeg-small.gif">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="kunde_standard.css">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="mobile.css">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="news.html">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="news_da_DK.html">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="primo.js">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="service.html">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="service_da_DK.html">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="singin.html">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="static\0hits.html">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="static\css\kunde_standard.css">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="static\css\style.css">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="static\forside.html">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="static\images\external.gif">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="static\images\external.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="static\images\front-search-bg.gif">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="static\images\front-search-btn.gif">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="static\images\logo.gif">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="static\indhold.html">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="static\ombiblioteket.html">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="static\retningslinjer.html">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="static\saadanlaanerdu.html">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="static\soegetips.html">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="__header_da_DK.html">
+      <SubType>Content</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="images\" />
+    <Folder Include="images\icons\" />
+    <Folder Include="images\spot\" />
+    <Folder Include="static\" />
+    <Folder Include="static\css\" />
+    <Folder Include="static\images\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="mailform.php">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="static\footer.php">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="static\foreslaa.php">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="static\header.php">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="static\indhold.php">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="static\ingenhits.php">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="static\ombiblioteket.php">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="static\retningslinjer.php">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="static\saadanlaanerdu.php">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="static\soegetips.php">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
