@@ -58,6 +58,6 @@ $("label[for='input_freeText1']").text("Titel");
 $("label[for='input_freeText2']").text("Forfatter");
 
 $('img#removeFacet').each(function(){
-  var newSrc = $(this).attr("src").replace("../images/icon_remove.png", "http://primo.danskkulturarv.dk/images/close-x.png");
+  var newSrc = $(this).attr("src").replace("../images/icon_remove.png", "http://77.66.32.238/php/intern/arkiv/primo/images/close-x.png");
   $(this).attr("src", newSrc); 
 });
