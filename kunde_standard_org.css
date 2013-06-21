@@ -56,9 +56,9 @@ strong {font-style:normal; font-weight:bold }
 #exlidMainMenuRibbon li a{color: #474747;text-decoration:none; padding-left:0em; padding-right:0.2em;font-size:14px; }
 #exlidMainMenuRibbon li a:hover { text-decoration:underline}
 #exlidMainMenuRibbon li span{color: #555555; border-right:1px solid #e2e2e2;padding-left:0.5em; padding-right:0.5em}
-#exlidMainMenuRibbon li.EXLMainMenuItemSelected span a {background-color:#f15d3a; background-image:url(images/bg_strip_btn_orange.png); background-repeat:repeat-x;margin:0em;  color:#FFFFFF; font-weight: normal;height:auto; cursor: pointer; padding-bottom:0.3em;padding-right:0.6em;padding-left:0.6em; border:1px solid #f4762d; border-right:none; padding-top:0.2em; white-space:nowrap;padding-top:4px!ie }/*1.5*/
+#exlidMainMenuRibbon li.EXLMainMenuItemSelected span a {background-color:#f15d3a; background-image:url(../images/bg_strip_btn_orange.png); background-repeat:repeat-x;margin:0em;  color:#FFFFFF; font-weight: normal;height:auto; cursor: pointer; padding-bottom:0.3em;padding-right:0.6em;padding-left:0.6em; border:1px solid #f4762d; border-right:none; padding-top:0.2em; white-space:nowrap;padding-top:4px!ie }/*1.5*/
 #exlidMainMenuRibbon li.EXLMainMenuItemSelected span a.EXLMainMenuITEMATOZClose {border-left: medium none;border-right: 1px solid #F4762D;}
-#exlidMainMenuRibbon li span.EXLMainMenuItemSelectedClose{color: #555555; border:none;padding-left:0em; padding-right:0em; background-image:url(images/icon_close_tab.png); width:16px; height:14px;  background-repeat:no-repeat; display:inline-block; vertical-align:text-top; margin-left:0em; margin-top:1px; margin-left:0em!ie; padding-left:0.5em!ie; margin-right:0em!ie; background-position:right!ie; padding-top:2px!ie}
+#exlidMainMenuRibbon li span.EXLMainMenuItemSelectedClose{color: #555555; border:none;padding-left:0em; padding-right:0em; background-image:url(../images/icon_close_tab.png); width:16px; height:14px;  background-repeat:no-repeat; display:inline-block; vertical-align:text-top; margin-left:0em; margin-top:1px; margin-left:0em!ie; padding-left:0.5em!ie; margin-right:0em!ie; background-position:right!ie; padding-top:2px!ie}
 #exlidMainMenuRibbon li.EXLMainMenuItemSelected  a:hover { text-decoration:none;}
 
 
@@ -90,12 +90,12 @@ strong {font-style:normal; font-weight:bold }
 #exlidUserAreaTile { float:right  }
 #exlidUserAreaTile ul { display: block; padding-left:0em;border:none }
 #exlidUserAreaRibbon{padding: 0;margin: 0;list-style-type: none;float:left;color: #555555; height:18px; clear:right;}
-#exlidUserAreaRibbon li { font-size:80%;float:left; padding:1em 12px 0 0; font-weight: bold; height:20px; background-image: url(images/bg_strip_subNav.png); background-repeat:repeat-x }
+#exlidUserAreaRibbon li { font-size:80%;float:left; padding:1em 12px 0 0; font-weight: bold; height:20px; background-image: url(../images/bg_strip_subNav.png); background-repeat:repeat-x }
 #exlidUserAreaRibbon li.EXLUserName { display: none; color:#000000; font-weight:bold; }
 #exlidUserAreaRibbon li span { padding-left:0.5em}
-#exlidUserAreaRibbon li span.EXLUserAreaStart { display: none; background-image: url(images/bg_diagonal_subNav.png);  height:18px;width:19px;  background-color:#ffffff;float:left; padding-left:0em }
+#exlidUserAreaRibbon li span.EXLUserAreaStart { display: none; background-image: url(../images/bg_diagonal_subNav.png);  height:18px;width:19px;  background-color:#ffffff;float:left; padding-left:0em }
 #exlidUserAreaRibbon li span.EXLUserAreaStartRtl{ display:none}
-#exlidUserAreaRibbon li span.EXLMyShelfStarSelected { display: none; background-image: url(images/icon_star_on.png); background-repeat:no-repeat; height:11px;width:11px;  float:left; margin-left:0.3em; margin-top:0.2em }
+#exlidUserAreaRibbon li span.EXLMyShelfStarSelected { display: none; background-image: url(../images/icon_star_on.png); background-repeat:no-repeat; height:11px;width:11px;  float:left; margin-left:0.3em; margin-top:0.2em }
 #exlidUserAreaRibbon li a{float: left;color:#4a4d51;text-decoration: none; }
 #exlidUserAreaRibbon li a:hover{text-decoration: underline ;}
 #exlidUserAreaRibbon li.EXLSelectedItem {}
@@ -104,9 +104,9 @@ strong {font-style:normal; font-weight:bold }
 #exlidUserAreaRibbon li.EXLMyShelf {display: none;}
 
 /* ----------Search Box--------------- */
-#exlidSearchTile { clear:left; border-bottom:1px solid #e5e5e5;  border-top:none; background-image:url(images/bg_strip_searchPanel.png); background-repeat:repeat-x; height:66px; font-size:80%; width:818px; margin-left: 209px; }
+#exlidSearchTile { clear:left; border-bottom:1px solid #e5e5e5;  border-top:none; background-image:url(../images/bg_strip_searchPanel.png); background-repeat:repeat-x; height:66px; font-size:80%; width:818px; margin-left: 209px; }
 
-.front #exlidSearchTile, .EXLFullView #exlidSearchTile, .MyAccount #exlidSearchTile { clear:left; border-bottom:1px solid #e5e5e5;  border-top:none; background-image:url(images/bg_strip_searchPanel.png); background-repeat:repeat-x; height:66px; font-size:80%; width:auto; margin-left: 0px; padding: 50px 110px 70px 110px; }
+.front #exlidSearchTile, .EXLFullView #exlidSearchTile, .MyAccount #exlidSearchTile { clear:left; border-bottom:1px solid #e5e5e5;  border-top:none; background-image:url(../images/bg_strip_searchPanel.png); background-repeat:repeat-x; height:66px; font-size:80%; width:auto; margin-left: 0px; padding: 50px 110px 70px 110px; }
 .MyAccount #exlidSearchTile { margin: 0 0 40px 0; }
 
 
@@ -149,7 +149,7 @@ strong {font-style:normal; font-weight:bold }
 #exlidSearchTabs{padding: 0;margin: 0;list-style-type: none;float:left;color: #555555; height:16px; clear:right;}
 #exlidSearchTabs li { float:left; padding-left:0em; padding-right:1.2em;  }
 #exlidSearchTabs li {border:0px solid #CCCCCC; border-bottom:0px;height:16px; text-align:center;  vertical-align:middle; cursor:pointer;padding-left:0.8em;padding-right:0.8em; margin-right:2px; color:#9B9B9B; }
-#exlidSearchTabs li.EXLSearchTabSelected { font-weight:bold; color:#000000; border:1px solid #8fb9d0; border-bottom:1px solid #f6f6f6;background-color:#FFFFFF;height:15px; background-image: url(images/bg_strip_search_tabs.png);background-repeat:repeat-x; text-align:center; font-weight:bold; vertical-align:middle; padding-left:0.8em; padding-right:0.8em;margin-right:4px; background-color:#f6f6f6 }
+#exlidSearchTabs li.EXLSearchTabSelected { font-weight:bold; color:#000000; border:1px solid #8fb9d0; border-bottom:1px solid #f6f6f6;background-color:#FFFFFF;height:15px; background-image: url(../images/bg_strip_search_tabs.png);background-repeat:repeat-x; text-align:center; font-weight:bold; vertical-align:middle; padding-left:0.8em; padding-right:0.8em;margin-right:4px; background-color:#f6f6f6 }
 
 .EXLSearchFieldRibbonFormFields{background: url('http://77.66.32.238/php/intern/arkiv/primo/images/front-search-bg.gif') no-repeat; float:left;  width:91%; height:33px;}
 .EXLSearchFieldRibbonFormSearchFor { float:left; width:60%}
@@ -175,17 +175,17 @@ div.EXLALMAResultsTileNoFacets td.EXLThumbnail{display:none;}
 #exlidSearchTile.EXLSearchEJorunals .EXLSearchEJorunalsListAtoZ { text-align:center; width:95%;  display:block; }
 #exlidSearchTile.EXLSearchEJorunals .EXLSearchEJorunalsListAtoZ ul { list-style:none;    }
 #exlidSearchTile.EXLSearchEJorunals .EXLSearchEJorunalsListAtoZ li { display:inline-block; float:left; line-height:180%;width:1.6em;  font-weight: bold; font-size:100%;    }
-#exlidSearchTile.EXLSearchEJorunals .EXLSearchEJorunalsListAtoZ li.EXLSearchEJorunalsListAtoZSelected { background-image:url(images/icon_arrow_AtoZ.png); background-repeat:no-repeat; background-position:45% 0%;    }
+#exlidSearchTile.EXLSearchEJorunals .EXLSearchEJorunalsListAtoZ li.EXLSearchEJorunalsListAtoZSelected { background-image:url(../images/icon_arrow_AtoZ.png); background-repeat:no-repeat; background-position:45% 0%;    }
 #exlidSearchTile.EXLSearchEJorunals .EXLSearchEJorunalsListAtoZ li a {display:inline-block; width:1.6em ; }
-#exlidSearchTile.EXLSearchEJorunals .EXLSearchEJorunalsListAtoZ li a:hover { background-image:url(images/icon_arrow_AtoZ.png); background-repeat:no-repeat; background-position:50% 0%; }
-div.EXLSearchEJorunalsListAtoZ li.EXLFindDBListHeaderAtoZSelected { background-image:url(images/icon_arrow_AtoZ.png); background-repeat:no-repeat; background-position:45% 0%;    }
+#exlidSearchTile.EXLSearchEJorunals .EXLSearchEJorunalsListAtoZ li a:hover { background-image:url(../images/icon_arrow_AtoZ.png); background-repeat:no-repeat; background-position:50% 0%; }
+div.EXLSearchEJorunalsListAtoZ li.EXLFindDBListHeaderAtoZSelected { background-image:url(../images/icon_arrow_AtoZ.png); background-repeat:no-repeat; background-position:45% 0%;    }
 .EXLResultsListAlmaAz div.EXLREeviewsViewAllLink {display:none;}
 
 .EXLSearchFieldRibbonFormSelectedCollection {width:39%; float:left; margin-top:0em; cursor:pointer; border-left:1px solid #c0c0c0; height:26px; }
 * html .EXLSearchFieldRibbonFormSelectedCollection { overflow:hidden; line-height:200% }
 
 .EXLSearchFieldRibbonFormSelectedCollectionLabel {display:inline-block; height:100%; padding-left:0.5em; width:100%;overflow:hidden;}
-.EXLSearchFieldRibbonFormSelectedCollectionLabel a{color:#32322f;display:inline-block;line-height:210%;width:100%; height:100%;background-image:url(images/icon_open_subMenu.png); background-repeat:no-repeat;background-position:96% 50%;}
+.EXLSearchFieldRibbonFormSelectedCollectionLabel a{color:#32322f;display:inline-block;line-height:210%;width:100%; height:100%;background-image:url(../images/icon_open_subMenu.png); background-repeat:no-repeat;background-position:96% 50%;}
 * html .EXLSearchFieldRibbonFormSelectedCollectionLabel a{ float:left; width:100%; overflow:hidden; margin-top:0em; height:23px; }/*for ie6*/
 .EXLSearchFieldRibbonFormSelectedCollectionLabel a:hover {text-decoration:none; }
 .EXLSearchFieldRibbonFormFields iframe { display:none}
@@ -325,13 +325,13 @@ div.EXLBrowsResultsTileNoFacets td.EXLThumbnail{display:none;}
 #exlidFindDBTile {  clear:left;  padding:0em 0em 0em 0em; font-size:80%; height:450px; width:96%; border:1px solid #d4d4d4; background-color:#FFFFFF; margin-left:auto; margin-right:auto;}
 
 
-.exliLoadingHA {position: absolute; top: 62%; left: 22%; width: 75%; height: 25px; background-color: white; z-index:1002; background-image:url(images/icon_loading_circle.gif); background-repeat:no-repeat; background-position:center; text-align:center;-moz-opacity:0.6; opacity:0.60; filter: alpha(opacity=60 );}
+.exliLoadingHA {position: absolute; top: 62%; left: 22%; width: 75%; height: 25px; background-color: white; z-index:1002; background-image:url(../images/icon_loading_circle.gif); background-repeat:no-repeat; background-position:center; text-align:center;-moz-opacity:0.6; opacity:0.60; filter: alpha(opacity=60 );}
 
 #exliGreyOverlay { position: fixed;  top: 0%; left: 0%; width: 100%; height: 100%; background-color: #cccccc; z-index:1001; -moz-opacity:0.8; opacity:0.80; filter: alpha(opacity=80); }
 #exliWhiteContent { position: absolute; top: 10%; left: 15%; width: 75%;  height: 400px;background-color: white; z-index:1002;}
-.exliLoadingFdb {position: absolute; top: 10%; left: 15%; width: 75%; height: 400px; background-color: white; z-index:1002; background-image:url(images/icon_loading_circle.gif); background-repeat:no-repeat; background-position:center; text-align:center;-moz-opacity:0.6; opacity:0.60; filter: alpha(opacity=60 );}
-.exliLoadingAz {height: 75px;background-image:url(images/icon_loading_circle.gif); background-repeat:no-repeat; background-position:center; text-align:center;}
-.exliLoadingFdbMoreInfo {height: 75px; background-color: #FFF6D4; z-index:1002; background-image:url(images/icon_loading_find_db.gif); background-repeat:no-repeat; background-position:center;display:none;}
+.exliLoadingFdb {position: absolute; top: 10%; left: 15%; width: 75%; height: 400px; background-color: white; z-index:1002; background-image:url(../images/icon_loading_circle.gif); background-repeat:no-repeat; background-position:center; text-align:center;-moz-opacity:0.6; opacity:0.60; filter: alpha(opacity=60 );}
+.exliLoadingAz {height: 75px;background-image:url(../images/icon_loading_circle.gif); background-repeat:no-repeat; background-position:center; text-align:center;}
+.exliLoadingFdbMoreInfo {height: 75px; background-color: #FFF6D4; z-index:1002; background-image:url(../images/icon_loading_find_db.gif); background-repeat:no-repeat; background-position:center;display:none;}
 #exlidFindDBListWrapper {clear:both;}
 
 
@@ -356,7 +356,7 @@ div.EXLBrowsResultsTileNoFacets td.EXLThumbnail{display:none;}
 .EXLFindDBHeader div.EXLFindDBHeaderButtons li a span.EXLFindDBHeaderButtonHelpLabel { display:inline  }
 .EXLFindDBHeader div.EXLFindDBHeaderButtons li a:hover span.EXLFindDBHeaderButtonHelpLabel { text-decoration:underline  }
 .EXLFindDBHeader div.EXLFindDBHeaderButtons li a span.EXLFindDBHeaderButtonHelp {background-image:none; background-position: center;border-right:1px solid #e1e1e1; }
-.EXLFindDBHeader div.EXLFindDBHeaderButtons li a span.EXLFindDBHeaderButtonClose {background-image: url(images/icon_close_tabs.png); background-position: center ;margin-left:0em}
+.EXLFindDBHeader div.EXLFindDBHeaderButtons li a span.EXLFindDBHeaderButtonClose {background-image: url(../images/icon_close_tabs.png); background-position: center ;margin-left:0em}
 
 /*form*/
 #exlidFindDBRibbon { width:100%; margin-left:0em;  margin-right:0em; clear:left;  }
@@ -384,7 +384,7 @@ div.EXLBrowsResultsTileNoFacets td.EXLThumbnail{display:none;}
 /*submit buttons*/
 #exlidFindDBContainer div.EXLFindDBFieldRibbonFormSubmitSearch {float:left; display:inline; clear:both; border:1px solid #adb9c2; margin-left:6em }
 #exlidFindDBContainer div.EXLFindDBFieldRibbonFormSubmitSelected {float:left; display:inline; clear:both; border:1px solid #adb9c2; margin-left:auto; margin-top:1em }
-#exlidFindDBContainer input.EXLSubmit  { border:1px solid #ffffff;  padding:0em 0.5em 0em 0.5em; display:block; background-color:#f15d3a; background-image:url(images/bg_strip_btn_orange.png); background-repeat:repeat-x;margin:0em; width:auto;  color:#FFFFFF; font-weight: normal;height:24px; cursor: pointer;}
+#exlidFindDBContainer input.EXLSubmit  { border:1px solid #ffffff;  padding:0em 0.5em 0em 0.5em; display:block; background-color:#f15d3a; background-image:url(../images/bg_strip_btn_orange.png); background-repeat:repeat-x;margin:0em; width:auto;  color:#FFFFFF; font-weight: normal;height:24px; cursor: pointer;}
 
 /*tabs*/
 .EXLFindDBTabsRibbon{height:28px;border-bottom:2px solid #f4762d; padding:0px; padding-top:2.5em; margin:0em 0em 0em 0em; background-color:#FFFFFF }
@@ -394,7 +394,7 @@ div.EXLBrowsResultsTileNoFacets td.EXLThumbnail{display:none;}
 .EXLFindDBTabsRibbon div li.EXLFindDBTab {border:1px solid #CCCCCC; border-bottom:0px;height:27px; text-align:center;  vertical-align:middle; cursor:pointer; float: left;padding-left:0.2em;padding-right:0.2em; margin-right:4px; color:#9B9B9B; }
 .EXLFindDBTabsRibbon div li.EXLFindDBTab a {color:#373737; font-size:100%  }
 .EXLFindDBTabsRibbon div a:hover  { text-decoration:underline;}
-.EXLFindDBTabsRibbon div li.EXLFindDBSelectedTab{border:1px solid #f4762d; border-bottom:2px solid #f4762d;background-color:#f4762d;height:26px; text-align:center; font-weight:bold; vertical-align:middle; float: left;font-weight: bold;text-decoration: none;padding-left:0.8em; padding-right:0.8em;margin-right:4px; color:#ffffff;background-image:url(images/bg_strip_btn_orange.png); background-repeat:repeat-x; }
+.EXLFindDBTabsRibbon div li.EXLFindDBSelectedTab{border:1px solid #f4762d; border-bottom:2px solid #f4762d;background-color:#f4762d;height:26px; text-align:center; font-weight:bold; vertical-align:middle; float: left;font-weight: bold;text-decoration: none;padding-left:0.8em; padding-right:0.8em;margin-right:4px; color:#ffffff;background-image:url(../images/bg_strip_btn_orange.png); background-repeat:repeat-x; }
 .EXLFindDBTabsRibbon div li.EXLFindDBTabHighlight { background-color:#fff899}
 .EXLFindDBTabsRibbon div li.EXLFindDBSelectedTab a{color: #ffffff; }
 .EXLFindDBTabsRibbon div li.EXLFindDBFirstTab {padding-left:0em;}
@@ -407,9 +407,9 @@ div.EXLBrowsResultsTileNoFacets td.EXLThumbnail{display:none;}
 div.EXLFindDBListHeaderAtoZ { text-align:center; width:90%;  padding-left:2.7em }
 div.EXLFindDBListHeaderAtoZ ul { list-style:none;    }
 div.EXLFindDBListHeaderAtoZ li { display:inline-block; float:left; line-height:200%;width:1.6em;  font-weight:bold; font-size:100%;    }
-div.EXLFindDBListHeaderAtoZ li.EXLFindDBListHeaderAtoZSelected { background-image:url(images/icon_arrow_AtoZ.png); background-repeat:no-repeat; background-position:45% 0%;    }
+div.EXLFindDBListHeaderAtoZ li.EXLFindDBListHeaderAtoZSelected { background-image:url(../images/icon_arrow_AtoZ.png); background-repeat:no-repeat; background-position:45% 0%;    }
 div.EXLFindDBListHeaderAtoZ li a {display:inline-block; /*padding:0em 0.48em 0em 0.48em;*/ width:1.6em ; }
-div.EXLFindDBListHeaderAtoZ li a:hover { background-image:url(images/icon_arrow_AtoZ.png); background-repeat:no-repeat; background-position:50% 0%; }
+div.EXLFindDBListHeaderAtoZ li a:hover { background-image:url(../images/icon_arrow_AtoZ.png); background-repeat:no-repeat; background-position:50% 0%; }
 /*header links*/
 #exlidFindDBTile div div.EXLFindDBListHeaderLinks { width:auto; color:#adb9c2; padding-left:0.7em; line-height:200% }
 #exlidFindDBTile div div.EXLFindDBListHeaderLinks span{ padding:0.3em; width:auto}
@@ -422,10 +422,10 @@ div.EXLFindDBListHeaderAtoZ li a:hover { background-image:url(images/icon_arrow_
 #exlidFindDBTile div.EXLFindDBListContainer { height:176px;overflow:auto;overflow-x:hidden; margin-top:0.1em}
 /*system feedback*/
 #exlidFindDBTile div.EXLFindDBListContainer div.EXLFindDBFeedback {width:100%;border-bottom:1px solid #e1e1e1;background-color:#fffbc3;font-size:100%; text-align:center; display:none }
-#exlidFindDBTile div.EXLFindDBListContainer div.EXLFindDBFeedback strong {padding:0.5em 1.5em 0.5em 0.6em; display:block; background-image:url(images/bg_strip_system_feedback.png); background-repeat:repeat-x; background-position:bottom; color:#000000; font-weight:normal; }
+#exlidFindDBTile div.EXLFindDBListContainer div.EXLFindDBFeedback strong {padding:0.5em 1.5em 0.5em 0.6em; display:block; background-image:url(../images/bg_strip_system_feedback.png); background-repeat:repeat-x; background-position:bottom; color:#000000; font-weight:normal; }
 
 #exlidFindDBTile div.EXLFindDBListContainer div.EXLFindDBFeedbackResults {width:50%;border:1px solid #e1e1e1;background-color:#fffbc3;font-size:100%; text-align:center; margin-left:auto; margin-right:auto; margin-top:3.5em   }
-#exlidFindDBTile div.EXLFindDBListContainer div.EXLFindDBFeedbackResults strong {padding:1em 1.5em 1em 0.6em; display:block; background-image:url(images/bg_strip_system_feedback.png); background-repeat:repeat-x; background-position:bottom; color:#000000; font-weight:normal; }
+#exlidFindDBTile div.EXLFindDBListContainer div.EXLFindDBFeedbackResults strong {padding:1em 1.5em 1em 0.6em; display:block; background-image:url(../images/bg_strip_system_feedback.png); background-repeat:repeat-x; background-position:bottom; color:#000000; font-weight:normal; }
 #exlidFindDBTile div.EXLFindDBListContainer div.EXLFindDBFeedbackNoResults {display:none}
 
 /*list of databases*/
@@ -451,7 +451,7 @@ div.EXLFindDBListHeaderAtoZ li a:hover { background-image:url(images/icon_arrow_
 
 /*Header - System Feedback Styles*/
 #exlidHeaderSystemFeedback {width:100%;border-bottom:none; border-top:none;background-color:#fffbc3;text-align:center; display:block/*change to display: block to show system feedback*/; margin-top:-1px;}
-#exlidHeaderSystemFeedback strong {padding:0.5em 0.5em 0.5em 1.5em; display:block; background-image:url(images/bg_strip_system_feedback.png); background-repeat:repeat-x; background-position:bottom; color:#000000; font-weight:bold; font-size:80%}
+#exlidHeaderSystemFeedback strong {padding:0.5em 0.5em 0.5em 1.5em; display:block; background-image:url(../images/bg_strip_system_feedback.png); background-repeat:repeat-x; background-position:bottom; color:#000000; font-weight:bold; font-size:80%}
 
 /*Header - Search Limits Styles*/
 #exlidHeaderSearchLimits {width:100%;border-bottom:0px solid #f3f3f3;background-color:#f3f3f3; color:#666666; height:2em; display:none/*change to display: block to show system feedback*/}
@@ -595,13 +595,13 @@ body.EXLFullView div.EXLResultsList h2.EXLResultAuthor {font-size:100%; font-wei
 .EXLResultsList div.EXLSummaryContainer div.EXLSummaryFields { float:left; width:77%;}
 /*FRBR*/
 .EXLResultsList div.EXLSummaryContainer cite.EXLResultFRBR {float:right; background-color:#efefef; font-size:100%; font-style:normal; max-height: 22px; max-width: 195px;}
-.EXLResultsList div.EXLSummaryContainer cite.EXLResultFRBR span.EXLResultBgFRBR { background-image:url(images/bg_diagonal_frbr.png); background-repeat:no-repeat; width:22px; background-color:#ffffff; background-position:center; display:block; height:22px; float:left; clear:right }
+.EXLResultsList div.EXLSummaryContainer cite.EXLResultFRBR span.EXLResultBgFRBR { background-image:url(../images/bg_diagonal_frbr.png); background-repeat:no-repeat; width:22px; background-color:#ffffff; background-position:center; display:block; height:22px; float:left; clear:right }
 .EXLResultsList div.EXLSummaryContainer cite.EXLResultFRBR span.EXLResultBgRtlFRBR { display:none} /*for rtl interface*/
 .EXLResultsList cite a {  padding:0em 0.5em 0em 0.1em; line-height:160% }
 
 /*New Result - Remote Search - after fetch more results */
 .EXLResultsList div.EXLSummaryContainer cite.EXLResultNew {float:right; width:auto; background-color:#fffba4; font-size:100%; font-style:normal; }
-.EXLResultsList div.EXLSummaryContainer cite.EXLResultNew span.EXLResultBgNew { background-image: url(images/bg_diagonal_new_result.png); background-repeat:no-repeat; width:22px; background-color:#ffffff; background-position:center; display:block; height:22px; float:left; clear:right }
+.EXLResultsList div.EXLSummaryContainer cite.EXLResultNew span.EXLResultBgNew { background-image: url(../images/bg_diagonal_new_result.png); background-repeat:no-repeat; width:22px; background-color:#ffffff; background-position:center; display:block; height:22px; float:left; clear:right }
 .EXLResultsList div.EXLSummaryContainer cite.EXLResultNew span.EXLResultBgRtlNew { display:none} /*for rtl interface*/
 
 
@@ -627,23 +627,23 @@ body.EXLFullView div.EXLResultsList h2.EXLResultAuthor {font-size:100%; font-wei
 .EXLResultMediaTYPEbook .multipleCoverImageContainer {background-image: url(http://77.66.32.238/php/intern/arkiv/primo/images/icons/ikon_bog-trans.png);}
 
 /*  PRM-14854 Add new resource type 'Research Dataset' to Primo so that it can be used in PC */ http://77.66.32.238/php/intern/arkiv/primo/images/icons
-.EXLResultMediaTYPEresearch_dataset .multipleCoverImageContainer {background-image: url(images/icon_research_dataset.png);}
+.EXLResultMediaTYPEresearch_dataset .multipleCoverImageContainer {background-image: url(../images/icon_research_dataset.png);}
 
 .EXLResultMediaTYPEdatabase .multipleCoverImageContainer {background-image: url(http://77.66.32.238/php/intern/arkiv/primo/images/icons/ikon_database-trans.png);}
 .EXLResultMediaTYPEimage .multipleCoverImageContainer {background-image: url(http://77.66.32.238/php/intern/arkiv/primo/images/icons/ikon_foto-trans.png);}
 .EXLResultMediaTYPEjournal .multipleCoverImageContainer {background-image: url(http://77.66.32.238/php/intern/arkiv/primo/images/icons/ikon_tidsskrift-trans.png);}
-.EXLResultMediaTYPEmap .multipleCoverImageContainer {background-image: url(images/icon_map.png);}
-.EXLResultMediaTYPEother .multipleCoverImageContainer {background-image: url(images/ikon_andet-trans.png);}
-.EXLResultMediaTYPEtext_resource .multipleCoverImageContainer {background-image: url(images/icon_text_resource.png);}
-.EXLResultMediaTYPEvideo .multipleCoverImageContainer {background-image: url(images/icon_video.png);}
-.EXLResultMediaTYPEwebsite .multipleCoverImageContainer {background-image: url(images/icon_website.png);}
+.EXLResultMediaTYPEmap .multipleCoverImageContainer {background-image: url(../images/icon_map.png);}
+.EXLResultMediaTYPEother .multipleCoverImageContainer {background-image: url(../images/ikon_andet-trans.png);}
+.EXLResultMediaTYPEtext_resource .multipleCoverImageContainer {background-image: url(../images/icon_text_resource.png);}
+.EXLResultMediaTYPEvideo .multipleCoverImageContainer {background-image: url(../images/icon_video.png);}
+.EXLResultMediaTYPEwebsite .multipleCoverImageContainer {background-image: url(../images/icon_website.png);}
 .EXLResultMediaTYPEdissertation .multipleCoverImageContainer {background-image: url(http://77.66.32.238/php/intern/arkiv/primo/images/icons/icon_other.png);}
-.EXLResultMediaTYPEgovernment_document .multipleCoverImageContainer {background-image: url(images/icon_other.png);}
-.EXLResultMediaTYPEreview .multipleCoverImageContainer {background-image: url(images/icon_other.png);}
-.EXLResultMediaTYPEstatistical_data_set .multipleCoverImageContainer {background-image: url(images/icon_other.png);}
+.EXLResultMediaTYPEgovernment_document .multipleCoverImageContainer {background-image: url(../images/icon_other.png);}
+.EXLResultMediaTYPEreview .multipleCoverImageContainer {background-image: url(../images/icon_other.png);}
+.EXLResultMediaTYPEstatistical_data_set .multipleCoverImageContainer {background-image: url(../images/icon_other.png);}
 .EXLResultMediaTYPEnewspaper_article .multipleCoverImageContainer {background-image: url(http://77.66.32.238/php/intern/arkiv/primo/images/icons/ikon_avis-trans.png);}
-.EXLResultMediaTYPElegal_document .multipleCoverImageContainer {background-image: url(images/icon_other.png);}
-.EXLResultMediaTYPEreference_entry .multipleCoverImageContainer {background-image: url(images/icon_other.png);}
+.EXLResultMediaTYPElegal_document .multipleCoverImageContainer {background-image: url(../images/icon_other.png);}
+.EXLResultMediaTYPEreference_entry .multipleCoverImageContainer {background-image: url(../images/icon_other.png);}
 
 .coverImageDiv {position:absolute;top:0px;left:0px;}
 .popThumbnailToTop {
@@ -658,10 +658,10 @@ body.EXLFullView div.EXLResultsList h2.EXLResultAuthor {font-size:100%; font-wei
 .EXLTabsRibbon div li.EXLResultTab {border:0px solid #CCCCCC; border-bottom:0px;height:15px; text-align:center;  vertical-align:middle; cursor:pointer; float: left;padding-left:0.8em;padding-right:0.8em; margin-right:2px; color:#9B9B9B; }
 .EXLTabsRibbon div li.EXLResultTab a {color:#333333; background-image:url(http://77.66.32.238/php/intern/arkiv/primo/images/dropdown-arrow.gif); background-repeat:no-repeat; background-position:100% 50%; padding-right:1em; text-decoration: none; font-weight: normal;}
 /*popout icon*/
-.EXLTabsRibbon div li.EXLResultTabIconPopout {background-image:url(images/icon_popout_tab.png); background-repeat:no-repeat; background-position:100%;}
+.EXLTabsRibbon div li.EXLResultTabIconPopout {background-image:url(../images/icon_popout_tab.png); background-repeat:no-repeat; background-position:100%;}
 .EXLTabsRibbon div li.EXLResultTabIconPopout a {padding-right:6px;}
 /*sfx icon*/
-.EXLTabsRibbon div li.EXLResultTabIconSFX {background-image:url(images/icon_sfx.png); background-repeat:no-repeat; background-position:100%;}
+.EXLTabsRibbon div li.EXLResultTabIconSFX {background-image:url(../images/icon_sfx.png); background-repeat:no-repeat; background-position:100%;}
 .EXLTabsRibbon div li.EXLResultTabIconSFX a {padding-right:6px;}
 
 
@@ -689,15 +689,15 @@ display: none;
 .EXLTabsRibbon div li.EXLRecommendTabDisable {display:none;}
 
 /*Loading Animation - Tab Content*/
-.EXLTabLoading {width:100%; text-align:center; height:15em; background-image:url(images/icon_loading_circle.gif); background-repeat:no-repeat; background-position:center;}
+.EXLTabLoading {width:100%; text-align:center; height:15em; background-image:url(../images/icon_loading_circle.gif); background-repeat:no-repeat; background-position:center;}
 
 /*citation Loading gif */
-.EXLCitationTabLoading {text-align:center; height:15em; width:20em; background-image:url(images/icon_loading_circle.gif); background-repeat:no-repeat; background-position:center;}
+.EXLCitationTabLoading {text-align:center; height:15em; width:20em; background-image:url(../images/icon_loading_circle.gif); background-repeat:no-repeat; background-position:center;}
 
 /*Tab Lightbox style*/
 .EXLTabLoadingLightBox {width:100%; text-align:center; height:19.4em;  background-color: #cccccc; z-index:100; -moz-opacity:0.4; opacity:.40; filter:alpha(opacity=40); filter:"alpha(opacity=40)"; position:relative; top:-19.4em; margin-bottom:-19.4em;}
 .EXLTabLoadingLightBoxFeedback {width:100%;border-bottom:1px solid #e1e1e1;background-color:#fffbc3;font-size:100%; float:right; position:relative; top:0px; text-align:center; z-index:2000 }
-.EXLTabLoadingLightBoxFeedback strong {padding:0.5em 1.5em 0.5em 0.6em; display:block; background-image:url(images/bg_strip_system_feedback.png); background-repeat:repeat-x; background-position:bottom; color:#000000; font-weight:normal; width:auto; text-align:center; margin-left:auto; margin-right:auto; white-space:nowrap}
+.EXLTabLoadingLightBoxFeedback strong {padding:0.5em 1.5em 0.5em 0.6em; display:block; background-image:url(../images/bg_strip_system_feedback.png); background-repeat:repeat-x; background-position:bottom; color:#000000; font-weight:normal; width:auto; text-align:center; margin-left:auto; margin-right:auto; white-space:nowrap}
 
 /*Tabs Messagees placeholder - Refresh locations list */
 .EXLTabMessage {width:100%;border-bottom:1px solid #e1e1e1;background-color:#fffbc3;font-size:100%; text-align:center;}
@@ -705,7 +705,7 @@ display: none;
 
 /*Tabs Forms - Form Validation, System Feedback Styles*/
 .EXLTabFormValidationFeedback {width:100%;border-bottom:1px solid #e1e1e1;background-color:#fffbc3;font-size:100%;}
-.EXLTabFormValidationFeedback strong {padding:0.5em 1.5em 0.5em 0.6em; display:block; background-image:url(images/bg_strip_system_feedback.png); background-repeat:repeat-x; background-position:bottom; color:#000000; font-weight:normal; }
+.EXLTabFormValidationFeedback strong {padding:0.5em 1.5em 0.5em 0.6em; display:block; background-image:url(../images/bg_strip_system_feedback.png); background-repeat:repeat-x; background-position:bottom; color:#000000; font-weight:normal; }
 
 
 
@@ -727,8 +727,8 @@ display: none;
 /*header buttons: send to menu, popout and hide tabs ribbon*/
 .EXLTabHeader div.EXLTabHeaderButtons { padding:0.5em 0 0 0; width:auto; float:right; text-align:right; height:18px;  }
 .EXLTabHeader div.EXLTabHeaderButtons ul { float:right; margin-bottom:9px; }
-.EXLTabHeader div.EXLTabHeaderButtons li { list-style:none; float:left; height:18px; background-image:url(images/bg_strip_tab_header_buttons.png); border-right:1px solid #e1e1e1; position: relative; }
-.EXLTabHeader div.EXLTabHeaderButtons li span {background-image:url(images/bg_diagonal_sendTo.png); background-repeat: no-repeat; width:18px; height:18px; display:inline; float:left;}
+.EXLTabHeader div.EXLTabHeaderButtons li { list-style:none; float:left; height:18px; background-image:url(../images/bg_strip_tab_header_buttons.png); border-right:1px solid #e1e1e1; position: relative; }
+.EXLTabHeader div.EXLTabHeaderButtons li span {background-image:url(../images/bg_diagonal_sendTo.png); background-repeat: no-repeat; width:18px; height:18px; display:inline; float:left;}
 .EXLTabHeader div.EXLTabHeaderButtons li a { padding:0.2em 0.4em 0.2em 0.4em;     }
 .EXLTabHeaderButtonSendTo {  }
 .EXLTabHeaderButtonSendTo .EXLButtonSendToMyShelf { display: none; }
@@ -740,15 +740,15 @@ display: none;
 .EXLTabHeaderButtons ol.EXLTabHeaderButtonSendToList li span.EXLButtonSendToLabel { float:left; padding-right:0.5em}
 .EXLTabHeaderButtons ol.EXLTabHeaderButtonSendToList li a:link { color:#373737; cursor:pointer; }
 .EXLTabHeaderButtons ol.EXLTabHeaderButtonSendToList li a:hover { text-decoration:underline; }
-.EXLTabHeaderButtons ol.EXLTabHeaderButtonSendToList li span.EXLButtonSendToIcon { background-image: url(images/icon_sendTo_myShelf.png); background-repeat: no-repeat; width:16px; display:inline; float:right;}
-.EXLTabHeaderButtons ol.EXLTabHeaderButtonSendToList li span.EXLButtonSendToIconMyShelf { background-image: url(images/icon_sendTo_myShelf.png); }
-.EXLTabHeaderButtons ol.EXLTabHeaderButtonSendToList li span.EXLButtonSendToIconMail { background-image: url(images/icon_sendTo_mail.png); }
-.EXLTabHeaderButtons ol.EXLTabHeaderButtonSendToList li span.EXLButtonSendToIconSMS { background-image: url(images/icon_sendTo_sms.png);}
-.EXLTabHeaderButtons ol.EXLTabHeaderButtonSendToList li span.EXLButtonSendToIconPrint { background-image: url(images/icon_sendTo_print.png);}
-.EXLTabHeaderButtons ol.EXLTabHeaderButtonSendToList li span.EXLButtonSendToIconDelicious { background-image: url(images/icon_sendTo_delicious.png);}
-.EXLTabHeaderButtons ol.EXLTabHeaderButtonSendToList li span.EXLButtonSendToIconConnotea { background-image: url(images/icon_sendTo_connotea.png);}
-.EXLTabHeaderButtons ol.EXLTabHeaderButtonSendToList li span.EXLButtonSendToIconRefworks { background-image: url(images/icon_sendTo_refworks.png);}
-.EXLTabHeaderButtons ol.EXLTabHeaderButtonSendToList li span.EXLButtonSendToIconEndnote { background-image: url(images/icon_sendTo_endNote.png); }
+.EXLTabHeaderButtons ol.EXLTabHeaderButtonSendToList li span.EXLButtonSendToIcon { background-image: url(../images/icon_sendTo_myShelf.png); background-repeat: no-repeat; width:16px; display:inline; float:right;}
+.EXLTabHeaderButtons ol.EXLTabHeaderButtonSendToList li span.EXLButtonSendToIconMyShelf { background-image: url(../images/icon_sendTo_myShelf.png); }
+.EXLTabHeaderButtons ol.EXLTabHeaderButtonSendToList li span.EXLButtonSendToIconMail { background-image: url(../images/icon_sendTo_mail.png); }
+.EXLTabHeaderButtons ol.EXLTabHeaderButtonSendToList li span.EXLButtonSendToIconSMS { background-image: url(../images/icon_sendTo_sms.png);}
+.EXLTabHeaderButtons ol.EXLTabHeaderButtonSendToList li span.EXLButtonSendToIconPrint { background-image: url(../images/icon_sendTo_print.png);}
+.EXLTabHeaderButtons ol.EXLTabHeaderButtonSendToList li span.EXLButtonSendToIconDelicious { background-image: url(../images/icon_sendTo_delicious.png);}
+.EXLTabHeaderButtons ol.EXLTabHeaderButtonSendToList li span.EXLButtonSendToIconConnotea { background-image: url(../images/icon_sendTo_connotea.png);}
+.EXLTabHeaderButtons ol.EXLTabHeaderButtonSendToList li span.EXLButtonSendToIconRefworks { background-image: url(../images/icon_sendTo_refworks.png);}
+.EXLTabHeaderButtons ol.EXLTabHeaderButtonSendToList li span.EXLButtonSendToIconEndnote { background-image: url(../images/icon_sendTo_endNote.png); }
 
 /*---View Online Tab Styles---*/
 .EXLViewOnlineTabContent {overflow:auto;overflow-x:hidden;}
@@ -757,17 +757,17 @@ display: none;
 .EXLViewOnlineTabContent div.EXLViewOnlineLinks em { padding-left:0.5em}
 .EXLViewOnlineTabContent div.EXLViewOnlineLinks ul { height:100%; padding:0.5em 1em 1em 0.5em; width:auto; list-style-type:none   }
 .EXLViewOnlineTabContent div.EXLViewOnlineLinks li { padding-top:0px; padding-bottom:3px; padding-right:0px;}
-.EXLViewOnlineTabContent div.EXLViewOnlineLinks li span.EXLViewOnlineLinksTitle a { width:auto;background-image: url(images/icon_popout_tab.png); background-repeat:no-repeat;background-position:right;}
+.EXLViewOnlineTabContent div.EXLViewOnlineLinks li span.EXLViewOnlineLinksTitle a { width:auto;background-image: url(../images/icon_popout_tab.png); background-repeat:no-repeat;background-position:right;}
 .EXLViewOnlineTabContent div.EXLViewOnlineLinks li span.EXLViewOnlineLinksIconPopout {display: inline-block; padding-left:20px; }
 .EXLViewOnlineTabContent div.EXLViewOnlineLinks li span.EXLViewOnlineLinksTitle a:hover  span.EXLViewOnlineLinksIconPopout { text-decoration:none;}
 
 /*multiple online sources tips*/
-.EXLViewOnlineTabContent div.EXLRequestTipsList{float:right; width:30%; border:1px solid #e1e1e1; padding:1em 1em 1em 1em;background-image:url(images/bg_strip_details_links.png); background-repeat:repeat-x; background-position:bottom; height:auto;  margin-top:1em; margin-right:1em}
+.EXLViewOnlineTabContent div.EXLRequestTipsList{float:right; width:30%; border:1px solid #e1e1e1; padding:1em 1em 1em 1em;background-image:url(../images/bg_strip_details_links.png); background-repeat:repeat-x; background-position:bottom; height:auto;  margin-top:1em; margin-right:1em}
 .EXLViewOnlineTabContent div.EXLRequestTipsList em { padding-left:0.5em; font-size:90%}
 .EXLViewOnlineTabContent div.EXLRequestTipsList ul { height:100%; padding:0.5em 1em 1em 0.5em; width:100%;   }
 .EXLViewOnlineTabContent div.EXLRequestTipsList li { list-style:none;padding-top:0px; padding-right:0px; font-size:90%; margin-bottom:1em; float:left}
 .EXLViewOnlineTabContent div.EXLRequestTipsList li span.EXLRequestTipsBullet { padding:0px; margin:0px;
-background-image: url(images/bullet_arrow_orange_tip.png); background-repeat:no-repeat;width:15px; height:30px; float:left; display:block; clear:left; margin-top:5px;  }
+background-image: url(../images/bullet_arrow_orange_tip.png); background-repeat:no-repeat;width:15px; height:30px; float:left; display:block; clear:left; margin-top:5px;  }
 .EXLViewOnlineTabContent div.EXLMyAccountTips li span.EXLRequestTipsTitle  { width:90%; display:block; float:left
 }
 
@@ -792,7 +792,7 @@ background-image: url(images/bullet_arrow_orange_tip.png); background-repeat:no-
 .EXLRequestTabContent form td img{ margin-left:0.2em; }
 .EXLRequestTabContent form td img.EXLBtnCalendar{ vertical-align:bottom}
 .EXLRequestTabContent form td span.EXLMandatory{  color:#CC0000; float:right; width:0.8em;}/*style for mandatory fields*/
-.EXLRequestTabContent form td span.EXLFieldError{ float:left; width:14px;height:14px; background-image:url(images/icon_form_error.png); background-repeat:no-repeat; background-position:center; }/*style for mandatory fields*/
+.EXLRequestTabContent form td span.EXLFieldError{ float:left; width:14px;height:14px; background-image:url(../images/icon_form_error.png); background-repeat:no-repeat; background-position:center; }/*style for mandatory fields*/
 
 /*styles for form with radio buttons - voyager requests*/
 .EXLRequestTabContent form td.EXLRequestTabFormRadio{padding-top:0em; width:1.5em}
@@ -825,8 +825,8 @@ background-image: url(images/bullet_arrow_orange_tip.png); background-repeat:no-
 .EXLRequestTabContent div.EXLRequestTabFormRowLinkButtons { height:auto; border-top:1px solid #e1e1e1; width:100%}
 .EXLRequestTabFormButtonLink {width:auto; font-size:90%; margin-left:1em; margin-right:auto; margin-top:0.5em; float:left; clear:right}
 .EXLRequestTabFormButtonLink span {border:1px solid #7f9db9; display:block; width:80px; height:20px;  text-align:center; padding:1px; }
-.EXLRequestTabFormButtonLink span a {padding:0em 0.5em 0em 0.5em; color:#FFFFFF; font-weight: normal;height:20px; cursor: pointer; background-image:url(images/bg_strip_btn_orange.png); background-repeat:repeat-x; display:block; line-height:160% }
-.EXLRequestTabFormButtonCancel span a {background-image:url(images/bg_strip_btn_grey.png);}
+.EXLRequestTabFormButtonLink span a {padding:0em 0.5em 0em 0.5em; color:#FFFFFF; font-weight: normal;height:20px; cursor: pointer; background-image:url(../images/bg_strip_btn_orange.png); background-repeat:repeat-x; display:block; line-height:160% }
+.EXLRequestTabFormButtonCancel span a {background-image:url(../images/bg_strip_btn_grey.png);}
 
 .EXLRequestTabFormButtonLink span a:hover{text-decoration:none;}
 
@@ -836,23 +836,23 @@ background-image: url(images/bullet_arrow_orange_tip.png); background-repeat:no-
 
 
 .EXLRequestTabContent form span.submit { display: inline-block; width:auto; height:22px;float:left; margin-right:0.5em}
-.EXLRequestTabContent form input.submit { background-color:#f15d3a; background-image:url(images/bg_strip_submit_temp.png); background-repeat:repeat-x;margin-left:0em; width:auto;  color:#FFFFFF; font-weight: normal;height:22px; cursor: pointer;padding:0em 0.5em 0em 0.5em; border:1px solid #7f9db9;display:inline; }
+.EXLRequestTabContent form input.submit { background-color:#f15d3a; background-image:url(../images/bg_strip_submit_temp.png); background-repeat:repeat-x;margin-left:0em; width:auto;  color:#FFFFFF; font-weight: normal;height:22px; cursor: pointer;padding:0em 0.5em 0em 0.5em; border:1px solid #7f9db9;display:inline; }
 .EXLRequestTabContent form span.reset {border:1px solid #7f9db9; display:inline-block; width:auto; height:20px;  text-align:center; padding:1px;}
-.EXLRequestTabContent form a.reset {padding:0em 0.5em 0em 0.5em; color:#FFFFFF; font-weight: normal;height:20px; cursor: pointer; background-image:url(images/bg_strip_btn_grey.png); background-repeat:repeat-x; display:block; line-height:160%;  }
+.EXLRequestTabContent form a.reset {padding:0em 0.5em 0em 0.5em; color:#FFFFFF; font-weight: normal;height:20px; cursor: pointer; background-image:url(../images/bg_strip_btn_grey.png); background-repeat:repeat-x; display:block; line-height:160%;  }
 .EXLRequestTabContent form a.reset:hover { text-decoration:none;}
 
 /*Single Tip Styles*/
 .EXLRequestTabContent div.EXLRequestTip { background: #f15d3a; float:right; width:30%; border:none; margin:1em; color: #fff; font-weight: bold;  }
-.EXLRequestTabContent div.EXLRequestTip span { padding:1em; display:block; background-image:url(images/bg_strip_tags_links.png); background-repeat:repeat-x; background-position:bottom}
+.EXLRequestTabContent div.EXLRequestTip span { padding:1em; display:block; background-image:url(../images/bg_strip_tags_links.png); background-repeat:repeat-x; background-position:bottom}
 
 /*Multiple Tip Styles*/
-.EXLRequestTabContent div.EXLRequestTipsList{float:right; width:30%; border:1px solid #e1e1e1; padding:1em 1em 1em 1em;background-image:url(images/bg_strip_details_links.png); background-repeat:repeat-x; background-position:bottom; height:auto;  margin-top:1em; margin-right:1em}
+.EXLRequestTabContent div.EXLRequestTipsList{float:right; width:30%; border:1px solid #e1e1e1; padding:1em 1em 1em 1em;background-image:url(../images/bg_strip_details_links.png); background-repeat:repeat-x; background-position:bottom; height:auto;  margin-top:1em; margin-right:1em}
 
 .EXLRequestTabContent div.EXLRequestTipsList em { padding-left:0.5em; font-size:90%}
 .EXLRequestTabContent div.EXLRequestTipsList ul { height:100%; padding:0.5em 1em 1em 0.5em; width:100%;   }
 .EXLRequestTabContent div.EXLRequestTipsList li { list-style:none;padding-top:0px; padding-right:0px; font-size:90%; margin-bottom:1em; float:left; float:none!ie;}
 .EXLRequestTabContent div.EXLRequestTipsList li span.EXLRequestTipsBullet { padding:0px; margin:0px;
-background-image: url(images/bullet_arrow_orange_tip.png); background-repeat:no-repeat;width:15px; height:30px; float:left; display:block; clear:left; margin-top:5px;  }
+background-image: url(../images/bullet_arrow_orange_tip.png); background-repeat:no-repeat;width:15px; height:30px; float:left; display:block; clear:left; margin-top:5px;  }
 .EXLMyAccountMainContainer div.EXLMyAccountTips li span.EXLRequestTipsTitle  { width:90%; display:block; float:left
 }
 /*My Library Card - iframe*/
@@ -861,11 +861,11 @@ background-image: url(images/bullet_arrow_orange_tip.png); background-repeat:no-
 
 /* General Tab System Feedback Styles */
 .EXLResult .EXLSystemFeedback { float:left; width:40%; border:1px solid #e1e1e1; margin:1em; text-align:center; background-color:#fffbc3   }
-.EXLResult .EXLSystemFeedback span { padding:1em; display:block; background-image:url(images/bg_strip_system_feedback.png); background-repeat:repeat-x; background-position:bottom; color:#000000; font-weight:bold}
+.EXLResult .EXLSystemFeedback span { padding:1em; display:block; background-image:url(../images/bg_strip_system_feedback.png); background-repeat:repeat-x; background-position:bottom; color:#000000; font-weight:bold}
 
 /*Request System Feedback Styles*/
 .EXLRequestTabContent div.EXLRequestSystemFeedback { float:left; width:40%; border:1px solid #e1e1e1; margin:1em; text-align:center; background-color:#fffbc3   }
-.EXLRequestTabContent div.EXLRequestSystemFeedback span { padding:1em; display:block; background-image:url(images/bg_strip_system_feedback.png); background-repeat:repeat-x; background-position:bottom; color:#000000; font-weight:bold}
+.EXLRequestTabContent div.EXLRequestSystemFeedback span { padding:1em; display:block; background-image:url(../images/bg_strip_system_feedback.png); background-repeat:repeat-x; background-position:bottom; color:#000000; font-weight:bold}
 
 
 /*Request Tab- Short Loan Styles*/
@@ -882,7 +882,7 @@ background-image: url(images/bullet_arrow_orange_tip.png); background-repeat:no-
 .EXLRequestTabFormRow fieldset img.EXLBtnCalendar { vertical-align: text-bottom;}
 /*select time slot*/
 .EXLRequestTabFormRow fieldset span.EXLRequestTabFormRowTimeSlot {display:block; border-bottom:1px solid #cccccc; background-color:#f7f7f7; float:left; clear:both; width:100%; line-height:150%;  }
-.EXLRequestTabFormRow fieldset span.EXLRequestTabFormRowTimeSlotInfo { background-image:url(images/icon_info.png); background-repeat:no-repeat; background-position:80% 50%;   }
+.EXLRequestTabFormRow fieldset span.EXLRequestTabFormRowTimeSlotInfo { background-image:url(../images/icon_info.png); background-repeat:no-repeat; background-position:80% 50%;   }
 
 
 .EXLRequestTabFormRow fieldset span.EXLRequestTabFormRowTimeSlotFirst {border-top:1px solid #cccccc;}
@@ -899,13 +899,13 @@ background-image: url(images/bullet_arrow_orange_tip.png); background-repeat:no-
 
 /*Request tab - calendar styles*/
 .EXLformCalendarIframe {position:absolute; top:2745px; left:690px;}
-.EXLFormCalendarContainer {border:1px solid #f15d3a; width:10em; text-align:center;padding-left:0.3em;padding-right:0.3em; background-image:url(images/bg_strip_calendar_caption.png); background-repeat:repeat-x; }
+.EXLFormCalendarContainer {border:1px solid #f15d3a; width:10em; text-align:center;padding-left:0.3em;padding-right:0.3em; background-image:url(../images/bg_strip_calendar_caption.png); background-repeat:repeat-x; }
 .EXLFormCalendar {color:#bbbbbb; font-size:80%; margin-left:auto; margin-right:auto; border-collapse:collapse}
 .EXLFormCalendar caption {border-bottom-color:#F3F4F4; color:#FFFFFF; padding-top:0.2em; }
 .EXLFormCalendar tr.EXLFormCalendarNav td a {background-color:transparent; font-size:90%; line-height:250%; color:#0075b0}
 .EXLFormCalendar tr.EXLFormCalendarNav td a:hover { background-color:transparent; text-decoration:underline}
-.EXLFormCalendar tr.EXLFormCalendarNav td a.EXLFormCalendarNavPrev { background-image:url(images/icon_arrow_prev.png); background-repeat:no-repeat; background-position:0% 50%; padding-left:0.2em}
-.EXLFormCalendar tr.EXLFormCalendarNav td a.EXLFormCalendarNavNext { background-image: url(images/icon_arrow_next.png); background-repeat:no-repeat; background-position:100% 50%;padding-right:0.5em}
+.EXLFormCalendar tr.EXLFormCalendarNav td a.EXLFormCalendarNavPrev { background-image:url(../images/icon_arrow_prev.png); background-repeat:no-repeat; background-position:0% 50%; padding-left:0.2em}
+.EXLFormCalendar tr.EXLFormCalendarNav td a.EXLFormCalendarNavNext { background-image: url(../images/icon_arrow_next.png); background-repeat:no-repeat; background-position:100% 50%;padding-right:0.5em}
 
 table.EXLFormCalendar th { color:#000000; }
 table.EXLFormCalendar td { text-align:center; width:200px; padding:1px;text-align:center; height:auto; line-height:150%}
@@ -926,13 +926,13 @@ div.EXLCloseCalendar { font-size:80%; line-height:200%}
 .EXLDetailsTabContent div.EXLDetailsContent  ul { list-style:none; }
 .EXLDetailsTabContent div.EXLDetailsContent  li { margin-bottom:0.3em}
 .EXLDetailsTabContent div.EXLDetailsContent  li strong{ margin-right:0.5em}
-.EXLDetailsTabContent div.EXLDetailsLinks { float:right; width:25%; border:1px solid #e1e1e1; margin:1em;background-image:url(images/bg_strip_details_links.png); background-repeat:repeat-x; background-position:bottom; height:auto; padding:0.5em; padding-bottom:1em  }
+.EXLDetailsTabContent div.EXLDetailsLinks { float:right; width:25%; border:1px solid #e1e1e1; margin:1em;background-image:url(../images/bg_strip_details_links.png); background-repeat:repeat-x; background-position:bottom; height:auto; padding:0.5em; padding-bottom:1em  }
 
 .EXLDetailsTabContent div.EXLDetailsLinks em { padding-left:0.5em}
 .EXLDetailsTabContent div.EXLDetailsLinks ul { height:100%; padding:0.5em 1em 1em 0.5em; width:100%;   }
 .EXLDetailsTabContent div.EXLDetailsLinks li { list-style:none;padding-top:0px; padding-bottom:3px; padding-right:0px;}
 .EXLDetailsTabContent div.EXLDetailsLinks li span.EXLDetailsLinksBullet { padding:0px; margin:0px;
-background-image: url(images/bullet_arrow_grey.png); background-repeat:no-repeat;width:10px; height:7px; float:left; display:block; clear:left; margin-top:5px;  }
+background-image: url(../images/bullet_arrow_grey.png); background-repeat:no-repeat;width:10px; height:7px; float:left; display:block; clear:left; margin-top:5px;  }
 
 .EXLDetailsTabContent div.EXLDetailsLinks li span.EXLDetailsLinksTitle a { width:90%; display:block; float:left}
 
@@ -956,7 +956,7 @@ background-image: url(images/bullet_arrow_grey.png); background-repeat:no-repeat
 .EXLReviewsContentContainer{ width:100%; }
 .EXLReviewsTagsTabContent div.EXLReviewsContent { float:left; width:56%; margin:1em 1em 1em 1em; display:block; padding-bottom:1em}
 
-.EXLReviewIcon{  background-image:url(images/icon_review.png); background-repeat:no-repeat; width:15px; height:16px; display:block; float:left; margin-right:0.5em}
+.EXLReviewIcon{  background-image:url(../images/icon_review.png); background-repeat:no-repeat; width:15px; height:16px; display:block; float:left; margin-right:0.5em}
 
 .EXLReviewsContent cite{ font-weight:bold; font-style:normal; margin-bottom:0.3em; float:left; width:83% }
 .EXLReviewsContent span.EXLReviewRating{  float:right; width:16%  }
@@ -966,9 +966,9 @@ background-image: url(images/bullet_arrow_grey.png); background-repeat:no-repeat
 
 .EXLTagsContainer { float:right;margin:1em 1em 1em 0em;}
 .EXLTagsContainer p{ border-bottom:1px solid #dadfe5; margin-bottom:0.4em;padding-bottom:0.4em }
-.EXLTagsContainer p span.EXLTagIcon{  background-image:url(images/icon_tag.png); background-repeat:no-repeat; width:15px; height:16px;  display:block; float:left; margin-right:0.4em}
+.EXLTagsContainer p span.EXLTagIcon{  background-image:url(../images/icon_tag.png); background-repeat:no-repeat; width:15px; height:16px;  display:block; float:left; margin-right:0.4em}
 
-.EXLTagsLinks { float:left; clear:both; width:200px; border:1px solid #e1e1e1; margin:0.5em 1em 0.5em 1em;background-image:url(images/bg_strip_tags_links.png); background-repeat:repeat-x; background-position:bottom; height:auto; padding:00em; padding-bottom:1em  }
+.EXLTagsLinks { float:left; clear:both; width:200px; border:1px solid #e1e1e1; margin:0.5em 1em 0.5em 1em;background-image:url(../images/bg_strip_tags_links.png); background-repeat:repeat-x; background-position:bottom; height:auto; padding:00em; padding-bottom:1em  }
 .EXLTagsLinks div span.EXLTagsLinksExpand {vertical-align:top; float:left; width:20px; }
 .EXLTagsLinks div span.EXLTagsLinksExpand img{ width:20px;}
 .EXLTagsLinks div span.EXLTagsLinksHeader { padding-left:0.2em;  vertical-align:bottom; background-color:#FFFFFF; border-bottom:1px solid #e1e1e1;border-left:1px solid #e1e1e1; width:176px; display:block; float:right; height:20px; }
@@ -991,12 +991,12 @@ background-image: url(images/bullet_arrow_grey.png); background-repeat:no-repeat
 .EXLReviewTabFormRow label { vertical-align: middle; }
 .EXLReviewTextArea { width:auto; margin:0em 2em 0em 0em;  }
 .EXLReviewTextArea label { display:none}
-.EXLReviewTextArea textarea {border: 1px solid #f5e1b8;background-color:#fff6d4; width:100%; font-family:Arial; font-size:90%; padding:0.2em 0.5em 0.2em 0.2em; margin-top:0.2em;color:#444444; background-image:url(images/bg_strip_review_textArea.png); line-height:200%; height:8em}
+.EXLReviewTextArea textarea {border: 1px solid #f5e1b8;background-color:#fff6d4; width:100%; font-family:Arial; font-size:90%; padding:0.2em 0.5em 0.2em 0.2em; margin-top:0.2em;color:#444444; background-image:url(../images/bg_strip_review_textArea.png); line-height:200%; height:8em}
 .EXLReviewFormRowLinkButtons {   width:100%; padding-left:1.5em;  }
 .EXLReviewFormButton {border:1px solid #7f9db9; display:block; width:65px; height:22px; float:left; clear:both ;margin-top:0.9em; margin-right:0.5em}
 .EXLReviewFormButtonCancel {clear:right;}
-.EXLReviewFormButton input { background-color:#f15d3a; background-image:url(images/bg_strip_submit_temp.png); background-repeat:repeat-x;margin-left:0em; width:65px; color:#FFFFFF; font-weight: normal;height:22px; cursor: pointer; border:1px solid #ffffff; }
-.EXLReviewFormButtonCancel input {background-image:url(images/bg_strip_btn_grey.png); background-color:#bebebe;}
+.EXLReviewFormButton input { background-color:#f15d3a; background-image:url(../images/bg_strip_submit_temp.png); background-repeat:repeat-x;margin-left:0em; width:65px; color:#FFFFFF; font-weight: normal;height:22px; cursor: pointer; border:1px solid #ffffff; }
+.EXLReviewFormButtonCancel input {background-image:url(../images/bg_strip_btn_grey.png); background-color:#bebebe;}
 
 
 /*Locations Tab Styles*/
@@ -1085,7 +1085,7 @@ padding:0;
 .EXLLocationsMoreInfo {display:block;  clear:both;margin-left:2.5em; margin-bottom:0.2em}
 .EXLLocationsMoreInfo strong {display:block; }
 
-.EXLLocationsTitleIconPopout {background-image: url(images/icon_popout_tab.png); background-repeat:no-repeat;background-position:100% 50%; padding-right:1.5em; padding-left:0.5em }/*OPAC via Link popout icon*/
+.EXLLocationsTitleIconPopout {background-image: url(../images/icon_popout_tab.png); background-repeat:no-repeat;background-position:100% 50%; padding-right:1.5em; padding-left:0.5em }/*OPAC via Link popout icon*/
 
 .EXLLocationsTabContent h4 { float:left; clear:both; margin-left:0.5em; margin-top:0.5em; font-size:100%; width:100%; white-space:nowrap; color:#32322f}
 .EXLLocationsTabContent div.EXLLocationListLastItem { margin-bottom:0.6em}
@@ -1100,7 +1100,7 @@ border-bottom:1px solid #e0e2e5; padding-right:1em; text-align:left; }
 
 .EXLLocationsTabContent div.EXLLocationList  table.EXLLocationTable li{ display:inline; padding-right:0.5em; white-space:nowrap }
 .EXLLocationsTabContent div.EXLLocationList  table.EXLLocationTable li.EXLLocationTableFirstAction{ display:inline;   }
-.EXLLocationsTabContent div.EXLLocationList  table.EXLLocationTable li.EXLLocationTableFirstAction span{background-image:url(images/vseparator_sub_nav.png); background-repeat:no-repeat; width:20px;}
+.EXLLocationsTabContent div.EXLLocationList  table.EXLLocationTable li.EXLLocationTableFirstAction span{background-image:url(../images/vseparator_sub_nav.png); background-repeat:no-repeat; width:20px;}
 .EXLLocationsTabContent div.EXLLocationList  table.EXLLocationTable .EXLLocationTableMargin { padding-left:2.4em;}
 .EXLLocationsTabContent div.EXLLocationList  table.EXLLocationTable .EXLLocationTableColumn0 { padding-left:2.4em;}
 .EXLLocationTableHeaderDescription {width:auto; }
@@ -1117,7 +1117,7 @@ border-bottom:1px solid #e0e2e5; padding-right:1em; text-align:left; }
 .EXLLocationsTitle a.EXLLocationsTitleLink {text-align:left; float:none;width:auto;  }
 .EXLLocationsTitle a.EXLLocationsIcon {text-align:left; float:left;  width:1em; margin-right:0em; }
 .EXLLocationsTitle a.EXLLocationsIcon img { padding-top:0em; padding-right:0em; vertical-align: top;  }
-.EXLLocationsTitleIconPopout {background-image: url(images/icon_popout_tab.png); background-repeat:no-repeat;background-position:100% 50%; padding-right:1.5em; padding-left:0em }/*OPAC via Link popout icon*/
+.EXLLocationsTitleIconPopout {background-image: url(../images/icon_popout_tab.png); background-repeat:no-repeat;background-position:100% 50%; padding-right:1.5em; padding-left:0em }/*OPAC via Link popout icon*/
 
 
 
@@ -1139,7 +1139,7 @@ width:auto;
 .EXLLocationTableActions span.EXLLocationTableActionsLabel {display:none}
 .EXLLocationTableActions div.EXLLocationTableActionsMenu {  }
 .EXLLocationTableActions ul{ }
-.EXLLocationTableActions li{padding:0em 0em 0em 0.5em;  background-image:url(images/vseparator_actions_nav.png); background-repeat: no-repeat; background-position:right; float:left }
+.EXLLocationTableActions li{padding:0em 0em 0em 0.5em;  background-image:url(../images/vseparator_actions_nav.png); background-repeat: no-repeat; background-position:right; float:left }
 .EXLLocationTableActions li.EXLLocationTableActionsLastItem { background-image:none}
 
 /*Recommendations Tab Styles*/
@@ -1199,7 +1199,7 @@ body.EXLFullView div.EXLBackToResults { font-size:80%; float:left;width:30%; }
 .EXLFacetContainerForms ol li.EXLFacetsDisplayMore:hover { background-color:transparent;}
 .EXLFacetContainerForms ol li.EXLFacetsDisplayMore { font-weight:bold;}
 .EXLFacetContainerForms ol li span.label{cursor:pointer}
-.EXLFacetContainerForms input[type="submit"] {  margin-left:1.5em; margin-bottom:0.2em; margin-top:0.4em; cursor: pointer; padding-right:0.2em;padding-left:0.2em; background-color:#dddddd; background-image: url("images/bg_strip_submit_facets.png"); background-repeat: repeat-x;
+.EXLFacetContainerForms input[type="submit"] {  margin-left:1.5em; margin-bottom:0.2em; margin-top:0.4em; cursor: pointer; padding-right:0.2em;padding-left:0.2em; background-color:#dddddd; background-image: url("../images/bg_strip_submit_facets.png"); background-repeat: repeat-x;
 border-color: #BBBBBB #BBBBBB #999999;border-radius: 4px 4px 4px 4px;  border-style: solid; border-width: 1px; box-shadow: 0 1px 0 #F8F8F8;
 color: #333333;   cursor: pointer;  font:80% Arial;
 }
@@ -1211,21 +1211,21 @@ color: #333333;   cursor: pointer;  font:80% Arial;
 /*actions: RSS and Save Search*/
 .EXLFacetContainer div.EXLFacetActions {color:#000000; font-weight:normal; font-size:80%; padding:0em;background-color:#f8f8f8; border-top:1px solid #e4e4e4; border-bottom:1px solid #e4e4e4; line-height:150%; text-indent:0em;  margin-bottom:0.2em ;padding-left:0.7em; display:block; height:1.5em }
 .EXLFacetContainer div.EXLFacetActions li { float:left; margin-right:0.5em; display:inline; width:auto; line-height:150%;}
-.EXLFacetContainer div.EXLFacetActions li.EXLFacetRSSAction { background-image:url(images/icon_rss_blue.png); background-repeat:no-repeat; background-position:0% 50%; padding-left:1.2em}
-.EXLFacetContainer div.EXLFacetActions li.EXLFacetRSSActionDisabled { background-image:url(images/icon_rss_off.png); color:#a39f9e}/*used in remote tab*/
-.EXLFacetContainer div.EXLFacetActions li.EXLFacetSaveSearchAction { background-image: url(images/vseparator_sub_nav.png); background-repeat:no-repeat; background-position:0% 50%; padding-left:0.6em}
+.EXLFacetContainer div.EXLFacetActions li.EXLFacetRSSAction { background-image:url(../images/icon_rss_blue.png); background-repeat:no-repeat; background-position:0% 50%; padding-left:1.2em}
+.EXLFacetContainer div.EXLFacetActions li.EXLFacetRSSActionDisabled { background-image:url(../images/icon_rss_off.png); color:#a39f9e}/*used in remote tab*/
+.EXLFacetContainer div.EXLFacetActions li.EXLFacetSaveSearchAction { background-image: url(../images/vseparator_sub_nav.png); background-repeat:no-repeat; background-position:0% 50%; padding-left:0.6em}
 .EXLFacetContainer .EXLRemoteDatabasesMoreInfo {display:block;float:right;font-size:0.8em;font-weight:bold;}
 .EXLFacetContainer h1 {background-color:#F8F8F8;border-bottom:1px solid #E4E4E4;border-top:1px solid #E4E4E4;color:#000000;font-size:80%;font-weight:bold;line-height:150%;margin-bottom:0.2em;padding:0 0 0 0.5em;text-indent:0;}
 
 /*actions layout2: RSS, Save Search, Add page to e-Shelf*/
 .EXLFacetContainer div.EXLFacetActionsV2 {color:#000000; font-weight:normal; font-size:80%; padding:0.2em 0em 0.2em 0em;background-color:#f8f8f8; border-top:1px solid #e4e4e4; border-bottom:1px solid #e4e4e4; line-height:150%; text-indent:0em;  margin-bottom:0.2em ;padding-left:0.5em; display:none; height:auto }
 .EXLFacetContainer div.EXLFacetActionsV2 li { margin-right:0.5em; display:block; width:auto; line-height:160%; background-repeat:no-repeat; background-position:0% 50%; padding-left:1.6em; list-style:none;color:#a39f9e}
-.EXLFacetContainer div.EXLFacetActionsV2 li.EXLFacetRSSAction {background-image:url(images/icon_rss_orangeV2.png);}
-.EXLFacetContainer div.EXLFacetActionsV2 li.EXLFacetRSSActionOff { background-image:url(images/icon_rssV2_off.png);}
-.EXLFacetContainer div.EXLFacetActionsV2 li.EXLFacetSaveSearchAction { background-image: url(images/icon_save_search.png);}
-.EXLFacetContainer div.EXLFacetActionsV2 li.EXLFacetSaveSearchActionOff { background-image: url(images/icon_save_search_off.png);}
-.EXLFacetContainer div.EXLFacetActionsV2 li.EXLFacetSaveToEShelfAction { background-image: url(images/icon_save_search_eshelf.png); }
-.EXLFacetContainer div.EXLFacetActionsV2 li.EXLFacetSaveToEShelfActionOff { background-image: url(images/icon_save_search_eshelf_off.png); }
+.EXLFacetContainer div.EXLFacetActionsV2 li.EXLFacetRSSAction {background-image:url(../images/icon_rss_orangeV2.png);}
+.EXLFacetContainer div.EXLFacetActionsV2 li.EXLFacetRSSActionOff { background-image:url(../images/icon_rssV2_off.png);}
+.EXLFacetContainer div.EXLFacetActionsV2 li.EXLFacetSaveSearchAction { background-image: url(../images/icon_save_search.png);}
+.EXLFacetContainer div.EXLFacetActionsV2 li.EXLFacetSaveSearchActionOff { background-image: url(../images/icon_save_search_off.png);}
+.EXLFacetContainer div.EXLFacetActionsV2 li.EXLFacetSaveToEShelfAction { background-image: url(../images/icon_save_search_eshelf.png); }
+.EXLFacetContainer div.EXLFacetActionsV2 li.EXLFacetSaveToEShelfActionOff { background-image: url(../images/icon_save_search_eshelf_off.png); }
 
 /*My Account*/
 .EXLMyAccountContainer {padding:0; margin-top:0em/*for ie7*/; height:auto; background-color:#fff; border-top:none; padding-bottom:3em;}
@@ -1240,11 +1240,11 @@ color: #333333;   cursor: pointer;  font:80% Arial;
 .EXLMyAccountMainMenuContainer ol li span.EXLMyAccountMainMenuBullet { padding:0px; margin:0px;
 background-image: none; background-repeat:no-repeat;width:17px; height:13px; float:left; display:block; clear:left; margin-top:6px; position:relative; left:-5px;}
 .EXLMyAccountMainMenuContainer ol li span.EXLMyAccountMainMenuBulletSelected { padding:0px; margin:0px;
-background-image: url(images/bullet_myAccount_menu.png); background-repeat:no-repeat;width:17px; height:13px; float:left; display:block; clear:left; margin-top:6px; position:relative; left:-5px;}
+background-image: url(../images/bullet_myAccount_menu.png); background-repeat:no-repeat;width:17px; height:13px; float:left; display:block; clear:left; margin-top:6px; position:relative; left:-5px;}
 .EXLMyAccountMainMenuContainer ol li span.EXLMyAccountMainMenuTitle  { width:80%;  padding-left:0.2em  }
 .EXLMyAccountMainMenuContainer ol li span.EXLMyAccountMainMenuCounter{font-size:90%; width:10%; text-align:right ;color:#8C8D8C; font-weight:normal; padding-left:0.2em }
 .EXLMyAccountMainMenuContainer ol li.EXLMyAccountMainMenuWarning  span {color:#e54f4f; font-weight:bold}
-.EXLMyAccountMainMenuContainer ol li.EXLMyAccountMainMenuWarning  span.EXLMyAccountMainMenuCounter {padding-left:0em;background-image: url(images/icon_exclamation.png); background-repeat:no-repeat; display:inline-block; background-position:100% 55%;}
+.EXLMyAccountMainMenuContainer ol li.EXLMyAccountMainMenuWarning  span.EXLMyAccountMainMenuCounter {padding-left:0em;background-image: url(../images/icon_exclamation.png); background-repeat:no-repeat; display:inline-block; background-position:100% 55%;}
 
 
 /*Main Content */
@@ -1259,14 +1259,14 @@ background-image: url(images/bullet_myAccount_menu.png); background-repeat:no-re
 
 .EXLMyAccountMainContainer div.EXLMyAccountMainHeader div.EXLMyAccountMainHeaderTitle h1{ font-size:100%; line-height:150%;}
 .EXLMyAccountMainContainer div.EXLMyAccountMainHeader div.EXLMyAccountMainHeaderTitle h1 span{ font-weight:normal; margin-left:0.5em  }
-.EXLMyAccountMainHeaderTitle div.EXLMyAccountMainHeaderContent span.EXLMyAccountMainHeaderContentSeparator{  background-image:url(images/vseparator_pixel.png); background-repeat: repeat-y;height:17px;width:1px; background-position:center  }
+.EXLMyAccountMainHeaderTitle div.EXLMyAccountMainHeaderContent span.EXLMyAccountMainHeaderContentSeparator{  background-image:url(../images/vseparator_pixel.png); background-repeat: repeat-y;height:17px;width:1px; background-position:center  }
 
 
 .EXLMyAccountMainContainer div.EXLMyAccountMainHeaderButtons  { padding:0em; margin:0px; width:35%; float:right; text-align:right;padding-top:1em; padding-right:2% ; font-size:90%; display:none     }/*Carmit - can be used for local help link, currently not in use*/
 
 .EXLMyAccountMainContainer table { text-align:left; width:96%; font-size:90%; margin-left:auto; margin-right:auto; margin-top:0.5em; }
 .EXLMyAccountMainContainer table caption{ text-align:left; padding-top:0.3em;padding-bottom:0.8em ;margin-top:0.5em;  }
-.EXLMyAccountMainContainer table caption.EXLCaptionSystemFeedback{background-color:#fffbc3;background-image:url(images/bg_strip_system_feedback.png); background-repeat:repeat-x; background-position:bottom; color:#000000; font-weight:normal;border:1px solid #e1e1e1; padding:0.5em 0em 0.5em 0.5em;}
+.EXLMyAccountMainContainer table caption.EXLCaptionSystemFeedback{background-color:#fffbc3;background-image:url(../images/bg_strip_system_feedback.png); background-repeat:repeat-x; background-position:bottom; color:#000000; font-weight:normal;border:1px solid #e1e1e1; padding:0.5em 0em 0.5em 0.5em;}
 .EXLMyAccountMainContainer table th{ border-bottom:1px solid #e0e2e5;padding-top:0.2em;padding-bottom:0em; color:#000000; width:auto;padding-right:1.5em; vertical-align: bottom }
 .EXLMyAccountMainContainer table td { border:none; padding:0.1em 0em 0.1em 0em; margin:0px; vertical-align:text-top;padding-right:1em}
 .EXLMyAccountMainContainer table tr.EXLMyAccountTableRowBgColor { background-color:#f3f3f7}
@@ -1298,10 +1298,10 @@ background-image: url(images/bullet_myAccount_menu.png); background-repeat:no-re
 .EXLMyAccountMainHeader div.EXLMyShelfTableHeaderButtons li a { padding:0.2em 0.2em 0.2em 0.2em; color:#000000; cursor:pointer	 }
 
 .EXLMyAccountMainHeader div.EXLMyShelfTableHeaderButtons li a span.EXLMyShelfTableHeaderButtonLabel { display:none  }
-.EXLMyAccountMainHeader div.EXLMyShelfTableHeaderButtons li a span.EXLMyShelfTableHeaderButtonCut {background-image: url(images/icon_my_shelf_cut.png); }
-.EXLMyAccountMainHeader div.EXLMyShelfTableHeaderButtons li a span.EXLMyShelfTableHeaderButtonCopy {background-image: url(images/icon_my_shelf_copy.png);margin-left:0.5em}
-.EXLMyAccountMainHeader div.EXLMyShelfTableHeaderButtons li a span.EXLMyShelfTableHeaderButtonPaste {background-image: url(images/icon_my_shelf_paste.png);margin-left:0.5em}
-.EXLMyAccountMainHeader div.EXLMyShelfTableHeaderButtons li a span.EXLMyShelfTableHeaderButtonDelete {background-image: url(images/icon_my_shelf_delete.png);margin-left:0.5em}
+.EXLMyAccountMainHeader div.EXLMyShelfTableHeaderButtons li a span.EXLMyShelfTableHeaderButtonCut {background-image: url(../images/icon_my_shelf_cut.png); }
+.EXLMyAccountMainHeader div.EXLMyShelfTableHeaderButtons li a span.EXLMyShelfTableHeaderButtonCopy {background-image: url(../images/icon_my_shelf_copy.png);margin-left:0.5em}
+.EXLMyAccountMainHeader div.EXLMyShelfTableHeaderButtons li a span.EXLMyShelfTableHeaderButtonPaste {background-image: url(../images/icon_my_shelf_paste.png);margin-left:0.5em}
+.EXLMyAccountMainHeader div.EXLMyShelfTableHeaderButtons li a span.EXLMyShelfTableHeaderButtonDelete {background-image: url(../images/icon_my_shelf_delete.png);margin-left:0.5em}
 
 
 .EXLMyShelfTableHeaderButtonSendTo { padding-right:0.5em; text-align:left; margin-left:0.5em; margin-right:0.5em}
@@ -1312,14 +1312,14 @@ background-image: url(images/bullet_myAccount_menu.png); background-repeat:no-re
 .EXLMyShelfTableHeaderButtons ol.EXLMyShelfTableHeaderButtonSendToList li span.EXLButtonSendToLabel { float:left; padding-right:0.5em}
 .EXLMyShelfTableHeaderButtons ol.EXLMyShelfTableHeaderButtonSendToList li a:link { color:#373737; cursor:pointer; }
 .EXLMyShelfTableHeaderButtons ol.EXLMyShelfTableHeaderButtonSendToList li a:hover { text-decoration:underline; }
-.EXLMyShelfTableHeaderButtons ol.EXLMyShelfTableHeaderButtonSendToList li span.EXLButtonSendToIcon { background-image: url(images/icon_sendTo_myShelf.png); background-repeat: no-repeat; width:16px; display:inline; float:right;}
-.EXLMyShelfTableHeaderButtons ol.EXLMyShelfTableHeaderButtonSendToList li span.EXLButtonSendToIconMyShelf { background-image: url(images/icon_sendTo_myShelf.png); }
-.EXLMyShelfTableHeaderButtons ol.EXLMyShelfTableHeaderButtonSendToList li span.EXLButtonSendToIconMail { background-image: url(images/icon_sendTo_mail.png); }
-.EXLMyShelfTableHeaderButtons ol.EXLMyShelfTableHeaderButtonSendToList li span.EXLButtonSendToIconPrint { background-image: url(images/icon_sendTo_print.png);}
-.EXLMyShelfTableHeaderButtons ol.EXLMyShelfTableHeaderButtonSendToList li span.EXLButtonSendToIconDelicious { background-image: url(images/icon_sendTo_delicious.png);}
-.EXLMyShelfTableHeaderButtons ol.EXLMyShelfTableHeaderButtonSendToList li span.EXLButtonSendToIconConnotea { background-image: url(images/icon_sendTo_connotea.png);}
-.EXLMyShelfTableHeaderButtons ol.EXLMyShelfTableHeaderButtonSendToList li span.EXLButtonSendToIconRefworks { background-image: url(images/icon_sendTo_refworks.png);}
-.EXLMyShelfTableHeaderButtons ol.EXLMyShelfTableHeaderButtonSendToList li span.EXLButtonSendToIconEndnote { background-image: url(images/icon_sendTo_endnote.png); }
+.EXLMyShelfTableHeaderButtons ol.EXLMyShelfTableHeaderButtonSendToList li span.EXLButtonSendToIcon { background-image: url(../images/icon_sendTo_myShelf.png); background-repeat: no-repeat; width:16px; display:inline; float:right;}
+.EXLMyShelfTableHeaderButtons ol.EXLMyShelfTableHeaderButtonSendToList li span.EXLButtonSendToIconMyShelf { background-image: url(../images/icon_sendTo_myShelf.png); }
+.EXLMyShelfTableHeaderButtons ol.EXLMyShelfTableHeaderButtonSendToList li span.EXLButtonSendToIconMail { background-image: url(../images/icon_sendTo_mail.png); }
+.EXLMyShelfTableHeaderButtons ol.EXLMyShelfTableHeaderButtonSendToList li span.EXLButtonSendToIconPrint { background-image: url(../images/icon_sendTo_print.png);}
+.EXLMyShelfTableHeaderButtons ol.EXLMyShelfTableHeaderButtonSendToList li span.EXLButtonSendToIconDelicious { background-image: url(../images/icon_sendTo_delicious.png);}
+.EXLMyShelfTableHeaderButtons ol.EXLMyShelfTableHeaderButtonSendToList li span.EXLButtonSendToIconConnotea { background-image: url(../images/icon_sendTo_connotea.png);}
+.EXLMyShelfTableHeaderButtons ol.EXLMyShelfTableHeaderButtonSendToList li span.EXLButtonSendToIconRefworks { background-image: url(../images/icon_sendTo_refworks.png);}
+.EXLMyShelfTableHeaderButtons ol.EXLMyShelfTableHeaderButtonSendToList li span.EXLButtonSendToIconEndnote { background-image: url(../images/icon_sendTo_endnote.png); }
 
 
 
@@ -1340,8 +1340,8 @@ background-image: url(images/bullet_myAccount_menu.png); background-repeat:no-re
 /*item note*/
 .EXLMyShelfContainer div.EXLMyAccountMainContainer table td.EXLMyShelfCellNote a { cursor: pointer;}
 .EXLMyShelfContainer div.EXLMyAccountMainContainer table td.EXLMyShelfCellNote a span.EXLMyShelfCellNoteLabel { float:left; clear:right; display:none }
-.EXLMyShelfContainer div.EXLMyAccountMainContainer table td.EXLMyShelfCellNote a span.EXLMyShelfCellNoteIcon { margin-left:0.5em; background-image:url(images/icon_item_note2.png); background-repeat:no-repeat; width:16px; height:16px; clear:left; float:left;  }
-.EXLMyShelfContainer div.EXLMyAccountMainContainer table td.EXLMyShelfCellNote a span.EXLMyShelfCellNoteIconEdit { margin-left:0.5em; background-image:url(images/icon_item_note_edit2.png); background-repeat:no-repeat; width:16px; height:16px; clear:left; float:left; }
+.EXLMyShelfContainer div.EXLMyAccountMainContainer table td.EXLMyShelfCellNote a span.EXLMyShelfCellNoteIcon { margin-left:0.5em; background-image:url(../images/icon_item_note2.png); background-repeat:no-repeat; width:16px; height:16px; clear:left; float:left;  }
+.EXLMyShelfContainer div.EXLMyAccountMainContainer table td.EXLMyShelfCellNote a span.EXLMyShelfCellNoteIconEdit { margin-left:0.5em; background-image:url(../images/icon_item_note_edit2.png); background-repeat:no-repeat; width:16px; height:16px; clear:left; float:left; }
 
 
 
@@ -1353,7 +1353,7 @@ background-image: url(images/bullet_myAccount_menu.png); background-repeat:no-re
 /*Folder Note*/
 .EXLMyShelfContainer div.EXLMyAccountMainContainer div.EXLMyShelfFolderNote { width:96%; margin:1em auto 1em auto; }
 .EXLMyShelfContainer div.EXLMyAccountMainContainer div.EXLMyShelfFolderNote label { display:block; font-size:80%; color:#444444}
-.EXLMyShelfContainer div.EXLMyAccountMainContainer div.EXLMyShelfFolderNote input { width:auto; display:block; cursor:pointer; background-color:#f15d3a; background-image:url(images/bg_strip_submit_temp.png); background-repeat:repeat-x;margin-left:0em; width:65px;  color:#FFFFFF;  border:1px solid #f4762d;height:22px; margin-top:0.3em; display:none }
+.EXLMyShelfContainer div.EXLMyAccountMainContainer div.EXLMyShelfFolderNote input { width:auto; display:block; cursor:pointer; background-color:#f15d3a; background-image:url(../images/bg_strip_submit_temp.png); background-repeat:repeat-x;margin-left:0em; width:65px;  color:#FFFFFF;  border:1px solid #f4762d;height:22px; margin-top:0.3em; display:none }
 
 
 
@@ -1367,7 +1367,7 @@ background-image: url(images/bullet_myAccount_menu.png); background-repeat:no-re
 .EXLMyAccountMainTableLinks { width:96%; font-size:90%; margin-left:auto; margin-right:auto; margin-top:2em;}
 .EXLMyAccountButtonLink {width:96%; font-size:90%; margin-left:auto; margin-right:auto; margin-top:2em;}
 .EXLMyAccountButtonLink span {border:1px solid #7f9db9; display:block; width:80px; height:20px;  text-align:center; padding:1px; }
-.EXLMyAccountButtonLink span a {padding:0em 0.5em 0em 0.5em; color:#FFFFFF; font-weight: normal;height:20px; cursor: pointer; background-image:url(images/bg_strip_btn_orange.png); background-repeat:repeat-x; display:block; line-height:150% }
+.EXLMyAccountButtonLink span a {padding:0em 0.5em 0em 0.5em; color:#FFFFFF; font-weight: normal;height:20px; cursor: pointer; background-image:url(../images/bg_strip_btn_orange.png); background-repeat:repeat-x; display:block; line-height:150% }
 .EXLMyAccountButtonLink span a:hover{text-decoration:none;}
 
 /*Default Message Style - used when there are no blocks and messages*/
@@ -1375,10 +1375,10 @@ background-image: url(images/bullet_myAccount_menu.png); background-repeat:no-re
 
 /*Messages Styles*/
 .EXLMyAccountMessage {  width:96%; border:1px solid #e1e1e1; margin:1em auto 1em auto; font-size:90%;background-image:none;/*optional different message icon*/ background-repeat:no-repeat; background-position:right top;     }
-.EXLMyAccountMessage span { padding:0.6em 2em 0.6em 0.6em; display:block; background-image:url(images/bg_strip_tags_links.png); background-repeat:repeat-x; background-position:bottom; }
+.EXLMyAccountMessage span { padding:0.6em 2em 0.6em 0.6em; display:block; background-image:url(../images/bg_strip_tags_links.png); background-repeat:repeat-x; background-position:bottom; }
 .EXLMyAccountMessage h2{ font-weight:bold; font-size:90%;padding:0.6em 2em 0.6em 0.6em;}
 
-.EXLMyAccountBlock {background-image:url(images/icon_block.png);}
+.EXLMyAccountBlock {background-image:url(../images/icon_block.png);}
 
 /*Personal Settings Form Styles*/
 .EXLMyAccountFormContainer {  width:96%; padding-top:1em;/*min-height:17em - change according to number of fields in the form;*/   min-height: 30em;
@@ -1391,22 +1391,22 @@ background-image: url(images/bullet_myAccount_menu.png); background-repeat:no-re
 .EXLMyAccountMainContainer form select{ border:1px solid #7f9db9; height:auto;}
 .EXLMyAccountMainContainer form input{ border:1px solid #7f9db9; height:18px;width:15em}
 .EXLMyAccountMainContainer form span.submit { border:1px solid #7f9db9; display:inline-block; width:auto; height:22px; }
-.EXLMyAccountMainContainer form input.submit { background-color:#f15d3a; background-image:url(images/bg_strip_submit_temp.png); background-repeat:repeat-x;margin-left:0em; width:auto;  color:#FFFFFF; font-weight: normal;height:22px; cursor: pointer; border:1px solid #ffffff; padding-left:0.5em; padding-right:0.5em; }
+.EXLMyAccountMainContainer form input.submit { background-color:#f15d3a; background-image:url(../images/bg_strip_submit_temp.png); background-repeat:repeat-x;margin-left:0em; width:auto;  color:#FFFFFF; font-weight: normal;height:22px; cursor: pointer; border:1px solid #ffffff; padding-left:0.5em; padding-right:0.5em; }
 
 /*Personal Settings System Feedback Styles*/
 .EXLMyAccountMainContainer div.EXLMyPersonalSettings div.EXLRequestSystemFeedback { float:left; width:80%; border:1px solid #e1e1e1; margin:0.5em; text-align:center; background-color:#fffbc3}
-.EXLMyAccountMainContainer div.EXLMyPersonalSettings div.EXLRequestSystemFeedback span { padding:1em; display:block; background-image:url(images/bg_strip_system_feedback.png); background-repeat:repeat-x; background-position:bottom; color:#000000; font-weight:normal}
+.EXLMyAccountMainContainer div.EXLMyPersonalSettings div.EXLRequestSystemFeedback span { padding:1em; display:block; background-image:url(../images/bg_strip_system_feedback.png); background-repeat:repeat-x; background-position:bottom; color:#000000; font-weight:normal}
 
 
 .EXLMyAccountMainContainer div.EXLMyAccountEditLink { clear:left; font-size:90%; padding-top:2em;  margin-left:2%; font-weight:bold  }
 
 /*Tip Styles*/
-.EXLMyAccountMainContainer div.EXLMyAccountTips { float:right; width:35%; border:1px solid #e1e1e1; margin:0.5em 0em 1em 1em;background-image:url(images/bg_strip_details_links.png); background-repeat:repeat-x; background-position:bottom; height:auto; padding:0.5em 1em 0em 0.5em;   }
+.EXLMyAccountMainContainer div.EXLMyAccountTips { float:right; width:35%; border:1px solid #e1e1e1; margin:0.5em 0em 1em 1em;background-image:url(../images/bg_strip_details_links.png); background-repeat:repeat-x; background-position:bottom; height:auto; padding:0.5em 1em 0em 0.5em;   }
 .EXLMyAccountMainContainer div.EXLMyAccountTips em { padding-left:0.5em; font-size:90%}
 .EXLMyAccountMainContainer div.EXLMyAccountTips ul { height:100%; padding:0.5em 0em 1em 0.5em;    }
 .EXLMyAccountMainContainer div.EXLMyAccountTips li { list-style:none;padding-top:0px; padding-right:0px; font-size:90%; margin-bottom:1em; float:left; }
 .EXLMyAccountMainContainer div.EXLMyAccountTips li span.EXLMyAccountTipsBullet { padding:0px; margin:0px;
-background-image: url(images/bullet_arrow_orange_tip.png); background-repeat:no-repeat;width:15px; height:7px; float:left; display:block; clear:left; margin-top:5px;  }
+background-image: url(../images/bullet_arrow_orange_tip.png); background-repeat:no-repeat;width:15px; height:7px; float:left; display:block; clear:left; margin-top:5px;  }
 .EXLMyAccountMainContainer div.EXLMyAccountTips li span.EXLMyAccountTipsTitle  { width:90%; display:block; float:left}
 .EXLMyAccountFormContainer div.EXLMyAccountTips form { margin-bottom:1em; }
 .EXLMyAccountFormContainer div.EXLMyAccountTips form table { width:100%; padding:0em; margin:0em;}
@@ -1426,7 +1426,7 @@ background-image: url(images/bullet_arrow_orange_tip.png); background-repeat:no-
 .EXLMyAccountTabsRibbon div li.EXLMyAccountTab {border:1px solid #CCCCCC; border-bottom:0px;height:27px; text-align:center;  vertical-align:middle; cursor:pointer; float: left;padding-left:0.8em;padding-right:0.8em; margin-right:4px; color:#9B9B9B; }
 .EXLMyAccountTabsRibbon div li.EXLMyAccountTab a {color:#373737; font-size:80%  }
 .EXLMyAccountTabsRibbon div a:hover  { text-decoration:underline;}
-.EXLMyAccountTabsRibbon div li.EXLMyAccountSelectedTab{border:1px solid #f4762d; border-bottom:2px solid #f4762d;background-color:#f4762d;height:26px; text-align:center; font-weight:bold; vertical-align:middle; float: left;font-weight: bold;text-decoration: none;padding-left:0.8em; padding-right:0.8em;margin-right:4px; color:#ffffff;background-image:url(images/bg_strip_btn_orange.png); background-repeat:repeat-x; }
+.EXLMyAccountTabsRibbon div li.EXLMyAccountSelectedTab{border:1px solid #f4762d; border-bottom:2px solid #f4762d;background-color:#f4762d;height:26px; text-align:center; font-weight:bold; vertical-align:middle; float: left;font-weight: bold;text-decoration: none;padding-left:0.8em; padding-right:0.8em;margin-right:4px; color:#ffffff;background-image:url(../images/bg_strip_btn_orange.png); background-repeat:repeat-x; }
 .EXLMyAccountTabsRibbon div li.EXLMyAccountSelectedTab a{color: #ffffff; }
 .EXLMyAccountTabsRibbon div li.EXLMyAccountFirstTab {padding-left:0em;}
 .EXLMyAccountTabsRibbon div li.EXLMyAccountFirstSelectedTab {padding-left:0.5em;}
@@ -1447,32 +1447,32 @@ background-image: url(images/bullet_arrow_orange_tip.png); background-repeat:no-
 .front #exlidHomeContainer div.EXLHomeBlockContainer1 div.EXLContentBlock1 { width:auto; float:none; padding:0; margin:200px 0 20px 105px; position: absolute; top:0;}
 #exlidHomeContainer div.EXLHomeBlockContainer1 div.EXLContentBlock1 p{ width:100%;}
 #exlidHomeContainer div.EXLHomeBlockContainer1 div.EXLContentBlock1 p a{ display:block; line-height:170%}
-#exlidHomeContainer div.EXLHomeBlockContainer1 div.EXLContentBlock1 div.EXLHomeListsContainer{margin-top:1em; background-image:url(images/home_main_visual.jpg); background-position:0% 0%; background-repeat:no-repeat; width:35em; float:left; padding-top:9em; padding-left:0.5em}
+#exlidHomeContainer div.EXLHomeBlockContainer1 div.EXLContentBlock1 div.EXLHomeListsContainer{margin-top:1em; background-image:url(../images/home_main_visual.jpg); background-position:0% 0%; background-repeat:no-repeat; width:35em; float:left; padding-top:9em; padding-left:0.5em}
 #exlidHomeContainer div.EXLHomeBlockContainer1 div.EXLContentBlock1 div.EXLHomeListsContainer ul{ list-style:none }
 #exlidHomeContainer div.EXLHomeBlockContainer1 div.EXLContentBlock1 div.EXLHomeListsContainer li{ line-height:140% }
 #exlidHomeContainer div.EXLHomeBlockContainer1 div.EXLContentBlock1 div.EXLHomeTopicsContainer{ float:left;  }
 #exlidHomeContainer div.EXLHomeBlockContainer1 div.EXLContentBlock1 div.EXLHomeQuickLinksContainer{float:left; margin-left:5em;  }
 #exlidHomeContainer div.EXLHomeBlockContainer1 div.EXLContentBlock2 {  width:100%; float:left; margin-left:2em; padding-left:1em}
 #exlidHomeContainer div.EXLHomeBlockContainer1 div.EXLContentBlock2 div.EXLHomeNewsContainer ul{ list-style:none}
-#exlidHomeContainer div.EXLHomeBlockContainer1 div.EXLContentBlock2 div.EXLHomeNewsContainer li{ background-image:url(images/bullet_arrow_orange.png); background-repeat:no-repeat; background-position:0% 50%; text-indent:1em; line-height:150%}
+#exlidHomeContainer div.EXLHomeBlockContainer1 div.EXLContentBlock2 div.EXLHomeNewsContainer li{ background-image:url(../images/bullet_arrow_orange.png); background-repeat:no-repeat; background-position:0% 50%; text-indent:1em; line-height:150%}
 #exlidHomeContainer div.EXLHomeBlockContainer1 div.EXLContentBlock2 div.EXLHomeServicesContainer{ margin-top:1em}
 #exlidHomeContainer div.EXLHomeBlockContainer1 div.EXLContentBlock2 div.EXLHomeServicesContainer p a{ display:block; line-height:100%; margin-bottom:0.5em}
 #exlidHomeContainer div.EXLHomeBlockContainer2 div.EXLContentBlock3 {  width:auto; float:left; }
 #exlidHomeContainer div.EXLHomeBlockContainer2 div.EXLContentBlock4 {  width:auto; float:left;margin-left:2em}
 #exlidHomeContainer div.EXLContentBlock3 div.EXLHomeBannersContainer{ color:#777676; }
-#exlidHomeContainer div.EXLContentBlock3 div.EXLHomeBannerContainer1{ border:1px solid #cfcfcf; width:220px; height:92px; float:left; background-image:url(images/bg_strip_home_banners.png); background-repeat:repeat-x}
-#exlidHomeContainer div.EXLContentBlock3 div.EXLHomeBannerContainer2{ border:1px solid #cfcfcf; width:220px; height:92px; float:left;  margin-left:1em; background-image:url(images/bg_banner_home_tour.png); background-repeat: no-repeat}
+#exlidHomeContainer div.EXLContentBlock3 div.EXLHomeBannerContainer1{ border:1px solid #cfcfcf; width:220px; height:92px; float:left; background-image:url(../images/bg_strip_home_banners.png); background-repeat:repeat-x}
+#exlidHomeContainer div.EXLContentBlock3 div.EXLHomeBannerContainer2{ border:1px solid #cfcfcf; width:220px; height:92px; float:left;  margin-left:1em; background-image:url(../images/bg_banner_home_tour.png); background-repeat: no-repeat}
 #exlidHomeContainer div.EXLContentBlock3 h4{ padding-left:0.3em; padding-top:0.2em;}
 #exlidHomeContainer div.EXLContentBlock3 p{ padding-left:0.3em; line-height:120% }
 #exlidHomeContainer div.EXLContentBlock4 div.EXLHomeBannersContainer{ color:#777676; }
-#exlidHomeContainer div.EXLContentBlock4 div.EXLHomeBannerContainer1{ border:1px solid #cfcfcf; width:220px; height:92px; float:left; background-image: url(images/bg_banner_home_iPhone.png); background-repeat: no-repeat}
-#exlidHomeContainer div.EXLContentBlock4 div.EXLHomeBannerContainer2{ border:1px solid #cfcfcf; width:220px; height:92px; float:left; margin-left:1em; background-image: url(images/bg_banner_home_twitter.png); background-repeat: no-repeat}
+#exlidHomeContainer div.EXLContentBlock4 div.EXLHomeBannerContainer1{ border:1px solid #cfcfcf; width:220px; height:92px; float:left; background-image: url(../images/bg_banner_home_iPhone.png); background-repeat: no-repeat}
+#exlidHomeContainer div.EXLContentBlock4 div.EXLHomeBannerContainer2{ border:1px solid #cfcfcf; width:220px; height:92px; float:left; margin-left:1em; background-image: url(../images/bg_banner_home_twitter.png); background-repeat: no-repeat}
 #exlidHomeContainer div.EXLContentBlock4 h4{ padding-left:0.4em; padding-top:0.2em;}
 #exlidHomeContainer div.EXLContentBlock4 p{ padding-left:0.4em; line-height:120%;margin-right:5.5em;}
 
 /*Footer Styles*/
 
-.EXLFooterTile{height:100%; margin:0em 0em 0em 0em;  border:none; background-color: #ffffff;  font-size:80% ; display: inline-block; width:100%; background-image:url(images/bg_strip_footer.png); background-repeat:repeat-x;}
+.EXLFooterTile{height:100%; margin:0em 0em 0em 0em;  border:none; background-color: #ffffff;  font-size:80% ; display: inline-block; width:100%; background-image:url(../images/bg_strip_footer.png); background-repeat:repeat-x;}
 .EXLFooterTile div.EXLFooterLinksContainer { float:left; width:70%;}
 .EXLFooterTile div.EXLFooterUpdateContainer { float:right; width:auto; text-align:left;padding-top:1em; padding-right:1em}
 .EXLFooterTile div.EXLFooterUpdateContainer div.EXLFooterLastUpdate {color:#717478; font-weight:normal; }
@@ -1532,7 +1532,7 @@ background-image: url(images/bullet_arrow_orange_tip.png); background-repeat:no-
 	text-decoration: none;
 }
 .footer span.external {
-	background: url('images/external.gif') right no-repeat;
+	background: url('../images/external.gif') right no-repeat;
 }
 
 /* Please Wait styles*/
@@ -1554,14 +1554,14 @@ background-image: url(images/bullet_arrow_orange_tip.png); background-repeat:no-
 .EXLPleaseWaitHeader h1 { float:left; font-size:100%; color:#000000; line-height:300%; padding-left:1em}
 /*list*/
 .EXLPleaseWaitList { width:92%; margin-left:auto; margin-right:auto; color:#656b75; margin-top:2em; height:10em}
-.EXLPleaseWaitList li { border-bottom:1px solid #e4e5e9; line-height:normal; list-style:none; background-image:url(images/bullet_square_orange.png); background-repeat:no-repeat; background-position:2% 0.9em; display:block; float:left; width:100%; padding-top:0.4em;padding-bottom:0.5em}
+.EXLPleaseWaitList li { border-bottom:1px solid #e4e5e9; line-height:normal; list-style:none; background-image:url(../images/bullet_square_orange.png); background-repeat:no-repeat; background-position:2% 0.9em; display:block; float:left; width:100%; padding-top:0.4em;padding-bottom:0.5em}
 .EXLPleaseWaitList li.EXLPleaseWaitListFirstItem { border-top:1px solid #e4e5e9;}
 .EXLPleaseWaitList li span{ margin-left:1.5em; float:left; clear:both }
 .EXLPleaseWaitList li strong{ margin-left:0.5em; float:left;  line-height:130%; width:70%; clear:right; display:inline}
 /*progress bar*/
 .EXLPleaseWaitProgressBar{ width:64%; border:1px solid #d6d6d6; margin-left:auto; margin-right:auto; height:8px; padding:1px; display:block;clip:rect(50px, 250px, 100px, 50px);}
-.EXLPleaseWaitProgressBarContainer {width:100%; height:100%; background-image:url(images/bg_progress_bar_off.png); background-repeat:repeat-x; }
-.EXLPleaseWaitProgressBarFiller {width:0%;height:100%; background-image:url(images/bg_progress_bar_on.png); background-repeat:repeat-x;width:20%; /* change width from 0 to 100 to show progress*/
+.EXLPleaseWaitProgressBarContainer {width:100%; height:100%; background-image:url(../images/bg_progress_bar_off.png); background-repeat:repeat-x; }
+.EXLPleaseWaitProgressBarFiller {width:0%;height:100%; background-image:url(../images/bg_progress_bar_on.png); background-repeat:repeat-x;width:20%; /* change width from 0 to 100 to show progress*/
 background-color:#f15d3a;}
 
 /*suggested searches*/
@@ -1572,7 +1572,7 @@ background-color:#f15d3a;}
 .EXLSuggestedSearchesContainer h3{  color:#000000; font-weight:normal; font-size:80%; padding:0em; text-indent:0em; padding-left:1em; display:inline-block; line-height:100%; width:7em  }
 .EXLSuggestedSearchesContainer ol {  display:inline-block; padding-left:0.5em;}
 .EXLSuggestedSearchesContainer li a { text-indent:0em; margin-right:0.7em; padding-left:0.5em }
-.EXLSuggestedSearchesContainer ol li { margin-left:0em;padding:0em; font-size:80%; line-height:100%; color:#8C8D8C;list-style:none; display:inline;background-image: url(images/vseparator_sub_nav.png); background-repeat:no-repeat; background-position:right; margin-top:0.5em;}
+.EXLSuggestedSearchesContainer ol li { margin-left:0em;padding:0em; font-size:80%; line-height:100%; color:#8C8D8C;list-style:none; display:inline;background-image: url(../images/vseparator_sub_nav.png); background-repeat:no-repeat; background-position:right; margin-top:0.5em;}
 .EXLSuggestedSearchesDescription {display:none;/*display:block*/;font-size:0.8em;margin:7px;}
 
 /* lightbox styles - confirm delete request*/
@@ -1586,8 +1586,8 @@ background-color:#f15d3a;}
 .EXLLighboxConfirmContainer div.EXLLighboxConfirmLinkButtons { height:auto; width:80%; margin-top:2.5em}
 .EXLLighboxConfirmContainer div.EXLLighboxConfirmButtonLink {width:auto; font-size:90%; margin-left:1em; margin-right:auto; margin-top:0.5em; float:left; clear:right}
 .EXLLighboxConfirmContainer div.EXLLighboxConfirmButtonLink span {border:1px solid #7f9db9; display:block; width:80px; height:20px;  text-align:center; padding:1px; }
-.EXLLighboxConfirmContainer div.EXLLighboxConfirmButtonLink span input {padding:0em 0.5em 0em 0.5em; color:#FFFFFF; font-weight: normal;height:20px; cursor: pointer; background-image:url(images/bg_strip_btn_orange.png); background-repeat:repeat-x; display:block; line-height:160%; width:80px; background-color:#f88543;}
-.EXLLighboxConfirmContainer div.EXLLighboxConfirmButtonCancel span input {background-image:url(images/bg_strip_btn_grey.png);}
+.EXLLighboxConfirmContainer div.EXLLighboxConfirmButtonLink span input {padding:0em 0.5em 0em 0.5em; color:#FFFFFF; font-weight: normal;height:20px; cursor: pointer; background-image:url(../images/bg_strip_btn_orange.png); background-repeat:repeat-x; display:block; line-height:160%; width:80px; background-color:#f88543;}
+.EXLLighboxConfirmContainer div.EXLLighboxConfirmButtonCancel span input {background-image:url(../images/bg_strip_btn_grey.png);}
 .EXLLighboxConfirmContainer div.EXLLighboxConfirmButtonLink span input[disabled] {background-image:none; background-color:#d4d2d2; cursor:wait;}
 
 
@@ -1610,7 +1610,7 @@ background-color:#f15d3a;}
 .EXLFacetsLightboxHeader div.EXLFacetsLightboxHeaderButtons li a span.EXLFacetsLightboxHeaderButtonHelpLabel { display:inline  }
 .EXLFacetsLightboxHeader div.EXLFacetsLightboxHeaderButtons li a:hover span.EXLFacetsLightboxHeaderButtonHelpLabel { text-decoration:underline  }
 .EXLFacetsLightboxHeader div.EXLFacetsLightboxHeaderButtons li a span.EXLFacetsLightboxHeaderButtonHelp {background-image:none; background-position: center;border-right:1px solid #e1e1e1; }
-.EXLFacetsLightboxHeader div.EXLFacetsLightboxHeaderButtons li a span.EXLFacetsLightboxHeaderButtonClose {background-image: url(images/icon_close_tabs.png); background-position: center ;margin-left:0em}
+.EXLFacetsLightboxHeader div.EXLFacetsLightboxHeaderButtons li a span.EXLFacetsLightboxHeaderButtonClose {background-image: url(../images/icon_close_tabs.png); background-position: center ;margin-left:0em}
 
 /*submit buttons*/
 #exlidFacetsLightboxContainer div.EXLFacetsLightboxFieldRibbonFormResetSearch {float:left; display:inline; clear:right; border:1px solid #adb9c2; margin-left:0.5em; margin-top:1em; }
@@ -1692,7 +1692,7 @@ margin: auto; margin-top:11px; padding: 20px; width: 80%; background-color: #f0f
 
 /*expand location info*/
 .EXLLocationsTabContent div.EXLLocationList table.EXLLocationTable td.EXLShowInfo a {background-image:none; background-repeat:no-repeat; background-position:0% 10%; padding-left:0em; display:block; }
-.EXLLocationsTabContent div.EXLLocationList table.EXLLocationTable td.EXLHideInfo a {background-image:url(images/icon_locations_arrow_expand.png); background-repeat:no-repeat; background-position:0% 40%; padding-left:1.5em; }
+.EXLLocationsTabContent div.EXLLocationList table.EXLLocationTable td.EXLHideInfo a {background-image:url(../images/icon_locations_arrow_expand.png); background-repeat:no-repeat; background-position:0% 40%; padding-left:1.5em; }
 .EXLLocationsTabContent div.EXLLocationList table.EXLLocationTable td.EXLHideInfo ul {width:100%;display:block; padding-left:1.5em; padding-bottom:0.2em;  position:relative; position:static!ie;}
 .EXLLocationsTabContent div.EXLLocationList table.EXLLocationTable td.EXLHideInfo ul li {display:block; list-style-type:none;}
 .EXLLocationsTabContent div.EXLLocationList  table.EXLLocationTable td.EXLHideInfo ul li strong{ display:inline-block; width:10em;}
@@ -1709,17 +1709,17 @@ margin: auto; margin-top:11px; padding: 20px; width: 80%; background-color: #f0f
 
 /*Personalized Ranking Lightbox*/
 .EXLPersonalizedRanking {width:100%; left:0px; top:0px; position:absolute; z-index:2000; }
-.EXLLightbox{   border:1px solid #b8b8b8; height:auto;  padding:0em; margin:0em; -moz-border-radius-topleft:4px;   -moz-border-radius-topright:4px;-moz-border-radius: 4px;-webkit-border-radius: 4px;border-radius: 4px;background-color:#FFFFFF; background-image:url(images/lightbox_footer_bg.png); background-repeat:repeat-x; background-position:bottom; padding-bottom:1.5em;}
-.EXLLightbox div.EXLLightboxHeader { background-image:url(images/lightbox_bg_title.png); background-position:bottom; background-repeat:repeat-x; height:30px; border-bottom:1px solid #b8b8b8; -moz-border-radius-topleft:4px;   -moz-border-radius-topright:4px; }
+.EXLLightbox{   border:1px solid #b8b8b8; height:auto;  padding:0em; margin:0em; -moz-border-radius-topleft:4px;   -moz-border-radius-topright:4px;-moz-border-radius: 4px;-webkit-border-radius: 4px;border-radius: 4px;background-color:#FFFFFF; background-image:url(../images/lightbox_footer_bg.png); background-repeat:repeat-x; background-position:bottom; padding-bottom:1.5em;}
+.EXLLightbox div.EXLLightboxHeader { background-image:url(../images/lightbox_bg_title.png); background-position:bottom; background-repeat:repeat-x; height:30px; border-bottom:1px solid #b8b8b8; -moz-border-radius-topleft:4px;   -moz-border-radius-topright:4px; }
 .EXLLightbox div.EXLLightboxHeader span.EXLLightboxHeaderTitle {color:#000000; font-weight:bold; font-size:90%; line-height:210%; margin-left:1em; width:70%!ie; float:left!ie;}
 .EXLLightbox div.EXLLightboxHeader a.EXLLightboxHeaderClose { float:right; margin-right:1em;  margin-top:0.6em; clear:left!ie; display:inline!ie; width:10%!ie; text-align:right;!ie}
 .EXLLightbox div.EXLLightboxFormContainer { font-size:80%; padding-left:1em; margin-top:1em;}
-.EXLLightbox div.EXLLightboxFormContainer div.EXLLightboxHeader {background-image:url(images/lightbox_bg_title.png); background-position:bottom; background-repeat:repeat-x; height:30px; border-bottom:1px solid #b8b8b8; -moz-border-radius-topleft:4px;   -moz-border-radius-topright:4px;}
+.EXLLightbox div.EXLLightboxFormContainer div.EXLLightboxHeader {background-image:url(../images/lightbox_bg_title.png); background-position:bottom; background-repeat:repeat-x; height:30px; border-bottom:1px solid #b8b8b8; -moz-border-radius-topleft:4px;   -moz-border-radius-topright:4px;}
 .EXLLightbox div.EXLLightboxFormContainer div.EXLLightboxFormRow { vertical-align:top; padding-top:0.3em;padding-bottom:0.3em; display:block;background-color:#FFFFFF;}
 .EXLLightbox div.EXLLightboxFormContainer div.EXLLightboxFormRow label { width:10em; display:inline-block; white-space:normal; vertical-align:top;}
 .EXLLightbox div.EXLLightboxFormContainer p { background-color:#f1f1f1; padding:1.5em 1em 0.5em 0em; color:#7b7b79; font-size:90%;  background-color:#FFFFFF; }
-.EXLLightbox div.EXLLightboxFormContainer select{width:200px;padding:1px;color:#000;border:1px solid #c7c7c7;background-image:url(images/lightbox_footer_bg.png); background-repeat:repeat-x;margin-left:0em; font-family:Arial; font-size:90%;margin-top:0em;}
-.EXLLightbox div.EXLLightboxFormContainer  input[type="text"] {padding:2px 0px 2px 0px;color:#000;border:1px solid #c7c7c7;background-image:url(images/lightbox_footer_bg.png); background-repeat:repeat-x;margin-left:0em; width:198px; }
+.EXLLightbox div.EXLLightboxFormContainer select{width:200px;padding:1px;color:#000;border:1px solid #c7c7c7;background-image:url(../images/lightbox_footer_bg.png); background-repeat:repeat-x;margin-left:0em; font-family:Arial; font-size:90%;margin-top:0em;}
+.EXLLightbox div.EXLLightboxFormContainer  input[type="text"] {padding:2px 0px 2px 0px;color:#000;border:1px solid #c7c7c7;background-image:url(../images/lightbox_footer_bg.png); background-repeat:repeat-x;margin-left:0em; width:198px; }
 .EXLLightbox div.EXLLightboxFormContainer fieldset.EXLLightboxFormDisciplineSelection { margin-left:10.2em;border:1px solid #c7c7c7; padding:0.5em; width:44em; margin-top:-1em; }
 .EXLLightbox div.EXLLightboxFormContainer fieldset.EXLLightboxFormDisciplineSelection ul{ list-style:none; width:49%;  }
 .EXLLightbox div.EXLLightboxFormContainer fieldset.EXLLightboxFormDisciplineSelection .EXLLightboxFormDisciplineSelectionColumn1 { float:left; }
@@ -1733,14 +1733,14 @@ margin: auto; margin-top:11px; padding: 20px; width: 80%; background-color: #f0f
 .EXLLightboxFormButtons { margin-top:0.5em; }
 .EXLLighboxSubmitButton {width:auto; font-size:90%; margin-left:0em; margin-right:auto; margin-top:0.5em; float:left; clear:right}
 .EXLLighboxSubmitButton span {border:1px solid #7f9db9; display:block; width:80px; height:20px;  text-align:center; padding:1px; }
-.EXLLighboxSubmitButton span .EXLSubmit {padding:0em 0.5em 0em 0.5em; color:#FFFFFF; font-weight: normal;height:20px; cursor: pointer; background-image:url(bg_strip_btn_orange.png); background-repeat:repeat-x; display:block; line-height:160%; background-color:#f88543; cursor:poointer; text-decoration: none; }
-.EXLLighboxSubmitButton span input {padding:0em 0.5em 0em 0.5em; color:#FFFFFF; font-weight: normal;height:20px; cursor: pointer; background-image:url(bg_strip_btn_orange.png); background-repeat:repeat-x; display:block; line-height:160%; width:80px; background-color:#f88543; }
+.EXLLighboxSubmitButton span .EXLSubmit {padding:0em 0.5em 0em 0.5em; color:#FFFFFF; font-weight: normal;height:20px; cursor: pointer; background-image:url(../bg_strip_btn_orange.png); background-repeat:repeat-x; display:block; line-height:160%; background-color:#f88543; cursor:poointer; text-decoration: none; }
+.EXLLighboxSubmitButton span input {padding:0em 0.5em 0em 0.5em; color:#FFFFFF; font-weight: normal;height:20px; cursor: pointer; background-image:url(../bg_strip_btn_orange.png); background-repeat:repeat-x; display:block; line-height:160%; width:80px; background-color:#f88543; }
 .EXLLighboxCancelButton span {margin-left:0.5em; margin-left:0em!ie;}
-.EXLLighboxCancelButton span input {background-image:url(images/bg_strip_btn_grey.png);background-color:#f88543;}
+.EXLLighboxCancelButton span input {background-image:url(../images/bg_strip_btn_grey.png);background-color:#f88543;}
 .EXLLightboxFormButtonsLink {width:auto;font-weight:bold; float:right; line-height:150%; font-size:100%; margin-top:0.7em; margin-right:2.5em; }
 
 /*Personalized Ranking Styles My Account*/
-.EXLMyAccountMainContainer div.EXLMyAccountRanking { float:right;  width:35%; border:1px solid #e1e1e1; margin:0.5em 0em 1em 1em;background-image:url(images/bg_strip_details_links.png); background-repeat:repeat-x; background-position:bottom; height:auto; padding:0.5em 1em 0.5em 0.5em; }
+.EXLMyAccountMainContainer div.EXLMyAccountRanking { float:right;  width:35%; border:1px solid #e1e1e1; margin:0.5em 0em 1em 1em;background-image:url(../images/bg_strip_details_links.png); background-repeat:repeat-x; background-position:bottom; height:auto; padding:0.5em 1em 0.5em 0.5em; }
 .EXLMyAccountFormContainer div.EXLMyAccountRanking table { width:100%; padding:0em; margin:0em;}
 .EXLMyAccountFormContainer div.EXLMyAccountRanking strong { font-size:90%; color:#32322f; font-weight:bold; display:block; margin-bottom:0.5em;  }
 .EXLMyAccountFormContainer div.EXLMyAccountRanking tr { line-height:auto;}
@@ -1759,17 +1759,17 @@ margin: auto; margin-top:11px; padding: 20px; width: 80%; background-color: #f0f
 .EXLMyAccountMainContainer form select{ border:1px solid #7f9db9; height:auto;}
 .EXLMyAccountMainContainer form input{ border:1px solid #7f9db9; height:18px;width:15em}
 .EXLMyAccountMainContainer form span.submit { border:1px solid #7f9db9; display:inline-block; width:auto; height:22px; }
-.EXLMyAccountMainContainer form input.submit { background-color:#f15d3a; background-image:url(images/bg_strip_submit_temp.png); background-repeat:repeat-x;margin-left:0em; width:auto;  color:#FFFFFF; font-weight: normal;height:22px; cursor: pointer; border:1px solid #ffffff; padding-left:0.5em; padding-right:0.5em; }
+.EXLMyAccountMainContainer form input.submit { background-color:#f15d3a; background-image:url(../images/bg_strip_submit_temp.png); background-repeat:repeat-x;margin-left:0em; width:auto;  color:#FFFFFF; font-weight: normal;height:22px; cursor: pointer; border:1px solid #ffffff; padding-left:0.5em; padding-right:0.5em; }
 
 
 
 /*Tip Styles*/
-.EXLMyAccountMainContainer div.EXLMyAccountTips { float:right; width:35%; border:1px solid #e1e1e1; margin:0.5em 0em 1em 1em;background-image:url(images/bg_strip_details_links.png); background-repeat:repeat-x; background-position:bottom; height:auto; padding:0.5em 1em 0em 0.5em;  }
+.EXLMyAccountMainContainer div.EXLMyAccountTips { float:right; width:35%; border:1px solid #e1e1e1; margin:0.5em 0em 1em 1em;background-image:url(../images/bg_strip_details_links.png); background-repeat:repeat-x; background-position:bottom; height:auto; padding:0.5em 1em 0em 0.5em;  }
 .EXLMyAccountMainContainer div.EXLMyAccountTips em { padding-left:0.5em; font-size:90%}
 .EXLMyAccountMainContainer div.EXLMyAccountTips ul { height:100%; padding:0.5em 0em 1em 0.5em;    }
 .EXLMyAccountMainContainer div.EXLMyAccountTips li { list-style:none;padding-top:0px; padding-right:0px; font-size:90%; margin-bottom:1em; float:left; }
 .EXLMyAccountMainContainer div.EXLMyAccountTips li span.EXLMyAccountTipsBullet { padding:0px; margin:0px;
-background-image: url(images/bullet_arrow_orange_tip.png); background-repeat:no-repeat;width:15px; height:7px; float:left; display:block; clear:left; margin-top:5px;  }
+background-image: url(../images/bullet_arrow_orange_tip.png); background-repeat:no-repeat;width:15px; height:7px; float:left; display:block; clear:left; margin-top:5px;  }
 .EXLMyAccountMainContainer div.EXLMyAccountTips li span.EXLMyAccountTipsTitle  { width:90%; display:block; float:left}
 .EXLMyAccountFormContainer div.EXLMyAccountTips form { margin-bottom:1em; }
 .EXLMyAccountFormContainer div.EXLMyAccountTips form table { width:100%; padding:0em; margin:0em;}
