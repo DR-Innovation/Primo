@@ -61,3 +61,29 @@ $('img#removeFacet').each(function(){
   var newSrc = $(this).attr("src").replace("../images/icon_remove.png", "http://77.66.32.238/php/intern/arkiv/primo/images/close-x.png");
   $(this).attr("src", newSrc); 
 });
+
+$(function () {
+
+    var url = window.location.href;
+    // ADVANCED SEARCH
+    if(url.indexOf("/search.do") != -1)
+    {
+        if (getParameterByName("mode") == "Advanced")
+        {
+            // ADVANCED SEARCH CLEAR FREETEXT FIELD
+            $(".NEWSearchFieldRibbonNewSearchLink").empty();
+            $(".NEWSearchFieldRibbonNewSearchLink").html('<span style="position:relative;top:3px;"><a class="clearlinkAdv" href="javascript:clearadvtext()"></a></span>');
+        }
+    }
+});
+
+function clearadvtext() {
+    $("#input_freeText0").val("");
+}
+
+function getParameterByName(name) {
+    name = name.replace(/[\[]/, "\\\[").replace(/[\]]/, "\\\]");
+    var regex = new RegExp("[\\?&]" + name + "=([^&#]*)"),
+        results = regex.exec(location.search);
+    return results == null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
+}

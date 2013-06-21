@@ -1828,6 +1828,26 @@ a.clearlink:hover {
 	background-position: center center;
 }
 
+a.clearlinkAdv {
+	background: url("http://77.66.32.238/php/intern/arkiv/primo/images/nulstil.gif") no-repeat scroll transparent;
+	background-position: center center;
+	cursor: pointer;
+	display: -moz-inline-stack;
+	display: inline-block;
+	zoom:1;
+	*display:inline;	
+	height: 20px;
+	width: 20px;
+	z-index: 2000;
+	border: 0px solid;
+	margin: 6px 0 0 0;
+}
+a.clearlinkAdv:hover {
+	background: url("http://77.66.32.238/php/intern/arkiv/primo/images/nulstil-hover.gif") no-repeat scroll transparent;
+	background-position: center center;
+}
+
+
 #input_freeText0 {
 	background: url("http://77.66.32.238/php/intern/arkiv/primo/images/udv-soeg-large.gif") no-repeat !important;
 	width:615px !important;
