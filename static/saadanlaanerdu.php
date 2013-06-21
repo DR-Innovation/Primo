@@ -30,7 +30,7 @@ Adressen er: DR Arkiv & Research, opgang 2, 2. sal, DR Byen, 0999 København C.<
         
         <p><strong>Hvis du ønsker at låne noget, du ikke finder i BIBLIOTEKET, har du to muligheder</strong><br />
         1. Kontakt DR Arkiv & Research på mail <a href="mailto:3900@dr.dk">3900@dr.dk</a> eller på tlf. 3520 3900 på hverdage kl. 10-17. Så kan vi prøve at skaffe materialet fra et andet bibliotek.<br />
-        2. Foreslå indkøb</p>
+        2. <a href="http://77.66.32.238/php/intern/arkiv/primo/static/foreslaa.php">Foreslå indkøb</a></p>
 		
 	</div>
 	

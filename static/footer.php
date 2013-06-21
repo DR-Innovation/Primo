@@ -10,7 +10,7 @@
 				<span><a href="http://77.66.32.238/php/intern/arkiv/primo/static/retningslinjer.php">Retningslinjer for lån</a></span>
 				<span><a target="_blank" href="https://aleph-01.kb.dk/F/?func=file&file_name=bor-new&local_base=DRR50">Ny låner</a></span>
 				<span><a href="http://77.66.32.238/php/intern/arkiv/primo/static/soegetips.php">Søgetips</a></span>
-				<span><a href="http://77.66.32.238/php/intern/arkiv/primo/static/foreslaa.php" href="#">Foreslå indkøb</a></span>
+				<span><a href="http://77.66.32.238/php/intern/arkiv/primo/static/foreslaa.php">Foreslå indkøb</a></span>
 		</div>
 		<div class="box">
 			<h3>DR databaser</h3>

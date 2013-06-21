@@ -297,6 +297,9 @@
     <Compile Include="static\ingenhits.php">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="static\mailtest.php">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="static\ombiblioteket.php">
       <SubType>Code</SubType>
     </Compile>
