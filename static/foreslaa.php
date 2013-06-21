@@ -7,7 +7,6 @@ $thanksPage = ''; // URL to 'thanks for sending mail' page; leave empty to keep 
 $maxPoints = 4; // max points a person can hit before it refuses to submit - recommend 4
 $requiredFields = "name,email,comments"; // names of the fields you'd like to be required as a minimum, separate each field with a comma
 
-
 // DO NOT EDIT BELOW HERE
 $error_msg = null;
 $result = null;
@@ -130,10 +129,11 @@ function get_data($var) {
 
 <h1>Foreslå indkøb til BIBLIOTEKET</h1>
 <p>Synes du, der mangler materialer i BIBLIOTEKET, så vil vi gerne høre fra dig.<br />
-Udfyld nedenstående, så vurderer vi dit ønske og vender tilbage.</p>
+<!-- Udfyld nedenstående, så vurderer vi dit ønske og vender tilbage. --> </p>
 <p>Venlig hilsen<br />
 DR Arkiv &amp; Research<br />
-Telefon 3520 3900
+Telefon: 3520 3900<br />
+Mail: <a href="mailto:3900@dr.dk">3900@dr.dk</a><br /> 
 </p>
 <p>&nbsp;</p>
 
@@ -145,7 +145,7 @@ if ($result != NULL) {
 	echo '<p class="success">'. $result . "</p>";
 }
 ?>
-
+<?php /*
 <form action="<?php echo basename(__FILE__); ?>" method="post">
 <noscript>
 		<p><input type="hidden" name="nojs" id="nojs" /></p>
@@ -167,7 +167,9 @@ Min begrundelse for indkøb:
 Min eventuelle deadline for brug:</textarea>
 </p>
 <p>
-	<input type="submit" name="submit" id="submit" value="Send" <?php if (isset($disable) && $disable === true) echo ' disabled="disabled"'; ?> />
+
+	<input type="submit" name="submit" id="submit" value="Send" <?php if (isset($disable) && $disable === true) echo ' disabled="disabled"'; ?> />*/
+?>
 </p>
 </form>
 	
