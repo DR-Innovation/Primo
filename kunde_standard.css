@@ -1800,10 +1800,10 @@ background-image: url(images/bullet_arrow_orange_tip.png); background-repeat:no-
 
 /* DR Styles */
 .frontnews { margin:0 0 0 60px; padding: 40px 0 0 0; }
-.frontnewsbox1 { background:url(http://77.66.32.238/php/intern/arkiv/primo/images/spot/gyldendal.jpg) center; width:250px; height:260px; float:left; margin:0 20px 200px 0; border: 1px solid #6e6e6e; }
-.frontnewsbox2 { background:url(http://77.66.32.238/php/intern/arkiv/primo/images/spot/business-model-generation-foto.jpg) center; width:250px; height:260px; float:left; margin:0 20px 0 0; border: 1px solid #6e6e6e; }
+.frontnewsbox1 { background:url(http://77.66.32.238/php/intern/arkiv/primo/images/spot/faktalink.jpg) center; width:250px; height:260px; float:left; margin:0 20px 200px 0; border: 1px solid #6e6e6e; }
+.frontnewsbox2 { background:url(http://77.66.32.238/php/intern/arkiv/primo/images/spot/konkretbog_data.jpg) center; width:250px; height:260px; float:left; margin:0 20px 0 0; border: 1px solid #6e6e6e; }
 .frontnewsbox3 { background:url(http://77.66.32.238/php/intern/arkiv/primo/images/spot/tidsskrifter.jpg) center; width:250px; height:260px; float:left; border: 1px solid #6e6e6e; }
-.text { background:#6e6e6e; color:#fff; font-size:14px; font-weight:bold; padding:8px 10px 0 10px; width:230px; height:42px; float:left; margin:210px 0 0 0; opacity:0.9; filter:alpha(opacity=90); /* For IE8 and earlier */ }
+.text { background:#6e6e6e; color:#fff; font-size:14px; font-weight:bold; padding:8px 10px 0px 10px; width:230px; height:42px; float:left; margin:210px 0 0 0; opacity:0.9; filter:alpha(opacity=90); /* For IE8 and earlier */ }
 
 .divclearable {
 	

@@ -20,6 +20,12 @@
     <Content Include="browse.html">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="images\spot\faktalink.jpg">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="images\spot\konkretbog_data.jpg">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="kunde_standard_org.css">
       <SubType>Content</SubType>
     </Content>
