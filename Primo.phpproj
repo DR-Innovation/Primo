@@ -285,6 +285,9 @@
     <Folder Include="static\images\" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="mailformtest2.php">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="mailform.php">
       <SubType>Code</SubType>
     </Compile>
