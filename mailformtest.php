@@ -8,7 +8,6 @@ if (isset($_POST['submit']))
 // Process Form
 $Name = "Thomas";
 $email = $_POST['sender']; //senders e-mail adress 
-//$recipient = "tlynge@gmail.com"; //recipient 
 $recipient = $_POST['recipient']; //recipient 
 $mail_body = "The text for the mail..."; //mail body 
 $subject = $_POST['subject']; //subject 
