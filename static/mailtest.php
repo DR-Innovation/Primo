@@ -1,5 +1,5 @@
 <?php
-echo("Mail Test. ");
+echo("Mail Test... ");
 
 //$to = "thfl@dr.dk";
 //$subject = "Test mail";
@@ -10,8 +10,9 @@ echo("Mail Test. ");
 //echo "Mail Sent.";
 
 $Name = "Thomas";
-$email = "thfl@dr.dk"; //senders e-mail adress 
-$recipient = "tlynge@gmail.com"; //recipient 
+$email = "noreply@dr.dk"; //senders e-mail adress 
+//$recipient = "tlynge@gmail.com"; //recipient 
+$recipient = "thfl@dr.dk"; //recipient 
 $mail_body = "The text for the mail..."; //mail body 
 $subject = "Subject for reviever"; //subject 
 $header = "From: ". $Name . " <" . $email . ">\r\n"; //optional headerfields 

@@ -288,6 +288,9 @@
     <Compile Include="mailform.php">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="mailformtest.php">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="static\footer.php">
       <SubType>Code</SubType>
     </Compile>
