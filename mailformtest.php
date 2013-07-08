@@ -12,7 +12,7 @@ $recipient = $_POST['recipient']; //recipient
 $mail_body = "The text for the mail..."; //mail body 
 $subject = $_POST['subject']; //subject 
 $header = "From: ". $Name . " <" . $email . ">\r\n"; //optional headerfields 
-mail($recipient, $subject, $mail_body, $header); //mail command :) 
+mail($recipient, $subject, $mail_body, $header, '-f thfl@dr.dk'); //mail command :) 
 echo("Mail sent to ");
 echo($recipient);
 echo(" from ");
