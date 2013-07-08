@@ -99,7 +99,7 @@ if ($_SERVER['REQUEST_METHOD'] == "POST") {
 			$headers  .= "Reply-To: {$_POST['email']}";
 		}
 
-		if (mail($yourEmail,$subject,$message,$headers)) {
+		if (mail($yourEmail,$subject,$message,$headers, "-f ".$yourEmail)) {
 			if (!empty($thanksPage)) {
 				header("Location: $thanksPage");
 				exit;
@@ -129,7 +129,7 @@ function get_data($var) {
 
 <h1>Foreslå indkøb til BIBLIOTEKET</h1>
 <p>Synes du, der mangler materialer i BIBLIOTEKET, så vil vi gerne høre fra dig.<br />
-<!-- Udfyld nedenstående, så vurderer vi dit ønske og vender tilbage. --> </p>
+Udfyld nedenstående, så vurderer vi dit ønske og vender tilbage. </p>
 <p>Venlig hilsen<br />
 DR Arkiv &amp; Research<br />
 Telefon: 3520 3900<br />
@@ -145,7 +145,6 @@ if ($result != NULL) {
 	echo '<p class="success">'. $result . "</p>";
 }
 ?>
-<?php /*
 <form action="<?php echo basename(__FILE__); ?>" method="post">
 <noscript>
 		<p><input type="hidden" name="nojs" id="nojs" /></p>
@@ -168,8 +167,7 @@ Min eventuelle deadline for brug:</textarea>
 </p>
 <p>
 
-	<input type="submit" name="submit" id="submit" value="Send" <?php if (isset($disable) && $disable === true) echo ' disabled="disabled"'; ?> />*/
-?>
+	<input type="submit" name="submit" id="submit" value="Send" <?php if (isset($disable) && $disable === true) echo ' disabled="disabled"'; ?> />
 </p>
 </form>
 	
