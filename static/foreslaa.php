@@ -128,8 +128,8 @@ function get_data($var) {
 <div class="static mailform clearfix">
 
 <h1>Foreslå indkøb til BIBLIOTEKET</h1>
-<p>Synes du, der mangler materialer i BIBLIOTEKET, så vil vi gerne høre fra dig.<br />
-Udfyld nedenstående, så vurderer vi dit ønske og vender tilbage. </p>
+<p>Savner du en bog, tidsskrift eller andet til dit arbejde i DR?
+Udfyld nedenstående, så vurderer vi dit ønske og vender tilbage i løbet af to dage. </p>
 <p>Venlig hilsen<br />
 DR Arkiv &amp; Research<br />
 Telefon: 3520 3900<br />
