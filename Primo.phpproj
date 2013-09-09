@@ -26,6 +26,9 @@
     <Content Include="images\spot\konkretbog_data.jpg">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="images\spot\spot-1913.png">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="kunde_standard_org.css">
       <SubType>Content</SubType>
     </Content>
