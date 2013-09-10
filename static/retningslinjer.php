@@ -6,7 +6,7 @@
         
         <h1>Retningslinjer for lån</h1>
 		<p>Som DR-medarbejder er du, uanset ansættelsesforhold og ansættelsessted, velkommen til at bruge DR&rsquo;s bibliotek.</p>
-		<p>Du kan henvende dig i DR Arkiv &amp; Research, eller selv søge dit materiale frem i databasen BIBLIOTEKET.</p>
+		<p>Du kan henvende dig i DR Arkiv, eller selv søge dit materiale frem i databasen BIBLIOTEKET.</p>
 		<p>Materialerne er primært beregnet til arbejdsrelateret brug, fx til programproduktion.<BR>
 		  <BR>
 		</p>
@@ -22,7 +22,7 @@
 		<p>Håndbøgerne kan ikke lånes, men er til brug på stedet.</p>
 		<p>Udlånt materiale kan blive hjemkaldt før tid, hvis der opstår akut produktionsrettet behov hos anden DR-medarbejder.</p>
 		<p>Tre dage inden udlånstiden udløber, modtager man en påmindelse på mail. </p>
-		<p>Det er muligt at forlænge lån af materiale via BIBLIOTEKET eller ved henvendelse til DR Arkiv &amp; Research. Det kræver dog, at materialet ikke er reserveret til anden bruger. Det er også muligt at aftale langtidslån til bestemte produktioner.</p>
+		<p>Det er muligt at forlænge lån af materiale via BIBLIOTEKET eller ved henvendelse til DR Arkiv. Det kræver dog, at materialet ikke er reserveret til anden bruger. Det er også muligt at aftale langtidslån til bestemte produktioner.</p>
 		<p>Hvis materialet ikke er afleveret til tiden, sendes en rykkermail en uge efter afleveringsdatoen, og sidste rykkermail sendes efter yderligere en uge.</p>
 		<p>Hvis materialet ikke afleveres efter sidste rykker, modtager man en mail, hvor man vil blive bedt om selv at fremskaffe et erstatningseksemplar.</p>
 		<p>Det er brugerens eget ansvar at opbevare dokumentation for afleveret materiale i tre måneder efter aflevering.<BR>

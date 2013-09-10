@@ -11,8 +11,8 @@ Hvis du har lånt materiale i DR’s bibliotek efter den 1. januar 2010, er du a
 
         <p><strong>Når du er oprettet som låner, har du tre muligheder for at låne fra DR’s biblioteks egen samling</strong><br />
         1. Du kan døgnet rundt søge efter materiale i BIBLIOTEKET og bestille eller reservere det.<br />
-        2. Du kan besøge DR’s bibliotek på hverdage kl. 9-17. Her kan du både søge i BIBLIOTEKET selv finde bøger på hylderne, og få hjælp fra researcherne i DR Arkiv og Research.<br />
-        3. Du kan kontakte DR Arkiv & Research på mail <a href="mailto:3900@dr.dk">3900@dr.dk</a> eller på tlf. 3520 3900 på hverdage kl. 10-17.</p>
+        2. Du kan besøge DR’s bibliotek på hverdage kl. 9-17. Her kan du både søge i BIBLIOTEKET selv finde bøger på hylderne, og få hjælp fra researcherne i DR Arkiv.<br />
+        3. Du kan kontakte DR Arkiv på mail <a href="mailto:3900@dr.dk">3900@dr.dk</a> eller på tlf. 3520 3900 på hverdage kl. 10-17.</p>
         
         <p><strong>Hvis du har bestilt eller reserveret materiale, hører du fra os</strong><br />
         Arbejder du i DR Byen, får du en mail fra os om, at dit materiale kan afhentes i DR’s bibliotek.
@@ -26,10 +26,10 @@ Hvis du har lånt materiale i DR’s bibliotek efter den 1. januar 2010, er du a
         <p><strong>Sådan afleverer du</strong><br />
        Når du afleverer dit materiale, skal du selv registrere din aflevering på udlånscomputeren.
 Arbejder du i DR’s distrikter, returnerer du materialet til os med intern post.
-Adressen er: DR Arkiv & Research, opgang 2, 2. sal, DR Byen, 0999 København C.</p>
+Adressen er: DR Arkiv, opgang 2, 2. sal, DR Byen, 0999 København C.</p>
         
         <p><strong>Hvis du ønsker at låne noget, du ikke finder i BIBLIOTEKET, har du to muligheder</strong><br />
-        1. Kontakt DR Arkiv & Research på mail <a href="mailto:3900@dr.dk">3900@dr.dk</a> eller på tlf. 3520 3900 på hverdage kl. 10-17. Så kan vi prøve at skaffe materialet fra et andet bibliotek.<br />
+        1. Kontakt DR Arkiv på mail <a href="mailto:3900@dr.dk">3900@dr.dk</a> eller på tlf. 3520 3900 på hverdage kl. 10-17. Så kan vi prøve at skaffe materialet fra et andet bibliotek.<br />
         2. <a href="http://77.66.32.238/php/intern/arkiv/primo/static/foreslaa.php">Foreslå indkøb</a></p>
 		
 	</div>

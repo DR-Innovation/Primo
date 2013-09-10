@@ -13,12 +13,12 @@
       <p><BR>
       </p>
       <p><strong>Tidsskrifter<BR>
-      </strong>I BIBLIOTEKET kan du søge efter tidsskrifter. DR Arkiv &amp; Research har ca. 65 tidsskrifter i abonnement, samt en del tidsskifter, som er ophørt i abonnement, men hvor tidligere numre og årgange opbevares i magasin i DR&rsquo;s bibliotek. Ved at søge det enkelte tidsskrift frem, kan du få detaljeret oplysninger om beholdning og eventuel adgangskode til online version.</p>
-      <p>PÅ DRinde kan du se samlet oversigt over <A HREF="http://cmsil/Produktion/Faciliteter+og+ydelser/Arkiv+og+research/Tekst/20090109103005.htm">tidsskrifter</A>, som DR Arkiv &amp; Research abonnerer på, og som du kan komme ned og læse i DR&rsquo;s bibliotek.</p>
+      </strong>I BIBLIOTEKET kan du søge efter tidsskrifter. DR Arkiv har ca. 65 tidsskrifter i abonnement, samt en del tidsskifter, som er ophørt i abonnement, men hvor tidligere numre og årgange opbevares i magasin i DR&rsquo;s bibliotek. Ved at søge det enkelte tidsskrift frem, kan du få detaljeret oplysninger om beholdning og eventuel adgangskode til online version.</p>
+      <p>PÅ DRinde kan du se samlet oversigt over <A HREF="http://cmsil/Produktion/Faciliteter+og+ydelser/Arkiv+og+research/Tekst/20090109103005.htm">tidsskrifter</A>, som DR Arkiv abonnerer på, og som du kan komme ned og læse i DR&rsquo;s bibliotek.</p>
       <p><BR>
       </p>
       <p><strong>Aviser<BR>
-      </strong>DR Arkiv &amp; Research abonnerer på følgende aviser: Berlingske Tidende, B.T, Børsen, Ekstra Bladet, Information, Jyllands Posten, Kristeligt Dagblad, Politiken og Weekendavisen. I BIBLIOTEKET kan du søge den enkelte avis frem og få eventuel adgangskode til online version.</p>
+      </strong>DR Arkiv abonnerer på følgende aviser: Berlingske Tidende, B.T, Børsen, Ekstra Bladet, Information, Jyllands Posten, Kristeligt Dagblad, Politiken og Weekendavisen. I BIBLIOTEKET kan du søge den enkelte avis frem og få eventuel adgangskode til online version.</p>
       <p>Aviserne opbevares 3 måneder i DR&rsquo;s bibliotek, hvor du kan komme ned og læse dem.<BR>
         På DRinde kan du læses yderligere om vores <A HREF="http://cmsil/Produktion/Faciliteter+og+ydelser/Arkiv+og+research/Tekst/20090109103308.htm">avissamling</A>.</p>
       <p><strong><BR>

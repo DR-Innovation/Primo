@@ -20,6 +20,21 @@
     <Content Include="browse.html">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="images\logo\bibliotek_logo.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="images\logo\bibliotek_logo_login-781x80.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="images\logo\bibliotek_logo_trans.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="images\logo\bibliotek_top_opret-1700x100.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="images\logo\logo_org.png">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="images\spot\faktalink.jpg">
       <SubType>Content</SubType>
     </Content>
@@ -282,6 +297,7 @@
   <ItemGroup>
     <Folder Include="images\" />
     <Folder Include="images\icons\" />
+    <Folder Include="images\logo" />
     <Folder Include="images\spot\" />
     <Folder Include="static\" />
     <Folder Include="static\css\" />

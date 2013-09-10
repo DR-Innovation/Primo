@@ -131,7 +131,7 @@ function get_data($var) {
 <p>Savner du en bog, tidsskrift eller andet til dit arbejde i DR?
 Udfyld nedenstående, så vurderer vi dit ønske og vender tilbage i løbet af to dage. </p>
 <p>Venlig hilsen<br />
-DR Arkiv &amp; Research<br />
+DR Arkiv<br />
 Telefon: 3520 3900<br />
 Mail: <a href="mailto:3900@dr.dk">3900@dr.dk</a><br /> 
 </p>

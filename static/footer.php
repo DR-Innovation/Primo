@@ -38,7 +38,7 @@
 				<span><a target="_blank" href="http://cmsil/Produktion/Faciliteter%20og%20ydelser/Arkiv%20og%20research/Arkivperler/20110817094051.htm">Arkivperler <img src="http://77.66.32.238/php/intern/arkiv/primo/images/external.gif" alt=""></a></span>
 		</div>
 		<div class="box last">
-			<h3>Kontakt DR Arkiv & Research</h3>
+			<h3>Kontakt DR Arkiv</h3>
 			<p style="color: #f15e3a;">Har du brug for hjælp til research i radio, tv, foto, bøger og artikler:</p>
 
 			<p>Tlf: 3520 3900<br />

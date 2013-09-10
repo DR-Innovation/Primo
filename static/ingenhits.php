@@ -14,7 +14,7 @@
   		<a href="http://77.66.32.238/php/intern/arkiv/primo/static/soegetips.php">Se flere søgetips</a></p>
 	  <p>&nbsp;</p>
 	  <p><strong>Finder du stadig ikke, det du søger?<br />
-        </strong>Kontakt DR Arkiv &amp; Research på tlf. 3520 3900 eller mail <a href="mailto:3900@dr.dk">3900@dr.dk</a>, <br />
+        </strong>Kontakt DR Arkiv på tlf. 3520 3900 eller mail <a href="mailto:3900@dr.dk">3900@dr.dk</a>, <br />
       hvis du har brug for hjælp, eller vi skal prøve at skaffe materialet fra andet bibliotek.<strong></strong></p>
 	  <!-- <p>Foreslå indkøb af bog eller tidsskrift (link)</p> -->
 	  <p><strong>Du kan selv søge videre<br />
