@@ -20,6 +20,9 @@
     <Content Include="browse.html">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="images\logo.png">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="images\logo\bibliotek_logo.png">
       <SubType>Content</SubType>
     </Content>
@@ -158,7 +161,7 @@
     <Content Include="images\icons\ikon_tidsskrift-trans.png">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="images\logo.png">
+    <Content Include="images\logo_org.png">
       <SubType>Content</SubType>
     </Content>
     <Content Include="images\nav-arrow-left.gif">
@@ -272,7 +275,10 @@
     <Content Include="static\images\front-search-btn.gif">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="static\images\logo.gif">
+    <Content Include="static\images\logo_org.gif">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="static\images\logo.png">
       <SubType>Content</SubType>
     </Content>
     <Content Include="static\indhold.html">
