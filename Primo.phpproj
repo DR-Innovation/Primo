@@ -20,6 +20,9 @@
     <Content Include="browse.html">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="frontnewscarousel.js">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="images\logo.png">
       <SubType>Content</SubType>
     </Content>
