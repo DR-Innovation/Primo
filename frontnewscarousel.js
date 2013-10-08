@@ -1,5 +1,4 @@
 $(function() {
-    console.log(spots);
     $(".frontnews").html(
             frontnewsselector(1) +
             frontnewsselector(2) +
