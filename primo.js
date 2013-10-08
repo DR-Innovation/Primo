@@ -37,11 +37,14 @@ jQuery.fn.clearable = function() {
 // PRÆCISER SØGNING //
 
 $('label').removeClass('EXLHide').addClass('EXLnoHide'); // Sørger for at labels på præciser søgning bliver vist
-
 $("label[for='search_field']").remove(); // Sørger for at labels på præciser søgning bliver vist
 
-
 // Fjern elementer
+
+// Efter KB updatering i september 2013, hedder felterne det samme. Fjern nummer to:
+$("label[for='exlidInput_scope_1']:eq(1)").remove();
+$("label[for='exlidInput_mediaType_']:eq(1)").remove();
+$("label[for='exlidInput_publicationDate_']:eq(1)").remove();
 
 $("label[for='exlidInput_scope_all1']").remove();
 $("label[for='input_freeText0']").remove();
