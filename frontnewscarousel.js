@@ -42,49 +42,49 @@ var spots =
                         {
                             "text": "Værk om skolens historie fra senmiddelalderen til 2014",
                             "image": "http://77.66.32.238/php/intern/arkiv/primo/images/spot/1113/spot_laererne.png",
-                            "url": "https://ex07.dr.dk/owa/redir.aspx?C=h7bz9nvZcUWYY3LP3fE0jmLQw9g4r9AIMkiytTIoUhrL3vadqsOlFYd694z__DylqEK90PCCQis.&URL=http%3a%2f%2fprimo-17.kb.dk%2fprimo_library%2flibweb%2faction%2fsearch.do%3fdscnt%3d0%26scp.scps%3dscope%253A%2528DRR01%2529%26frbg%3d%26tab%3ddefault_tab%26dstmp%3d1383136384093%26srt%3drank%26ct%3dsearch%26mode%3dBasic%26dum%3dtrue%26indx%3d1%26vl(628594933UI1)%3dall_items%26vl(freeText0)%3ddansk%2520skolehistorie%2520OG%2520visioner%26fn%3dsearch%26vid%3dDRR",
+                            "url": "http://primo-17.kb.dk/primo_library/libweb/action/search.do?dscnt=1&scp.scps=scope%3A%28DRR01%29&frbg=&tab=default_tab&dstmp=1383826961047&srt=rank&ct=search&mode=Basic&dum=true&indx=1&vl(628594933UI1)=all_items&vl(freeText0)=dansk%20skolehistorie%20OG%20visioner&fn=search&vid=DRR&fromLogin=true",
                             "freq": [0, 1]
                         },
                         {
                             "text": "Hvid, heteroseksuel middelklassemand = en minoritet!",
                             "image": "http://77.66.32.238/php/intern/arkiv/primo/images/spot/1113/spot_mandens.png",
-                            "url": "https://ex07.dr.dk/owa/redir.aspx?C=h7bz9nvZcUWYY3LP3fE0jmLQw9g4r9AIMkiytTIoUhrL3vadqsOlFYd694z__DylqEK90PCCQis.&URL=http%3a%2f%2fprimo-17.kb.dk%2fprimo_library%2flibweb%2faction%2fsearch.do%3fdscnt%3d0%26scp.scps%3dscope%253A%2528DRR01%2529%26frbg%3d%26tab%3ddefault_tab%26dstmp%3d1383136523171%26srt%3drank%26ct%3dsearch%26mode%3dBasic%26dum%3dtrue%26indx%3d1%26vl(628594933UI1)%3dall_items%26vl(freeText0)%3dmandens%2520byrde%26fn%3dsearch%26vid%3dDRR",
+                            "url": "http://primo-17.kb.dk/primo_library/libweb/action/search.do?dscnt=0&scp.scps=scope%3A%28DRR01%29&frbg=&tab=default_tab&dstmp=1383136523171&srt=rank&ct=search&mode=Basic&dum=true&indx=1&vl(628594933UI1)=all_items&vl(freeText0)=mandens%20byrde&fn=search&vid=DRR",
                             "freq": [2, 2]
                         },
                         {
                             "text": "Hvorfor kåres danskerne tit som verden lykkeligste folk?",
                             "image": "http://77.66.32.238/php/intern/arkiv/primo/images/spot/1113/spot_lykkeligt.png",
-                            "url": "https://ex07.dr.dk/owa/redir.aspx?C=h7bz9nvZcUWYY3LP3fE0jmLQw9g4r9AIMkiytTIoUhrL3vadqsOlFYd694z__DylqEK90PCCQis.&URL=http%3a%2f%2fprimo-17.kb.dk%2fprimo_library%2flibweb%2faction%2fsearch.do%3fdscnt%3d0%26scp.scps%3dscope%253A%2528DRR01%2529%26frbg%3d%26tab%3ddefault_tab%26dstmp%3d1383136544913%26srt%3drank%26ct%3dsearch%26mode%3dBasic%26dum%3dtrue%26indx%3d1%26vl(628594933UI1)%3dall_items%26vl(freeText0)%3dder%2520er%2520et%2520lykkeligt%2520land%26fn%3dsearch%26vid%3dDRR",
+                            "url": "http://primo-17.kb.dk/primo_library/libweb/action/search.do?dscnt=0&scp.scps=scope%3A%28DRR01%29&frbg=&tab=default_tab&dstmp=1383136544913&srt=rank&ct=search&mode=Basic&dum=true&indx=1&vl(628594933UI1)=all_items&vl(freeText0)=der%20er%20et%20lykkeligt%20land&fn=search&vid=DRR",
                             "freq": [3, 3]
                         },
                         {
                             "text": "Hyldest til introvertes kvaliteter i en ekstrovert verden",
                             "image": "http://77.66.32.238/php/intern/arkiv/primo/images/spot/1113/spot_ro.png",
-                            "url": "https://ex07.dr.dk/owa/redir.aspx?C=h7bz9nvZcUWYY3LP3fE0jmLQw9g4r9AIMkiytTIoUhrL3vadqsOlFYd694z__DylqEK90PCCQis.&URL=http%3a%2f%2fprimo-17.kb.dk%2fprimo_library%2flibweb%2faction%2fsearch.do%3fdscnt%3d0%26scp.scps%3dscope%253A%2528DRR01%2529%26frbg%3d%26tab%3ddefault_tab%26dstmp%3d1383136819061%26srt%3drank%26ct%3dsearch%26mode%3dBasic%26dum%3dtrue%26indx%3d1%26vl(628594933UI1)%3dall_items%26vl(freeText0)%3dro%2520OG%2520cain%26fn%3dsearch%26vid%3dDRR",
+                            "url": "http://primo-17.kb.dk/primo_library/libweb/action/search.do?dscnt=0&scp.scps=scope%3A%28DRR01%29&frbg=&tab=default_tab&dstmp=1383136819061&srt=rank&ct=search&mode=Basic&dum=true&indx=1&vl(628594933UI1)=all_items&vl(freeText0)=ro%20OG%20cain&fn=search&vid=DRR",
                             "freq": [4, 4]
                         },
                         {
                             "text": "Selvbiografi om afhængighed, ensomhed og depression",
                             "image": "http://77.66.32.238/php/intern/arkiv/primo/images/spot/1113/spot_jes.png",
-                            "url": "https://ex07.dr.dk/owa/redir.aspx?C=h7bz9nvZcUWYY3LP3fE0jmLQw9g4r9AIMkiytTIoUhrL3vadqsOlFYd694z__DylqEK90PCCQis.&URL=http%3a%2f%2fprimo-17.kb.dk%2fprimo_library%2flibweb%2faction%2fsearch.do%3fdscnt%3d0%26scp.scps%3dscope%253A%2528DRR01%2529%26frbg%3d%26tab%3ddefault_tab%26dstmp%3d1383136644636%26srt%3drank%26ct%3dsearch%26mode%3dBasic%26dum%3dtrue%26indx%3d1%26vl(628594933UI1)%3dall_items%26vl(freeText0)%3ddorph%2520OG%2520side%2520OG%2520anden%2520OG%2520historier%26fn%3dsearch%26vid%3dDRR",
+                            "url": "http://primo-17.kb.dk/primo_library/libweb/action/search.do?dscnt=0&scp.scps=scope%3A%28DRR01%29&frbg=&tab=default_tab&dstmp=1383136644636&srt=rank&ct=search&mode=Basic&dum=true&indx=1&vl(628594933UI1)=all_items&vl(freeText0)=dorph%20OG%20side%20OG%20anden%20OG%20historier&fn=search&vid=DRR",
                             "freq": [5, 5]
                         },
                         {
                             "text": "Historien om TV2’s første<br/>25 år i mediebilledet.",
                             "image": "http://77.66.32.238/php/intern/arkiv/primo/images/spot/1113/spot_tv2.png",
-                            "url": "https://ex07.dr.dk/owa/redir.aspx?C=h7bz9nvZcUWYY3LP3fE0jmLQw9g4r9AIMkiytTIoUhrL3vadqsOlFYd694z__DylqEK90PCCQis.&URL=http%3a%2f%2fprimo-17.kb.dk%2fprimo_library%2flibweb%2faction%2fsearch.do%3fdscnt%3d0%26scp.scps%3dscope%253A%2528DRR01%2529%26frbg%3d%26tab%3ddefault_tab%26dstmp%3d1383136668689%26srt%3drank%26ct%3dsearch%26mode%3dBasic%26dum%3dtrue%26indx%3d1%26vl(628594933UI1)%3dall_items%26vl(freeText0)%3dtv%25202%2520OG%2520funder%26fn%3dsearch%26vid%3dDRR",
+                            "url": "http://primo-17.kb.dk/primo_library/libweb/action/search.do?dscnt=0&scp.scps=scope%3A%28DRR01%29&frbg=&tab=default_tab&dstmp=1383136668689&srt=rank&ct=search&mode=Basic&dum=true&indx=1&vl(628594933UI1)=all_items&vl(freeText0)=tv%202%20OG%20funder&fn=search&vid=DRR",
                             "freq": [6, 7]
                         },
                         {
                             "text": "Hvordan leder man de såkaldte<br/>primadonnamedarbejdere",
                             "image": "http://77.66.32.238/php/intern/arkiv/primo/images/spot/1113/spot_primadonna.png",
-                            "url": "https://ex07.dr.dk/owa/redir.aspx?C=h7bz9nvZcUWYY3LP3fE0jmLQw9g4r9AIMkiytTIoUhrL3vadqsOlFYd694z__DylqEK90PCCQis.&URL=http%3a%2f%2fprimo-17.kb.dk%2fprimo_library%2flibweb%2faction%2fsearch.do%3fdscnt%3d0%26scp.scps%3dscope%253A%2528DRR01%2529%26frbg%3d%26tab%3ddefault_tab%26dstmp%3d1383136693493%26srt%3drank%26ct%3dsearch%26mode%3dBasic%26dum%3dtrue%26indx%3d1%26vl(628594933UI1)%3dall_items%26vl(freeText0)%3dprimadonnaledelse%26fn%3dsearch%26vid%3dDRR",
+                            "url": "http://primo-17.kb.dk/primo_library/libweb/action/search.do?dscnt=0&scp.scps=scope%3A%28DRR01%29&frbg=&tab=default_tab&dstmp=1383136693493&srt=rank&ct=search&mode=Basic&dum=true&indx=1&vl(628594933UI1)=all_items&vl(freeText0)=primadonnaledelse&fn=search&vid=DRR",
                             "freq": [8, 8]
                         },
                         {
                             "text": "En barsk og fascinerende historie<br/>om en hård barndom",
                             "image": "http://77.66.32.238/php/intern/arkiv/primo/images/spot/1113/spot_forbandede.png",
-                            "url": "https://ex07.dr.dk/owa/redir.aspx?C=h7bz9nvZcUWYY3LP3fE0jmLQw9g4r9AIMkiytTIoUhrL3vadqsOlFYd694z__DylqEK90PCCQis.&URL=http%3a%2f%2fprimo-17.kb.dk%2fprimo_library%2flibweb%2faction%2fsearch.do%3fdscnt%3d0%26scp.scps%3dscope%253A%2528DRR01%2529%26frbg%3d%26tab%3ddefault_tab%26dstmp%3d1383136714623%26srt%3drank%26ct%3dsearch%26mode%3dBasic%26dum%3dtrue%26indx%3d1%26vl(628594933UI1)%3dall_items%26vl(freeText0)%3dforbandede%2520yngel%26fn%3dsearch%26vid%3dDRR",
+                            "url": "http://primo-17.kb.dk/primo_library/libweb/action/search.do?dscnt=0&scp.scps=scope%3A%28DRR01%29&frbg=&tab=default_tab&dstmp=1383136714623&srt=rank&ct=search&mode=Basic&dum=true&indx=1&vl(628594933UI1)=all_items&vl(freeText0)=forbandede%20yngel&fn=search&vid=DRR",
                             "freq": [9, 10]
                         }
                     ],
