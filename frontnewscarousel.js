@@ -46,7 +46,7 @@ var spots =
                             "freq": [0, 1]
                         },
                         {
-                            "text": "Hvid, heteroseksuel middelklassemand = en minoritet!",
+                            "text": "Hvid, heteroseksuel middel-<br/>klassemand = en minoritet!",
                             "image": "http://77.66.32.238/php/intern/arkiv/primo/images/spot/1113/spot_mandens.png",
                             "url": "http://primo-17.kb.dk/primo_library/libweb/action/search.do?dscnt=0&scp.scps=scope%3A%28DRR01%29&frbg=&tab=default_tab&dstmp=1383136523171&srt=rank&ct=search&mode=Basic&dum=true&indx=1&vl(628594933UI1)=all_items&vl(freeText0)=mandens%20byrde&fn=search&vid=DRR",
                             "freq": [2, 2]
@@ -70,19 +70,19 @@ var spots =
                             "freq": [5, 5]
                         },
                         {
-                            "text": "Historien om TV2’s første<br/>25 år i mediebilledet.",
+                            "text": "Historien om TV2’s første 25 år i mediebilledet.",
                             "image": "http://77.66.32.238/php/intern/arkiv/primo/images/spot/1113/spot_tv2.png",
                             "url": "http://primo-17.kb.dk/primo_library/libweb/action/search.do?dscnt=0&scp.scps=scope%3A%28DRR01%29&frbg=&tab=default_tab&dstmp=1383136668689&srt=rank&ct=search&mode=Basic&dum=true&indx=1&vl(628594933UI1)=all_items&vl(freeText0)=tv%202%20OG%20funder&fn=search&vid=DRR",
                             "freq": [6, 7]
                         },
                         {
-                            "text": "Hvordan leder man de såkaldte<br/>primadonnamedarbejdere",
+                            "text": "Hvordan leder man de såkaldte primadonnamedarbejdere",
                             "image": "http://77.66.32.238/php/intern/arkiv/primo/images/spot/1113/spot_primadonna.png",
                             "url": "http://primo-17.kb.dk/primo_library/libweb/action/search.do?dscnt=0&scp.scps=scope%3A%28DRR01%29&frbg=&tab=default_tab&dstmp=1383136693493&srt=rank&ct=search&mode=Basic&dum=true&indx=1&vl(628594933UI1)=all_items&vl(freeText0)=primadonnaledelse&fn=search&vid=DRR",
                             "freq": [8, 8]
                         },
                         {
-                            "text": "En barsk og fascinerende historie<br/>om en hård barndom",
+                            "text": "En barsk og fascinerende historie om en hård barndom",
                             "image": "http://77.66.32.238/php/intern/arkiv/primo/images/spot/1113/spot_forbandede.png",
                             "url": "http://primo-17.kb.dk/primo_library/libweb/action/search.do?dscnt=0&scp.scps=scope%3A%28DRR01%29&frbg=&tab=default_tab&dstmp=1383136714623&srt=rank&ct=search&mode=Basic&dum=true&indx=1&vl(628594933UI1)=all_items&vl(freeText0)=forbandede%20yngel&fn=search&vid=DRR",
                             "freq": [9, 10]
