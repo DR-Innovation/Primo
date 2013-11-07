@@ -1,0 +1,34 @@
+﻿<!doctype html>
+<html>
+<head>
+    <title></title>
+    <meta charset="utf-8" />
+    <link rel="shortcut icon" href="/favicon.ico" />
+    <style>
+        body  {background:url(images/header-bg.gif) repeat-x; color:#32322f; margin:0px;padding:0px;font-family:Arial,verdana;font-size:100%; height:100%; min-width:990px;}
+    </style>
+</head>
+<body>
+
+    <div class="">
+        <div style="margin: 0 0 0 60px; padding: 40px 0 0 0;">
+            <div style="background: url(../images/spot/1113/spot_ro.png) center; width: 250px; height: 260px; border: 1px solid #6e6e6e;">
+                <div style="background:#6e6e6e; color:#fff; font-size:14px; font-weight:bold; padding:8px 10px 0px 10px; width:230px; height:42px; float:left; margin:210px 0 0 0; opacity:0.9; filter:alpha(opacity=90);"><span id="line1">Linie 1</span><br /><span id="line2">Linie 2</span></div>
+            </div>
+        </div>
+    </div>
+    <div style="margin-left:68px;margin-top:40px;">
+        <span>Spot tekst:</span><br />
+        <input type="text" style="width:488px;font-family:Arial,verdana; font-size:14px; font-weight:bold;" id="line1t" /><br />
+        <span><br />Udfyld kun linie 2 hvis du selv vil styre tekstombrydning:</span><br />
+        <input type="text" style="width:244px;font-family:Arial,verdana; font-size:14px; font-weight:bold;" id="line2t" /><br />
+        <input style="margin-top:20px;" type="button" onclick="insertlines()" value="Indsæt" />
+    </div>
+    <script>
+        function insertlines() {
+            document.getElementById("line1").innerHTML = document.getElementById("line1t").value;
+            document.getElementById("line2").innerHTML = document.getElementById("line2t").value;
+        }
+    </script>
+</body>
+</html>

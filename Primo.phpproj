@@ -9,6 +9,7 @@
     <!-- important to be opened by PHP Tools, when also Phalanger Tools are installed -->
     <ProjectTypeGuids>{A0786B88-2ADB-4C21-ABE8-AA2D79766269}</ProjectTypeGuids>
     <AssemblyName>Primo</AssemblyName>
+    <IISProjectUrl>http://localhost:15758/</IISProjectUrl>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <IncludeDebugInformation>true</IncludeDebugInformation>
@@ -39,6 +40,33 @@
       <SubType>Content</SubType>
     </Content>
     <Content Include="images\logo\logo_org.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="images\spot\1113\spot_forbandede.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="images\spot\1113\spot_jes.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="images\spot\1113\spot_laererne.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="images\spot\1113\spot_lykkeligt.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="images\spot\1113\spot_mandens.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="images\spot\1113\spot_primadonna.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="images\spot\1113\spot_ro.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="images\spot\1113\spot_tv2.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="images\spot\1113\Thumbs.db">
       <SubType>Content</SubType>
     </Content>
     <Content Include="images\spot\faktalink.jpg">
@@ -257,6 +285,9 @@
     <Content Include="singin.html">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="spot\index.html">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="static\0hits.html">
       <SubType>Content</SubType>
     </Content>
@@ -311,6 +342,8 @@
     <Folder Include="images\icons\" />
     <Folder Include="images\logo" />
     <Folder Include="images\spot\" />
+    <Folder Include="images\spot\1113" />
+    <Folder Include="spot" />
     <Folder Include="static\" />
     <Folder Include="static\css\" />
     <Folder Include="static\images\" />
