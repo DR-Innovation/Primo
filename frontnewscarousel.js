@@ -1,4 +1,4 @@
-$(function () {
+﻿$(function () {
     $(".frontnews").html(
             frontnewsselector(1) +
             frontnewsselector(2) +
@@ -27,65 +27,65 @@ var spots =
                     ],
             spot2:
                     [
-                        //{
-                        //    "text": "For research i Altinget.dk<br>skriv til DR Arkiv her",
-                        //    "image": "http://77.66.32.238/php/intern/arkiv/primo/images/spot/spot_altinget.png",
-                        //    "url": "mailto:3900@dr.dk?subject=Jeg%20vil%20vide%20mere%20om%20research%20i%20Altinget.dk&body=Hej%203900!%0D%0A%0D%0AJeg%20vil%20gerne%20vide%20mere%20om%20hvordan%20jeg%20kan%20bruge%20Altinget.dk.%0D%0AJeg%20skriver%20lidt%20om%20hvad%20der%20interesserer%20mig:%0D%0A",
-                        //    "freq": [0,5]
-                        //},
-                        //{
-                        //    "text": "Historien om et utroligt år, hvor<br />alt synes at spire og springe ud",
-                        //    "image": "http://77.66.32.238/php/intern/arkiv/primo/images/spot/250x260_1913.png",
-                        //    "url": "http://primo-17.kb.dk/primo_library/libweb/action/search.do?dscnt=0&scp.scps=scope%3A%28DRR01%29&frbg=&tab=default_tab&dstmp=1378452000872&srt=rank&ct=search&mode=Basic&dum=true&indx=1&vl(628594933UI1)=all_items&vl(freeText0)=sommer%20og%201913&fn=search&vid=DRR",
-                        //    "freq": [6,10]
-                        //}
                         {
-                            "text": "Værk om skolens historie fra senmiddelalderen til 2014",
-                            "image": "http://77.66.32.238/php/intern/arkiv/primo/images/spot/1113/spot_laererne.png",
-                            "url": "http://primo-17.kb.dk/primo_library/libweb/action/search.do?dscnt=1&scp.scps=scope%3A%28DRR01%29&frbg=&tab=default_tab&dstmp=1383826961047&srt=rank&ct=search&mode=Basic&dum=true&indx=1&vl(628594933UI1)=all_items&vl(freeText0)=dansk%20skolehistorie%20OG%20visioner&fn=search&vid=DRR&fromLogin=true",
+                            "text": "Debutdigtsamling om opvækst med vold, svigt og kriminalitet",
+                            "image": "http://77.66.32.238/php/intern/arkiv/primo/images/spot/1213/spot_yahya.png",
+                            "url": "http://primo-17.kb.dk/primo_library/libweb/action/search.do?dscnt=0&scp.scps=scope%3A%28DRR01%29&frbg=&tab=default_tab&dstmp=1385560997837&srt=rank&ct=search&mode=Basic&dum=true&indx=1&vl(628594933UI1)=all_items&vl(freeText0)=yahya%20hassan&fn=search&vid=DRR",
                             "freq": [0, 1]
                         },
                         {
-                            "text": "Hvid, heteroseksuel middel-<br/>klassemand = en minoritet!",
-                            "image": "http://77.66.32.238/php/intern/arkiv/primo/images/spot/1113/spot_mandens.png",
-                            "url": "http://primo-17.kb.dk/primo_library/libweb/action/search.do?dscnt=0&scp.scps=scope%3A%28DRR01%29&frbg=&tab=default_tab&dstmp=1383136523171&srt=rank&ct=search&mode=Basic&dum=true&indx=1&vl(628594933UI1)=all_items&vl(freeText0)=mandens%20byrde&fn=search&vid=DRR",
+                            "text": "Tilbageblik på danske kvinder og deres særlige bedrifter",
+                            "image": "http://77.66.32.238/php/intern/arkiv/primo/images/spot/1213/spot-kvinder.png",
+                            "url": "http://primo-17.kb.dk/primo_library/libweb/action/search.do?dscnt=0&scp.scps=scope%3A%28DRR01%29&frbg=&tab=default_tab&dstmp=1385561280694&srt=rank&ct=search&mode=Basic&dum=true&indx=1&vl(628594933UI1)=all_items&vl(freeText0)=kvinder%20der%20forandrede%20danmark&fn=search&vid=DRR",
                             "freq": [2, 2]
                         },
-                        {
-                            "text": "Hvorfor kåres danskerne tit som verden lykkeligste folk?",
-                            "image": "http://77.66.32.238/php/intern/arkiv/primo/images/spot/1113/spot_lykkeligt.png",
-                            "url": "http://primo-17.kb.dk/primo_library/libweb/action/search.do?dscnt=0&scp.scps=scope%3A%28DRR01%29&frbg=&tab=default_tab&dstmp=1383136544913&srt=rank&ct=search&mode=Basic&dum=true&indx=1&vl(628594933UI1)=all_items&vl(freeText0)=der%20er%20et%20lykkeligt%20land&fn=search&vid=DRR",
+						{
+                            "text": "Detektiv på sag om selvmord i Londons bedre kredse",
+                            "image": "http://77.66.32.238/php/intern/arkiv/primo/images/spot/1213/spot_goegen.png",
+                            "url": "http://primo-17.kb.dk/primo_library/libweb/action/search.do?dscnt=0&scp.scps=scope%3A%28DRR01%29&frbg=&tab=default_tab&dstmp=1385561022696&srt=rank&ct=search&mode=Basic&dum=true&indx=1&vl(628594933UI1)=all_items&vl(freeText0)=g%C3%B8gens&fn=search&vid=DRR",
                             "freq": [3, 3]
                         },
-                        {
-                            "text": "Hyldest til introvertes kvaliteter i en ekstrovert verden",
-                            "image": "http://77.66.32.238/php/intern/arkiv/primo/images/spot/1113/spot_ro.png",
-                            "url": "http://primo-17.kb.dk/primo_library/libweb/action/search.do?dscnt=0&scp.scps=scope%3A%28DRR01%29&frbg=&tab=default_tab&dstmp=1383136819061&srt=rank&ct=search&mode=Basic&dum=true&indx=1&vl(628594933UI1)=all_items&vl(freeText0)=ro%20OG%20cain&fn=search&vid=DRR",
+						{
+                            "text": "Brügger fortæller om nogle af sine journalistiske rævestreger",
+                            "image": "http://77.66.32.238/php/intern/arkiv/primo/images/spot/1213/spot_klovnekrigen.png",
+                            "url": "http://primo-17.kb.dk/primo_library/libweb/action/search.do?dscnt=0&scp.scps=scope%3A%28DRR01%29&frbg=&tab=default_tab&dstmp=1385561186036&srt=rank&ct=search&mode=Basic&dum=true&indx=1&vl(628594933UI1)=all_items&vl(freeText0)=klovnekrigen&fn=search&vid=DRR",
                             "freq": [4, 4]
                         },
-                        {
-                            "text": "Selvbiografi om afhængighed, ensomhed og depression",
-                            "image": "http://77.66.32.238/php/intern/arkiv/primo/images/spot/1113/spot_jes.png",
-                            "url": "http://primo-17.kb.dk/primo_library/libweb/action/search.do?dscnt=0&scp.scps=scope%3A%28DRR01%29&frbg=&tab=default_tab&dstmp=1383136644636&srt=rank&ct=search&mode=Basic&dum=true&indx=1&vl(628594933UI1)=all_items&vl(freeText0)=dorph%20OG%20side%20OG%20anden%20OG%20historier&fn=search&vid=DRR",
+						{
+                            "text": "Skaberen af Dating.dk fortæller om sit eget forhold til kærlighed",
+                            "image": "http://77.66.32.238/php/intern/arkiv/primo/images/spot/1213/spot_dating-kongen.png",
+                            "url": "http://primo-17.kb.dk/primo_library/libweb/action/search.do?dscnt=0&scp.scps=scope%3A%28DRR01%29&frbg=&tab=default_tab&dstmp=1385561327596&srt=rank&ct=search&mode=Basic&dum=true&indx=1&vl(628594933UI1)=all_items&vl(freeText0)=datingkongen&fn=search&vid=DRR",
                             "freq": [5, 5]
                         },
-                        {
-                            "text": "Historien om TV2’s første 25 år i mediebilledet.",
-                            "image": "http://77.66.32.238/php/intern/arkiv/primo/images/spot/1113/spot_tv2.png",
-                            "url": "http://primo-17.kb.dk/primo_library/libweb/action/search.do?dscnt=0&scp.scps=scope%3A%28DRR01%29&frbg=&tab=default_tab&dstmp=1383136668689&srt=rank&ct=search&mode=Basic&dum=true&indx=1&vl(628594933UI1)=all_items&vl(freeText0)=tv%202%20OG%20funder&fn=search&vid=DRR",
-                            "freq": [6, 7]
+						{
+                            "text": "Breve fra Eik Skaløe til hans familie",
+                            "image": "http://77.66.32.238/php/intern/arkiv/primo/images/spot/1213/spot-breve.png",
+                            "url": "http://primo-17.kb.dk/primo_library/libweb/action/search.do?dscnt=0&scp.scps=scope%3A%28DRR01%29&frbg=&tab=default_tab&dstmp=1385561435370&srt=rank&ct=search&mode=Basic&dum=true&indx=1&vl(628594933UI1)=all_items&vl(freeText0)=r%C3%A5gummis%C3%A5ler&fn=search&vid=DRR",
+                            "freq": [6, 6]
                         },
-                        {
-                            "text": "Hvordan leder man de såkaldte primadonnamedarbejdere",
-                            "image": "http://77.66.32.238/php/intern/arkiv/primo/images/spot/1113/spot_primadonna.png",
-                            "url": "http://primo-17.kb.dk/primo_library/libweb/action/search.do?dscnt=0&scp.scps=scope%3A%28DRR01%29&frbg=&tab=default_tab&dstmp=1383136693493&srt=rank&ct=search&mode=Basic&dum=true&indx=1&vl(628594933UI1)=all_items&vl(freeText0)=primadonnaledelse&fn=search&vid=DRR",
+						{
+                            "text": "Om sammenhæng mellem tv og brugen af sociale medier",
+                            "image": "http://77.66.32.238/php/intern/arkiv/primo/images/spot/1213/spot_social-tv.png",
+                            "url": "http://primo-17.kb.dk/primo_library/libweb/action/search.do?dscnt=0&scp.scps=scope%3A%28DRR01%29&frbg=&tab=default_tab&dstmp=1385561591643&srt=rank&ct=search&mode=Basic&dum=true&indx=1&vl(628594933UI1)=all_items&vl(freeText0)=social%20tv%20engage&fn=search&vid=DRR",
+                            "freq": [7, 7]
+                        },
+						{
+                            "text": "Analyse af anvendelsen af locations i krimier",
+                            "image": "http://77.66.32.238/php/intern/arkiv/primo/images/spot/1213/spot_wallanderland.png",
+                            "url": "http://primo-17.kb.dk/primo_library/libweb/action/search.do?dscnt=0&scp.scps=scope%3A%28DRR01%29&frbg=&tab=default_tab&dstmp=1385561486327&srt=rank&ct=search&mode=Basic&dum=true&indx=1&vl(628594933UI1)=all_items&vl(freeText0)=medieturisme&fn=search&vid=DRR",
                             "freq": [8, 8]
                         },
-                        {
-                            "text": "En barsk og fascinerende historie om en hård barndom",
-                            "image": "http://77.66.32.238/php/intern/arkiv/primo/images/spot/1113/spot_forbandede.png",
-                            "url": "http://primo-17.kb.dk/primo_library/libweb/action/search.do?dscnt=0&scp.scps=scope%3A%28DRR01%29&frbg=&tab=default_tab&dstmp=1383136714623&srt=rank&ct=search&mode=Basic&dum=true&indx=1&vl(628594933UI1)=all_items&vl(freeText0)=forbandede%20yngel&fn=search&vid=DRR",
-                            "freq": [9, 10]
+						{
+                            "text": "Fortælling om somaliske piraters gidselstagning af danske søfolk",
+                            "image": "http://77.66.32.238/php/intern/arkiv/primo/images/spot/1213/spot_det-beskidte-spil.png",
+                            "url": "http://primo-17.kb.dk/primo_library/libweb/action/search.do?dscnt=0&scp.scps=scope%3A%28DRR01%29&frbg=&tab=default_tab&dstmp=1385561746419&srt=rank&ct=search&mode=Basic&dum=true&indx=1&vl(628594933UI1)=all_items&vl(freeText0)=det%20beskidte%20spil&fn=search&vid=DRR",
+                            "freq": [9, 9]
+                        },
+						{
+                            "text": "Hvorfor er data så afgørende for virksomheders værdiskabelse?",
+                            "image": "http://77.66.32.238/php/intern/arkiv/primo/images/spot/1213/spot_data.png",
+                            "url": "http://primo-17.kb.dk/primo_library/libweb/action/search.do?dscnt=0&scp.scps=scope%3A%28DRR01%29&frbg=&tab=default_tab&dstmp=1385561907788&srt=rank&ct=search&mode=Basic&dum=true&indx=1&vl(628594933UI1)=all_items&vl(freeText0)=virksomhedens%20nye%20grundstof&fn=search&vid=DRR",
+                            "freq": [10, 10]
                         }
                     ],
             spot3:
