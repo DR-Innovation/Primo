@@ -28,7 +28,7 @@ var spots =
             spot2:
                     [
                         {
-                            "text": "Fotografisk billedværk der skildrer verdens kulturelle mangfoldighed",
+                            "text": "Fotobog der skildrer verdens kulturelle mangfoldighed",
                             "image": "http://77.66.32.238/php/intern/arkiv/primo/images/spot/0114/spot_100subkulturer.png",
                             "url": "http://primo-17.kb.dk/primo_library/libweb/action/search.do?dscnt=0&scp.scps=scope%3A%28DRR01%29&frbg=&tab=default_tab&dstmp=1389793740888&srt=rank&ct=search&mode=Basic&dum=true&indx=1&vl(628594933UI1)=all_items&vl(freeText0)=100%20subkulturer&fn=search&vid=DRR",
                             "freq": [0, 1]
@@ -46,19 +46,19 @@ var spots =
                             "freq": [4, 5]
                         },
                         {
-                            "text": "Bogen fortæller om børns opvækstvilkår gennem de sidste 200 år",
+                            "text": "Fortæller om børns opvækst-<br/>vilkår gennem de sidste 200 år",
                             "image": "http://77.66.32.238/php/intern/arkiv/primo/images/spot/0114/spot_barndommens.png",
                             "url": "http://primo-17.kb.dk/primo_library/libweb/action/search.do?dscnt=0&scp.scps=scope%3A%28DRR01%29&frbg=&tab=default_tab&dstmp=1389794362571&srt=rank&ct=search&mode=Basic&dum=true&indx=1&vl(628594933UI1)=all_items&vl(freeText0)=barndommens%20land%20OG%20b%C3%B8rneh%C3%B8jde&fn=search&vid=DRR",
                             "freq": [6, 6]
                         },
                         {
-                            "text": "Om tilblivelsesprocessen af nyere dansk tv-dramtik. bl.a. Borgen",
+                            "text": "Om tilblivelsesprocessen af nyere dansk tv-dramtik",
                             "image": "http://77.66.32.238/php/intern/arkiv/primo/images/spot/0114/spot_writing.png",
                             "url": "http://primo-17.kb.dk/primo_library/libweb/action/search.do?dscnt=0&scp.scps=scope%3A%28DRR01%29&frbg=&tab=default_tab&dstmp=1389794707751&srt=rank&ct=search&mode=Basic&dum=true&indx=1&vl(628594933UI1)=all_items&vl(freeText0)=writing%20and%20producing%20television&fn=search&vid=DRR",
                             "freq": [7, 7]
                         },
                         {
-                            "text": "Kronologisk fortælling om tv for børn og danske børneprogrammer",
+                            "text": "Kronologisk fortælling om danske børne-tv-programmer",
                             "image": "http://77.66.32.238/php/intern/arkiv/primo/images/spot/0114/spot_fjernsyn.png",
                             "url": "http://primo-17.kb.dk/primo_library/libweb/action/search.do?dscnt=0&scp.scps=scope%3A%28DRR01%29&frbg=&tab=default_tab&dstmp=1389795082526&srt=rank&ct=search&mode=Basic&dum=true&indx=1&vl(628594933UI1)=all_items&vl(freeText0)=fjernsyn%20for%20b%C3%B8rn%20vores&fn=search&vid=DRR",
                             "freq": [8, 8]
