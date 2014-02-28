@@ -27,54 +27,52 @@ var spots =
                     ],
             spot2:
                     [
-                        {
-                            "text": "Fotobog der skildrer verdens kulturelle mangfoldighed",
-                            "image": "http://77.66.32.238/php/intern/arkiv/primo/images/spot/0114/spot_100subkulturer.png",
-                            "url": "http://primo-17.kb.dk/primo_library/libweb/action/search.do?dscnt=0&scp.scps=scope%3A%28DRR01%29&frbg=&tab=default_tab&dstmp=1389793740888&srt=rank&ct=search&mode=Basic&dum=true&indx=1&vl(628594933UI1)=all_items&vl(freeText0)=100%20subkulturer&fn=search&vid=DRR",
+					
+					{
+                            "text": "Opskrifter til og gennemgang af 5:2-kurens principper",
+                            "image": "http://77.66.32.238/php/intern/arkiv/primo/images/spot/1402/spot_femto-kuren.png",
+                            "url": "http://primo-17.kb.dk/primo_library/libweb/action/search.do?dscnt=0&scp.scps=scope%3A%28DRR01%29&frbg=&tab=default_tab&dstmp=1392715396426&srt=rank&ct=search&mode=Basic&dum=true&indx=1&vl(628594933UI1)=all_items&vl(freeText0)=5%3A2%20kuren&fn=search&vid=DRR",
                             "freq": [0, 1]
                         },
-                        {
-                            "text": "Gennemgang af det kritiske interviews mål og spilleregler",
-                            "image": "http://77.66.32.238/php/intern/arkiv/primo/images/spot/0114/spot_detkritiske.png",
-                            "url": "http://primo-17.kb.dk/primo_library/libweb/action/search.do?dscnt=0&scp.scps=scope%3A%28DRR01%29&frbg=&tab=default_tab&dstmp=1389793939012&srt=rank&ct=search&mode=Basic&dum=true&indx=1&vl(628594933UI1)=all_items&vl(freeText0)=spilleregler%20og%20kritiske&fn=search&vid=DRR",
+					{
+                            "text": "Kvindelig lærer ser tilbage på sit forhold til en 16-årig elev",
+                            "image": "http://77.66.32.238/php/intern/arkiv/primo/images/spot/1402/spot_ord.png",
+                            "url": "http://primo-17.kb.dk/primo_library/libweb/action/search.do?dscnt=0&scp.scps=scope%3A%28DRR01%29&frbg=&tab=default_tab&dstmp=1392714605686&srt=rank&ct=search&mode=Basic&dum=true&indx=1&vl(628594933UI1)=all_items&vl(freeText0)=ord%20OG%20%C3%B8stergaard%20OG%20louise&fn=search&vid=DRR",
                             "freq": [2, 3]
                         },
-                        {
-                            "text": "Analyse af nogle af de mest skelsættende nyere tv-serier",
-                            "image": "http://77.66.32.238/php/intern/arkiv/primo/images/spot/0114/spot_50tvserier.png",
-                            "url": "http://primo-17.kb.dk/primo_library/libweb/action/search.do?dscnt=0&scp.scps=scope%3A%28DRR01%29&frbg=&tab=default_tab&dstmp=1389794125191&srt=rank&ct=search&mode=Basic&dum=true&indx=1&vl(628594933UI1)=all_items&vl(freeText0)=50%20tv-serier%20du%20skal%20se&fn=search&vid=DRR",
+					{
+                            "text": "Om Bellevue Teatrets historie fra opførelsen i 1936 til 2012",
+                            "image": "http://77.66.32.238/php/intern/arkiv/primo/images/spot/1402/spot_bellevue.png",
+                            "url": "http://primo-17.kb.dk/primo_library/libweb/action/search.do?dscnt=0&scp.scps=scope%3A%28DRR01%29&frbg=&tab=default_tab&dstmp=1392714047678&srt=rank&ct=search&mode=Basic&dum=true&indx=1&vl(628594933UI1)=all_items&vl(freeText0)=bellevue%20teatret&fn=search&vid=DRR",
                             "freq": [4, 5]
                         },
-                        {
-                            "text": "Fortæller om børns opvækst-<br/>vilkår gennem de sidste 200 år",
-                            "image": "http://77.66.32.238/php/intern/arkiv/primo/images/spot/0114/spot_barndommens.png",
-                            "url": "http://primo-17.kb.dk/primo_library/libweb/action/search.do?dscnt=0&scp.scps=scope%3A%28DRR01%29&frbg=&tab=default_tab&dstmp=1389794362571&srt=rank&ct=search&mode=Basic&dum=true&indx=1&vl(628594933UI1)=all_items&vl(freeText0)=barndommens%20land%20OG%20b%C3%B8rneh%C3%B8jde&fn=search&vid=DRR",
+					{
+                            "text": "Om kreativitetens betydning for Vestens civilisationshistorie",
+                            "image": "http://77.66.32.238/php/intern/arkiv/primo/images/spot/1402/spot_det-kreative-samfund.png",
+                            "url": "http://primo-17.kb.dk/primo_library/libweb/action/search.do?dscnt=0&scp.scps=scope%3A%28DRR01%29&frbg=&tab=default_tab&dstmp=1392713614832&srt=rank&ct=search&mode=Basic&dum=true&indx=1&vl(628594933UI1)=all_items&vl(freeText0)=kreative%20samfund%20og%20vesten&fn=search&vid=DRR",
                             "freq": [6, 6]
                         },
-                        {
-                            "text": "Om tilblivelsesprocessen af nyere dansk tv-dramtik",
-                            "image": "http://77.66.32.238/php/intern/arkiv/primo/images/spot/0114/spot_writing.png",
-                            "url": "http://primo-17.kb.dk/primo_library/libweb/action/search.do?dscnt=0&scp.scps=scope%3A%28DRR01%29&frbg=&tab=default_tab&dstmp=1389794707751&srt=rank&ct=search&mode=Basic&dum=true&indx=1&vl(628594933UI1)=all_items&vl(freeText0)=writing%20and%20producing%20television&fn=search&vid=DRR",
+					{
+                            "text": "Hvad er god debat – ud over at den skal være fri?",
+                            "image": "http://77.66.32.238/php/intern/arkiv/primo/images/spot/1402/spot_debatkultur.png",
+                            "url": "http://primo-17.kb.dk/primo_library/libweb/action/search.do?dscnt=0&scp.scps=scope%3A%28DRR01%29&frbg=&tab=default_tab&dstmp=1392713448834&srt=rank&ct=search&mode=Basic&dum=true&indx=1&vl(628594933UI1)=all_items&vl(freeText0)=debatkultur%20p%C3%A5%20nedtur&fn=search&vid=DRR",
                             "freq": [7, 7]
                         },
-                        {
-                            "text": "Kronologisk fortælling om danske børne-tv-programmer",
-                            "image": "http://77.66.32.238/php/intern/arkiv/primo/images/spot/0114/spot_fjernsyn.png",
-                            "url": "http://primo-17.kb.dk/primo_library/libweb/action/search.do?dscnt=0&scp.scps=scope%3A%28DRR01%29&frbg=&tab=default_tab&dstmp=1389795082526&srt=rank&ct=search&mode=Basic&dum=true&indx=1&vl(628594933UI1)=all_items&vl(freeText0)=fjernsyn%20for%20b%C3%B8rn%20vores&fn=search&vid=DRR",
+					{
+                            "text": "Insiderberetning om kammerat-skab i Socialdemokratiet",
+                            "image": "http://77.66.32.238/php/intern/arkiv/primo/images/spot/1402/spot_den-hemmelige-socialdemokrat.png",
+                            "url": "http://primo-17.kb.dk/primo_library/libweb/action/search.do?dscnt=0&scp.scps=scope%3A%28DRR01%29&frbg=&tab=default_tab&dstmp=1392712845297&srt=rank&ct=search&mode=Basic&dum=true&indx=1&vl(628594933UI1)=all_items&vl(freeText0)=hemmelige%20socialdemokrat&fn=search&vid=DRR",
                             "freq": [8, 8]
                         },
-                        {
-                            "text": "En Hvad-nu-hvis-roman med udgangspunkt i mordet på JFK",
-                            "image": "http://77.66.32.238/php/intern/arkiv/primo/images/spot/0114/spot_kennedy.png",
-                            "url": "http://primo-17.kb.dk/primo_library/libweb/action/search.do?dscnt=0&scp.scps=scope%3A%28DRR01%29&frbg=&tab=default_tab&dstmp=1389795319628&srt=rank&ct=search&mode=Basic&dum=true&indx=1&vl(628594933UI1)=all_items&vl(freeText0)=22.11.63&fn=search&vid=DRR",
-                            "freq": [9, 9]
-                        },
-                        {
-                            "text": "Opskrifter på diverse kager af konditor Mette Blomsterberg",
-                            "image": "http://77.66.32.238/php/intern/arkiv/primo/images/spot/0114/spot_blomsterbergs.png",
-                            "url": "http://primo-17.kb.dk/primo_library/libweb/action/search.do?dscnt=0&scp.scps=scope%3A%28DRR01%29&frbg=&tab=default_tab&dstmp=1389795445011&srt=rank&ct=search&mode=Basic&dum=true&indx=1&vl(628594933UI1)=all_items&vl(freeText0)=blomsterbergs%20sk%C3%B8nne&fn=search&vid=DRR",
-                            "freq": [10, 10]
-                        },
+					{
+                            "text": "Et pars kamp om forældre-myndighederne efter skilsmisse",
+                            "image": "http://77.66.32.238/php/intern/arkiv/primo/images/spot/1402/spot_anden-person-ental.png",
+                            "url": "http://primo-17.kb.dk/primo_library/libweb/action/search.do?dscnt=0&scp.scps=scope%3A%28DRR01%29&frbg=&tab=default_tab&dstmp=1392712623872&srt=rank&ct=search&mode=Basic&dum=true&indx=1&vl(628594933UI1)=all_items&vl(freeText0)=dencik%20og%20ental&fn=search&vid=DRR",
+                            "freq": [9, 10]
+                        }
+					
+					
+
                     ],
             spot3:
                     [
